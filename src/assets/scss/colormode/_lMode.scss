@@ -1,0 +1,12 @@
+@use "./../partials/_variables.scss" as *;
+
+body.light-mode {
+    background-color: $light2;
+    color: $txtlight;
+
+    #header {
+        background-color: $light3;
+        color: $bg_body2;
+    }
+
+}

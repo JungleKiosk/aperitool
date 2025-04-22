@@ -1,0 +1,20 @@
+@use "./_variables.scss" as *;
+
+#footer {
+  height: 400px;
+  color: $light;
+
+  .icon_social {
+    width: 10%;
+  }
+
+  ul li {
+    list-style: none;
+  }
+
+  @media (max-width: 786px) {
+    .icon_social {
+      width: 20%;
+    }
+  }
+}

@@ -1,0 +1,17 @@
+@use "./../partials/_variables.scss" as *;
+@use "./../app/_wave.scss" as *;
+
+#header {
+    background-color: $bg_body2;
+    color: $light;
+}
+
+.title-container {
+    display: flex; /* Rende il contenitore flessibile */
+    align-items: center; /* Allinea verticalmente titolo e immagine */
+    justify-content: center; /* Centra il contenuto */
+}
+
+.title-image-dx:hover {
+    transform: scale(1.1);
+}

@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "title": "Nature",
+      "desc": "Foreste e montagne",
+      "cover": "gallery/nature/cover.jpg",
+      "images": [
+        "gallery/nature/1.jpg",
+        "gallery/nature/2.jpg",
+        "gallery/nature/3.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "City Life",
+      "desc": "Scatti urbani",
+      "cover": "gallery/city/cover.jpg",
+      "images": [
+        "gallery/city/1.jpg",
+        "gallery/city/2.jpg"
+      ]
+    }
+  ]
+  
