@@ -102,7 +102,7 @@ export const groupedTags = [
         ]
     },
     {
-        category: "Dati RS",
+        category: "Digital Mapping",
         tags: [
             { "id": 73, "name": "DEM" },
             { "id": 74, "name": "INGV" },
@@ -139,7 +139,7 @@ export const groupedTags = [
         ]
     },
     {
-        category: "Valori di fondo e Contaminazioni",
+        category: "Contamination",
         tags: [
             { "id": 100, "name": "Azoto" },
             { "id": 101, "name": "Potassio" },

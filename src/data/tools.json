@@ -1,0 +1,16 @@
+[
+  {
+    "id": "cleaner",
+    "name": "Data Cleaner",
+    "description": "Script per pulizia dei CSV",
+    "tags": ["ETL", "CSV", "DataPrep"],
+    "filename": "data_cleaner.py"
+  },
+  {
+    "id": "reporter",
+    "name": "PDF Reporter",
+    "description": "Genera report PDF da template",
+    "tags": ["PDF", "Report", "Template"],
+    "filename": "pdf_reporter.py"
+  }
+]
