@@ -110,6 +110,7 @@ export default {
             <div class="card-body d-flex flex-column">
               <h5 class="card-title">{{ item.title }}</h5>
               <p class="card-text flex-grow-1">{{ item.description }}</p>
+              <p class="card-text flex-grow-1">{{ item.download }}</p>
               <div class="mb-2">
                 <span
                   v-for="tag in item.tags"

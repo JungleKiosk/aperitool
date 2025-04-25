@@ -6,11 +6,11 @@
       "data": [
         {
           "id": 1,
-          "title": "ST_LUCAS Download Manager (QGIS Plugin)",
+          "title": "ST_LUCAS Download Manager (QGIS Plugin) 💾",
           "url": "https://plugins.qgis.org/plugins/st_lucas_download_manager/",
           "description": "A QGIS plugin for downloading harmonized space–time aggregated LUCAS survey points directly into your QGIS project.",
           "tags": ["LUCAS", "EU", "plugin", "QGIS"],
-          "download":"",
+          "download":"🟢 request form",
           "stato": ["open"]
         },
         {
@@ -32,17 +32,25 @@
           "stato": ["open"]
         },
         {
-          "id": 3,
-          "title": "LUCAS Topsoil 2018 (ESDAC)",
+          "id": 4,
+          "title": "LUCAS Topsoil 2018 (ESDAC) 💾",
           "url": "https://esdac.jrc.ec.europa.eu/content/lucas-2018-topsoil-data",
           "description": "Fill request form to download the LUCAS 2018 topsoil dataset",
           "tags": ["LUCAS", "ESDAC", "Topsoil"],
-          "download":"",
-          "stato": ["open"],
-          "download":"🟢 request form"
+          "download":"🟢 request form",
+          "stato": ["open"]
         },
         {
-          "id": 3,
+          "id": 5,
+          "title": "LUCAS Topsoil (ESDAC) 💾",
+          "url": "https://esdac.jrc.ec.europa.eu/resource-type/soil-point-data",
+          "description": "Fill request form to download the LUCAS topsoil dataset",
+          "tags": ["LUCAS", "ESDAC", "Topsoil"],
+          "download":"🟢 request form",
+          "stato": ["open"]
+        },
+        {
+          "id": 6,
           "title": "LUCAS primaryData (ESDAC)",
           "url": "https://ec.europa.eu/eurostat/web/lucas/database/primary-data#lucasphotos",
           "description": "To download the photos, please consult our LUCAS photo section.",
@@ -51,8 +59,8 @@
           "stato": ["open"]
         },
         {
-          "id": 3,
-          "title": "LUCAS Photos (ESDAC)",
+          "id": 7,
+          "title": "LUCAS Photos (ESDAC) 📷",
           "url": "https://gisco-services.ec.europa.eu/lucas/photos/2022/",
           "description": "To download the photos, please consult our LUCAS photo section.",
           "tags": ["LUCAS", "ESDAC", "photos"],
