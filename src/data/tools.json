@@ -1,16 +1,27 @@
 [
   {
-    "id": "cleaner",
-    "name": "Data Cleaner",
-    "description": "Script per pulizia dei CSV",
-    "tags": ["ETL", "CSV", "DataPrep"],
-    "filename": "data_cleaner.py"
+    "id": "1",
+    "name": "Cadastral Download Shapefile",
+    "description": "Download shapefile from Cadastral Agency of Italy: one-to-one and from CSV",
+    "links":"https://github.com/JungleKiosk/download_ple_x_attributo_WFS_AdE",
+    "tags": ["QGIS", "Cadastral", "CSV"],
+    "filename": "particelleAE.py",
+    "guideline": "particelleAE.pdf"
   },
   {
-    "id": "reporter",
-    "name": "PDF Reporter",
-    "description": "Genera report PDF da template",
-    "tags": ["PDF", "Report", "Template"],
-    "filename": "pdf_reporter.py"
+    "id": "2",
+    "name": "Coordinate Shapefile",
+    "description": "Direttamente da QGIS estrai le coordinate da Shapefile in un file CSV",
+    "tags": ["QGIS", "CSV"],
+    "filename": "coordinateShape.py",
+    "guideline": "coordinateShape.pdf"
+  },
+  {
+    "id": "3",
+    "name": "Coordinate Shapefile",
+    "description": "Direttamente da QGIS estrai le coordinate da Shapefile in un file CSV",
+    "tags": ["QGIS", "CSV"],
+    "filename": "coordinateShape.py",
+    "guideline": "coordinateShape.pdf"
   }
 ]

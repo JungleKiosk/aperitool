@@ -7,35 +7,53 @@ export default {
   data() {
     return {
       searchQuery: "",
-      links: linksData,
-      filteredLinks: linksData,
+      collections: linksData.links,
+      filteredCollections: [],
       groupedTags,
       selectedTag: "",
-      selectedStato: "",
-      selectedCu: "",
-      selectedInspire: "",
-      selectedInspireDetails: null,
-      showModal: false,
-      stati: ["Noti e Accessibili", "Noti ma non accessibili", "Non Noti"],
-      debounceTimeout: null,
-      tagSearchQuery: "",
+      searchTimeout: null,
       openedCategory: null,
       showCategoryModal: false,
-      sidebarOpen: false,
     };
   },
   created() {
-    fetch("/src/data/links.json")
-      .then((response) => response.json())
-      .then((data) => {
-        this.links = data;
-        this.filteredLinks = data;
-      })
-      .catch((error) =>
-        console.error("Errore nel caricamento dei dati:", error)
-      );
+    this.filteredCollections = this.collections;
   },
   methods: {
+    onSearchInput() {
+      clearTimeout(this.searchTimeout);
+      this.searchTimeout = setTimeout(this.applyFilters, 500);
+    },
+    filterByTag(tag) {
+      this.selectedTag = this.selectedTag === tag ? "" : tag;
+      this.applyFilters();
+      this.closeCategoryModal();
+    },
+    applyFilters() {
+      const q = this.searchQuery.toLowerCase();
+      this.filteredCollections = this.collections
+        .map((col) => {
+          const filteredData = col.data.filter((item) => {
+            const matchesTitle = item.title?.toLowerCase().includes(q);
+            const matchesDescription = item.description
+              ?.toLowerCase()
+              .includes(q);
+            const matchesUrl = item.url?.toLowerCase().includes(q);
+            const matchesTags = item.tags?.some((tag) =>
+              tag.toLowerCase().includes(q)
+            );
+            const matchesSearch =
+              matchesTitle || matchesDescription || matchesUrl || matchesTags;
+
+            const matchesTag =
+              !this.selectedTag || item.tags.includes(this.selectedTag);
+
+            return matchesSearch && matchesTag;
+          });
+          return { ...col, data: filteredData };
+        })
+        .filter((col) => col.data.length > 0);
+    },
     openCategoryModal(category) {
       this.openedCategory = category;
       this.showCategoryModal = true;
@@ -44,162 +62,33 @@ export default {
       this.showCategoryModal = false;
       this.openedCategory = null;
     },
-    toggleSidebar() {
-      this.sidebarOpen = !this.sidebarOpen;
-    },
-    debounceFilter() {
-      if (this.debounceTimeout) {
-        clearTimeout(this.debounceTimeout);
-      }
-      this.debounceTimeout = setTimeout(() => {
-        this.filterLinks();
-      }, 800);
-    },
-    onSearchInput() {
-      this.selectedTag = "";
-      this.debounceFilter();
-    },
-    filterLinks() {
-      const query = this.searchQuery.toLowerCase();
-      this.filteredLinks = this.links.filter((link) => {
-        const matchesQuery =
-          link.title.toLowerCase().includes(query) ||
-          link.description.toLowerCase().includes(query) ||
-          link.tags.some((tag) => tag.toLowerCase().includes(query));
-
-        const matchesTag =
-          !this.selectedTag || link.tags.includes(this.selectedTag);
-        const matchesStato =
-          !this.selectedStato || link.stato === this.selectedStato;
-        const matchesCu =
-          !this.selectedCu ||
-          (Array.isArray(link.cu)
-            ? link.cu.includes(this.selectedCu)
-            : link.cu === this.selectedCu);
-        const matchesInspire =
-          !this.selectedInspire ||
-          (Array.isArray(link.inspire)
-            ? link.inspire.includes(this.selectedInspire)
-            : link.inspire === this.selectedInspire);
-
-        return (
-          matchesQuery &&
-          matchesTag &&
-          matchesStato &&
-          matchesCu &&
-          matchesInspire
-        );
-      });
-    },
-    filterByTag(tag) {
-      this.searchQuery = "";
-      this.selectedTag = this.selectedTag === tag ? "" : tag;
-      this.filterLinks();
-    },
-    onStatoChange() {
-      this.filterLinks();
-    },
-    resetSearchQuery() {
-      this.searchQuery = "";
-      this.filterLinks();
-    },
-    resetSelectedStato() {
-      this.selectedStato = "";
-      this.filterLinks();
-    },
-    resetSelectedCu() {
-      this.selectedCu = "";
-      this.filterLinks();
-    },
-    resetSelectedInspire() {
-      this.selectedInspire = "";
-      this.filterLinks();
-    },
-    resetAllFilters() {
-      this.searchQuery = "";
-      this.selectedTag = "";
-      this.selectedStato = "";
-      this.selectedCu = "";
-      this.selectedInspire = "";
-      this.filterLinks();
-    },
-    openInspireModal(inspire) {
-      const found = inspireData.find((item) => item.term === inspire);
-      if (found) {
-        this.selectedInspireDetails = found;
-        this.showModal = true;
-      }
-    },
-    closeInspireModal() {
-      this.showModal = false;
-      this.selectedInspireDetails = null;
-    },
-  },
-  computed: {
-    uniqueCu() {
-      const cuValues = new Set();
-      this.links.forEach((link) => {
-        if (Array.isArray(link.cu)) {
-          link.cu.forEach((cu) => cuValues.add(cu));
-        } else {
-          cuValues.add(link.cu);
-        }
-      });
-      return Array.from(cuValues);
-    },
-    uniqueInspire() {
-      const inspireValues = new Set();
-      this.links.forEach((link) => {
-        if (Array.isArray(link.inspire)) {
-          link.inspire.forEach((ins) => inspireValues.add(ins));
-        } else {
-          inspireValues.add(link.inspire);
-        }
-      });
-      return Array.from(inspireValues);
-    },
   },
 };
 </script>
 
 <template>
-  <div class="container text-black mt-5">
-    <!-- Toggle Sidebar Button -->
-    <button class="btn btn-primary toggle-btn" @click="toggleSidebar">
-      ☰ Filtri
-    </button>
-    <div class="row justify-content-center">
-      <!-- Search -->
-      <div class="col-3">
-        <h6 class="text-info">Filtra Parola</h6>
-        <div class="input-group">
-          <input
-            type="text"
-            class="form-control"
-            v-model="searchQuery"
-            placeholder="Cerca..."
-            @input="onSearchInput"
-          />
-          <span class="btn btn-info fw-bold" @click="resetAllFilters"
-            >RESET</span
-          >
-        </div>
+  <div class="container mt-5">
+    <!-- Search Bar -->
+    <div class="row mb-4">
+      <div class="col-md-6">
+        <input
+          v-model="searchQuery"
+          @input="onSearchInput"
+          type="text"
+          class="form-control"
+          placeholder="Search..."
+        />
       </div>
     </div>
 
     <!-- Category Slider -->
-    <div class="row mt-4 align-items-center">
-      <div class="col d-flex align-items-center">
-        <h4 class="text-info mx-5">Tags</h4>
-      </div>
-
-      <!-- slider sotto il titolo -->
-      <div class="col-12 mt-2">
-        <div class="category-slider d-flex overflow-auto py-2 bg-light w-100">
+    <div class="row mb-4">
+      <div class="col-12">
+        <div class="category-slider d-flex overflow-auto py-2 bg-light">
           <button
             v-for="group in groupedTags"
             :key="group.category"
-            class="btn btn-outline-primary mx-1 flex-shrink-0"
+            class="btn btn-outline-primary mx-1"
             @click="openCategoryModal(group.category)"
           >
             {{ group.category }}
@@ -208,56 +97,22 @@ export default {
       </div>
     </div>
 
-    <!-- Sidebar Filters -->
-    <div class="sidebar margin_top_sidbar p-4" :class="{ open: sidebarOpen }">
-      <div class="d-flex justify-content-between align-items-center mb-3">
-        <span class="btn btn-secondary" @click="resetAllFilters"
-          >Cancella filtri &#8634;</span
-        >
-        <button class="btn btn-sm btn-outline-secondary" @click="toggleSidebar">
-          ✕
-        </button>
-      </div>
-      <p><em>ATTENZIONE: i filtri sono incrociati!</em></p>
-
-      <!-- Search -->
-      <div class="mb-4">
-        <h6>Filtra Parola</h6>
-        <div class="input-group">
-          <input
-            type="text"
-            class="form-control"
-            v-model="searchQuery"
-            placeholder="Cerca..."
-            @input="onSearchInput"
-          />
-          <button
-            class="btn btn-outline-secondary"
-            type="button"
-            @click="resetSearchQuery"
-          >
-            &#8634;
-          </button>
-        </div>
-      </div>
-    </div>
-
-    <!-- Main Content Area -->
-    <div class="content-area mt-5">
+    <!-- Collections and Cards -->
+    <div v-for="col in filteredCollections" :key="col.name" class="mb-5">
+      <h3 class="mb-3">{{ col.name }}</h3>
       <div class="row g-4">
         <div
-          class="col-6 col-md-4 col-lg-3"
-          v-for="link in filteredLinks"
-          :key="link.id"
+          v-for="item in col.data"
+          :key="item.id"
+          class="col-12 col-md-6 col-lg-4"
         >
           <div class="card h-100 shadow-sm">
             <div class="card-body d-flex flex-column">
-              <h5 class="card-title fw-bold">{{ link.title }}</h5>
-              <p class="card-text flex-grow-1">{{ link.description }}</p>
-              <div class="mt-1">
-                <strong>Tags:</strong>
+              <h5 class="card-title">{{ item.title }}</h5>
+              <p class="card-text flex-grow-1">{{ item.description }}</p>
+              <div class="mb-2">
                 <span
-                  v-for="tag in link.tags"
+                  v-for="tag in item.tags"
                   :key="tag"
                   class="badge bg-info text-dark me-1"
                 >
@@ -265,24 +120,20 @@ export default {
                 </span>
               </div>
               <a
-                v-if="link.url"
-                :href="link.url"
+                v-if="item.url"
+                :href="item.url"
                 target="_blank"
-                class="btn btn-primary btn-sm mt-2"
-                >Web Site</a
+                class="btn btn-primary btn-sm mt-auto"
               >
-              <p v-else class="text-muted mt-2">N/A</p>
-              <!-- <p class="mt-2 mb-1">
-                <strong>Note:</strong>
-                <span class="badge bg-secondary">{{ link.cu }}</span>
-              </p> -->
+                Visit Site
+              </a>
             </div>
           </div>
         </div>
       </div>
     </div>
 
-    <!-- Category Modal -->
+    <!-- Modal for Tags -->
     <div
       v-if="showCategoryModal"
       class="modal fade show"
@@ -301,18 +152,19 @@ export default {
           </div>
           <div class="modal-body">
             <span
-              v-for="tag in groupedTags.find(
-                (g) => g.category === openedCategory
-              ).tags"
-              :key="tag.id"
-              class="badge bg-info text-dark me-1 mb-1"
-              style="cursor: pointer"
-              @click="
-                filterByTag(tag.name);
-                closeCategoryModal();
-              "
+              v-for="group in groupedTags"
+              :key="group.category"
+              v-if="group.category === openedCategory"
             >
-              {{ tag.name }}
+              <span
+                v-for="tag in group.tags"
+                :key="tag.id"
+                class="badge bg-info text-dark me-1 mb-1"
+                style="cursor: pointer"
+                @click="filterByTag(tag.name)"
+              >
+                {{ tag.name }}
+              </span>
             </span>
           </div>
         </div>
@@ -324,29 +176,6 @@ export default {
 <style scoped>
 .category-slider {
   white-space: nowrap;
-}
-.margin_top_sidbar {
-  margin-top: 4rem;
-}
-.sidebar {
-  position: fixed;
-  top: 0;
-  left: -350px;
-  width: 300px;
-  height: 100%;
-  background-color: rgba(99, 177, 255, 0.9);
-  transition: left 0.3s ease;
-  z-index: 1050;
-  overflow-y: auto;
-}
-.sidebar.open {
-  left: 0;
-}
-.toggle-btn {
-  position: fixed;
-  top: 1rem;
-  right: 1rem;
-  z-index: 1100;
 }
 .card {
   border: none;
