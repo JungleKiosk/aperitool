@@ -11,6 +11,7 @@ export default {
       filteredCollections: [],
       groupedTags,
       selectedTag: "",
+      filterDownloadOnly: false, // <- nuovo stato per toggle
       searchTimeout: null,
       openedCategory: null,
       showCategoryModal: false,
@@ -44,11 +45,12 @@ export default {
             );
             const matchesSearch =
               matchesTitle || matchesDescription || matchesUrl || matchesTags;
-
             const matchesTag =
               !this.selectedTag || item.tags.includes(this.selectedTag);
+            const matchesDownload =
+              !this.filterDownloadOnly || item.download === 1;
 
-            return matchesSearch && matchesTag;
+            return matchesSearch && matchesTag && matchesDownload;
           });
           return { ...col, data: filteredData };
         })
@@ -62,14 +64,18 @@ export default {
       this.showCategoryModal = false;
       this.openedCategory = null;
     },
+    toggleDownloadFilter() {
+      this.filterDownloadOnly = !this.filterDownloadOnly;
+      this.applyFilters();
+    },
   },
 };
 </script>
 
 <template>
   <div class="container mt-5">
-    <!-- Search Bar -->
-    <div class="row mb-4">
+    <!-- Search and Download Filter -->
+    <div class="row mb-4 align-items-center">
       <div class="col-md-6">
         <input
           v-model="searchQuery"
@@ -78,6 +84,18 @@ export default {
           class="form-control"
           placeholder="Search..."
         />
+      </div>
+      <div class="col-md-3 mt-3 mt-md-0 d-flex align-items-center">
+        <input
+          type="checkbox"
+          id="download-only"
+          v-model="filterDownloadOnly"
+          @change="applyFilters"
+          class="form-check-input me-2"
+        />
+        <label for="download-only" class="form-check-label">
+          Show Only Downloadable
+        </label>
       </div>
     </div>
 
@@ -110,7 +128,9 @@ export default {
             <div class="card-body d-flex flex-column">
               <h5 class="card-title">{{ item.title }}</h5>
               <p class="card-text flex-grow-1">{{ item.description }}</p>
-              <p class="card-text flex-grow-1">{{ item.download }}</p>
+              <div v-if="item.download === 1" class="fw-bold mb-2">
+                Download: {{ item.download_mode }}
+              </div>
               <div class="mb-2">
                 <span
                   v-for="tag in item.tags"
@@ -139,7 +159,7 @@ export default {
       v-if="showCategoryModal"
       class="modal fade show"
       tabindex="-1"
-      style="display: block; background: rgba(0, 0, 0, 0.5)"
+      style="display: block; background: rgba(0, 0, 0, 0.5); z-index: 1050"
     >
       <div class="modal-dialog modal-dialog-scrollable">
         <div class="modal-content">
@@ -171,6 +191,13 @@ export default {
         </div>
       </div>
     </div>
+
+    <!-- Backdrop -->
+    <div
+      v-if="showCategoryModal"
+      class="modal-backdrop fade show"
+      style="z-index: 1040"
+    ></div>
   </div>
 </template>
 
@@ -180,5 +207,12 @@ export default {
 }
 .card {
   border: none;
+}
+
+.modal {
+  z-index: 1050;
+}
+.modal-backdrop {
+  z-index: 1040;
 }
 </style>

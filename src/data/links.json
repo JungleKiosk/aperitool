@@ -10,7 +10,8 @@
           "url": "https://plugins.qgis.org/plugins/st_lucas_download_manager/",
           "description": "A QGIS plugin for downloading harmonized space–time aggregated LUCAS survey points directly into your QGIS project.",
           "tags": ["LUCAS", "EU", "plugin", "QGIS"],
-          "download":"🟢 request form",
+          "download":1,
+          "download_mode":"Request From 📩",
           "stato": ["open"]
         },
         {
@@ -20,6 +21,7 @@
           "description": "Official Eurostat portal to download raw micro-data files for each survey year and country in CSV format.",
           "tags": ["LUCAS", "EU", "CSV"],
           "download":"",
+          "download_mode":"",
           "stato": ["open"]
         },
         {
@@ -29,6 +31,7 @@
           "description": "Download the LUCAS dataset (2009, 2012, 2015, 2018, 2022)",
           "tags": ["LUCAS", "ESDAC", "Database"],
           "download":"",
+          "download_mode":"",
           "stato": ["open"]
         },
         {
@@ -37,7 +40,8 @@
           "url": "https://esdac.jrc.ec.europa.eu/content/lucas-2018-topsoil-data",
           "description": "Fill request form to download the LUCAS 2018 topsoil dataset",
           "tags": ["LUCAS", "ESDAC", "Topsoil"],
-          "download":"🟢 request form",
+          "download":1,
+          "download_mode":"Request From 📩",
           "stato": ["open"]
         },
         {
@@ -46,25 +50,28 @@
           "url": "https://esdac.jrc.ec.europa.eu/resource-type/soil-point-data",
           "description": "Fill request form to download the LUCAS topsoil dataset",
           "tags": ["LUCAS", "ESDAC", "Topsoil"],
-          "download":"🟢 request form",
+          "download":1,
+          "download_mode":"Request From 📩",
           "stato": ["open"]
         },
         {
           "id": 6,
           "title": "LUCAS primaryData (ESDAC)",
-          "url": "https://ec.europa.eu/eurostat/web/lucas/database/primary-data#lucasphotos",
+          "url": "https://ec.europa.eu/eurostat/web/lucas/database/primary-data",
           "description": "To download the photos, please consult our LUCAS photo section.",
           "tags": ["LUCAS", "ESDAC", "photos"],
           "download":"",
+          "download_mode":"",
           "stato": ["open"]
         },
         {
           "id": 7,
-          "title": "LUCAS Photos (ESDAC) 📷",
+          "title": "LUCAS Photos (ESDAC)",
           "url": "https://gisco-services.ec.europa.eu/lucas/photos/2022/",
           "description": "To download the photos, please consult our LUCAS photo section.",
           "tags": ["LUCAS", "ESDAC", "photos"],
           "download":"",
+          "download_mode":"",
           "stato": ["open"]
         },
         {
@@ -72,8 +79,9 @@
           "title": "Harmonized THLOC Points (Google Earth Engine)",
           "url": "https://developers.google.com/earth-engine/datasets/catalog/JRC_LUCAS_HARMO_THLOC_V1",
           "description": "Harmonized LUCAS theoretical-location (THLOC) point dataset (2006–2018) accessible via the Google Earth Engine Data Catalog.",
-          "tags": ["LUCAS", "EU", "GEE", "API"],
+          "tags": ["LUCAS", "EU", "GEE", "API", "Remote Sensing"],
           "download":"",
+          "download_mode":"",
           "stato": ["open"]
         },
         {
@@ -83,15 +91,17 @@
           "description": "REST-style API providing programmatic access to LUCAS 2015 topsoil micro-data via the Apitalks Open Data Marketplace.",
           "tags": ["LUCAS", "API", "Topsoil"],
           "download":"",
+          "download_mode":"",
           "stato": ["early access"]
         },
         {
           "id": 6,
-          "title": "LUC Historical Land Cover/Land Use (ArcGIS)",
+          "title": "LUCAS Historical Land Cover/Land Use (ArcGIS)",
           "url": "https://www.arcgis.com/home/item.html?id=24ffac5d6568441a8cfff5ba874ed498",
           "description": "ArcGIS Online item for downloading point-based environmental parameters from the LUCAS 2012 survey.",
           "tags": ["LUCAS", "ArcGIS", "Remote Sensing"],
           "download":"",
+          "download_mode":"",
           "stato": ["archived"]
         },
         {
@@ -99,35 +109,29 @@
           "title": "Open Geospatial Harmonization System (MDPI article)",
           "url": "https://www.mdpi.com/2220-9964/11/7/361",
           "description": "Describes the ST_LUCAS system components and Python package for in-situ LUCAS data harmonization, including a WFS API interface.",
-          "tags": ["LUCAS", "API", "WFS"],
+          "tags": ["LUCAS", "API", "WFS", "Python", "Article"],
           "download":"",
+          "download_mode":"",
           "stato": ["published"]
         },
         {
           "id": 8,
-          "title": "LUCAS Micro-data by Country (Eurostat Archives)",
-          "url": "https://data.europa.eu/data/datasets/ec.europa.eu-statistics-explained-images-lucas-2018-microdata",
-          "description": "CSV downloads of LUCAS micro-data for each EU Member State and survey year (2006–2018) from the Eurostat open data repository.",
-          "tags": ["LUCAS", "CSV", "Micro-data"],
-          "download":"",
-          "stato": ["open"]
-        },
-        {
-          "id": 9,
-          "title": "LUCAS Soil Harmonized Dataset (Nature Scientific Data)",
+          "title": "LUCAS Soil Harmonized Dataset (Nature Scientific Data) 💾",
           "url": "https://www.nature.com/articles/s41597-020-00675-z",
           "description": "Peer-reviewed paper and links for downloading the harmonized LUCAS Soil dataset (2009–2018) and documentation.",
           "tags": ["LUCAS", "ESDAC", "Article"],
-          "download":"",
+          "download":1,
+          "download_mode":"PDF 📝",
           "stato": ["published"]
         },
         {
-          "id": 10,
+          "id": 9,
           "title": "CRAN ‘lucas’ R Package Documentation",
           "url": "https://cran.r-project.org/web/packages/lucas/lucas.pdf",
           "description": "R package to connect to and download harmonized LUCAS data programmatically for statistical analysis in R.",
           "tags": ["LUCAS", "R", "API"],
-          "download":"",
+          "download":1,
+          "download_mode":"PDF 📝",
           "stato": ["open"]
         }
       ]
