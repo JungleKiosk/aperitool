@@ -5,23 +5,29 @@
     "description": "Download shapefile from Cadastral Agency of Italy: one-to-one and from CSV",
     "links":"https://github.com/JungleKiosk/download_ple_x_attributo_WFS_AdE",
     "tags": ["QGIS", "Cadastral", "CSV"],
-    "filename": "particelleAE.py",
-    "guideline": "particelleAE.pdf"
+    "filename": "particelleAE.zip"
   },
   {
     "id": "2",
     "name": "Coordinate Shapefile",
-    "description": "Direttamente da QGIS estrai le coordinate da Shapefile in un file CSV",
+    "description": "Easily extract coordinates from Shapefiles (points, lines, polygons) into CSV format directly in QGIS",
     "tags": ["QGIS", "CSV"],
-    "filename": "coordinateShape.py",
-    "guideline": "coordinateShape.pdf"
+    "filename": "coordinateShape.zip"
   },
   {
     "id": "3",
-    "name": "Coordinate Shapefile",
-    "description": "Direttamente da QGIS estrai le coordinate da Shapefile in un file CSV",
-    "tags": ["QGIS", "CSV"],
-    "filename": "coordinateShape.py",
-    "guideline": "coordinateShape.pdf"
+    "name": "USDA Soil Texture Classifier",
+    "description": "Python tool for QGIS that classifies soil samples into USDA texture classes (e.g., Clay, Sandy Loam, Silty Clay Loam) based on sand, silt, and clay percentages.",
+    "links":"https://junglekiosk.github.io/QGIS_SoilTexture/",
+    "tags": ["QGIS", "Soil Texture", "USDA"],
+    "filename": "soiltext.zip"
+  },
+  {
+    "id": "4",
+    "name": "SoilGrids Global Soil Data",
+    "description": "SoilGrids provides global soil property maps based on machine learning models, offering predictions for sand, silt, clay content, pH, organic carbon, and more at multiple depths.",
+    "links": "https://soilgrids.org/",
+    "tags": ["Global Data", "Soil Mapping", "ISRIC"],
+    "filename": 0
   }
 ]

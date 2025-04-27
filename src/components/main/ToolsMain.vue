@@ -106,21 +106,14 @@ export default {
                 {{ t }}
               </span>
             </div>
-            <!-- Download Python file -->
+            <!-- Download ZIP file -->
             <a
+              v-if="tool.filename"
               class="btn btn-primary btn-sm mb-2"
-              :href="`/qgis/${tool.filename}`"
+              :href="`/tools/${tool.filename.replace('.py', '.zip')}`"
               download
             >
-              File
-            </a>
-            <!-- Download Guideline file -->
-            <a
-              class="btn btn-secondary btn-sm"
-              :href="`/guideline/${tool.guideline}`"
-              download
-            >
-              Guideline
+              Download ZIP 📦
             </a>
           </div>
         </div>

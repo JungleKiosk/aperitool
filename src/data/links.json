@@ -6,12 +6,12 @@
       "data": [
         {
           "id": 1,
-          "title": "ST_LUCAS Download Manager (QGIS Plugin) 💾",
+          "title": "ST_LUCAS Download Manager (QGIS Plugin)",
           "url": "https://plugins.qgis.org/plugins/st_lucas_download_manager/",
           "description": "A QGIS plugin for downloading harmonized space–time aggregated LUCAS survey points directly into your QGIS project.",
           "tags": ["LUCAS", "EU", "plugin", "QGIS"],
-          "download":1,
-          "download_mode":"Request From 📩",
+          "download": 1,
+          "download_mode": "Request From 📩",
           "stato": ["open"]
         },
         {
@@ -20,8 +20,8 @@
           "url": "https://ec.europa.eu/eurostat/web/lucas",
           "description": "Official Eurostat portal to download raw micro-data files for each survey year and country in CSV format.",
           "tags": ["LUCAS", "EU", "CSV"],
-          "download":"",
-          "download_mode":"",
+          "download": "",
+          "download_mode": "",
           "stato": ["open"]
         },
         {
@@ -30,28 +30,28 @@
           "url": "https://esdac.jrc.ec.europa.eu/projects/lucas",
           "description": "Download the LUCAS dataset (2009, 2012, 2015, 2018, 2022)",
           "tags": ["LUCAS", "ESDAC", "Database"],
-          "download":"",
-          "download_mode":"",
+          "download": "",
+          "download_mode": "",
           "stato": ["open"]
         },
         {
           "id": 4,
-          "title": "LUCAS Topsoil 2018 (ESDAC) 💾",
+          "title": "LUCAS Topsoil 2018 (ESDAC)",
           "url": "https://esdac.jrc.ec.europa.eu/content/lucas-2018-topsoil-data",
           "description": "Fill request form to download the LUCAS 2018 topsoil dataset",
           "tags": ["LUCAS", "ESDAC", "Topsoil"],
-          "download":1,
-          "download_mode":"Request From 📩",
+          "download": 1,
+          "download_mode": "Request From 📩",
           "stato": ["open"]
         },
         {
           "id": 5,
-          "title": "LUCAS Topsoil (ESDAC) 💾",
+          "title": "LUCAS Topsoil (ESDAC)",
           "url": "https://esdac.jrc.ec.europa.eu/resource-type/soil-point-data",
           "description": "Fill request form to download the LUCAS topsoil dataset",
           "tags": ["LUCAS", "ESDAC", "Topsoil"],
-          "download":1,
-          "download_mode":"Request From 📩",
+          "download": 1,
+          "download_mode": "Request From 📩",
           "stato": ["open"]
         },
         {
@@ -60,8 +60,8 @@
           "url": "https://ec.europa.eu/eurostat/web/lucas/database/primary-data",
           "description": "To download the photos, please consult our LUCAS photo section.",
           "tags": ["LUCAS", "ESDAC", "photos"],
-          "download":"",
-          "download_mode":"",
+          "download": "",
+          "download_mode": "",
           "stato": ["open"]
         },
         {
@@ -70,8 +70,8 @@
           "url": "https://gisco-services.ec.europa.eu/lucas/photos/2022/",
           "description": "To download the photos, please consult our LUCAS photo section.",
           "tags": ["LUCAS", "ESDAC", "photos"],
-          "download":"",
-          "download_mode":"",
+          "download": "",
+          "download_mode": "",
           "stato": ["open"]
         },
         {
@@ -80,8 +80,8 @@
           "url": "https://developers.google.com/earth-engine/datasets/catalog/JRC_LUCAS_HARMO_THLOC_V1",
           "description": "Harmonized LUCAS theoretical-location (THLOC) point dataset (2006–2018) accessible via the Google Earth Engine Data Catalog.",
           "tags": ["LUCAS", "EU", "GEE", "API", "Remote Sensing"],
-          "download":"",
-          "download_mode":"",
+          "download": "",
+          "download_mode": "",
           "stato": ["open"]
         },
         {
@@ -90,8 +90,8 @@
           "url": "https://api.store/eu-institutions-api/joint-research-centre-api/lucas-2015-topsoil-data-api",
           "description": "REST-style API providing programmatic access to LUCAS 2015 topsoil micro-data via the Apitalks Open Data Marketplace.",
           "tags": ["LUCAS", "API", "Topsoil"],
-          "download":"",
-          "download_mode":"",
+          "download": "",
+          "download_mode": "",
           "stato": ["early access"]
         },
         {
@@ -100,8 +100,8 @@
           "url": "https://www.arcgis.com/home/item.html?id=24ffac5d6568441a8cfff5ba874ed498",
           "description": "ArcGIS Online item for downloading point-based environmental parameters from the LUCAS 2012 survey.",
           "tags": ["LUCAS", "ArcGIS", "Remote Sensing"],
-          "download":"",
-          "download_mode":"",
+          "download": "",
+          "download_mode": "",
           "stato": ["archived"]
         },
         {
@@ -110,18 +110,18 @@
           "url": "https://www.mdpi.com/2220-9964/11/7/361",
           "description": "Describes the ST_LUCAS system components and Python package for in-situ LUCAS data harmonization, including a WFS API interface.",
           "tags": ["LUCAS", "API", "WFS", "Python", "Article"],
-          "download":"",
-          "download_mode":"",
+          "download": "",
+          "download_mode": "",
           "stato": ["published"]
         },
         {
           "id": 8,
-          "title": "LUCAS Soil Harmonized Dataset (Nature Scientific Data) 💾",
+          "title": "LUCAS Soil Harmonized Dataset (Nature Scientific Data)",
           "url": "https://www.nature.com/articles/s41597-020-00675-z",
           "description": "Peer-reviewed paper and links for downloading the harmonized LUCAS Soil dataset (2009–2018) and documentation.",
           "tags": ["LUCAS", "ESDAC", "Article"],
-          "download":1,
-          "download_mode":"PDF 📝",
+          "download": 1,
+          "download_mode": "PDF 📝",
           "stato": ["published"]
         },
         {
@@ -130,8 +130,485 @@
           "url": "https://cran.r-project.org/web/packages/lucas/lucas.pdf",
           "description": "R package to connect to and download harmonized LUCAS data programmatically for statistical analysis in R.",
           "tags": ["LUCAS", "R", "API"],
-          "download":1,
-          "download_mode":"PDF 📝",
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": ["open"]
+        },
+        {
+          "id": 10,
+          "title": "LUCAS 2022 - shortest path to LUCAS points and import in Google Maps",
+          "url": "https://junglekiosk.github.io/Eurostat_LUCASproject_2022",
+          "description": "1. extrapolate points 2. topological districts 3. Shortest path to point 4. data entry iteration 5. import into Google My Maps",
+          "tags": ["LUCAS", "QGIS", "Python", "Google Maps"],
+          "download": "",
+          "download_mode": "",
+          "stato": ["open"]
+        }
+      ]
+    },
+    {
+      "name": "DEM - DTM - LiDAR",
+      "collection": "DEM - DTM - LiDAR",
+      "data": [
+        {
+          "id": 1,
+          "title": "NASA Earthdata - DEM Download",
+          "url": "https://search.earthdata.nasa.gov/search?gdf=DEM&as[granule_data_format][0]=DEM",
+          "description": "Global Shuttle Radar Topography Mission (SRTM) DEM datasets for elevation mapping, available for download via NASA Earthdata.",
+          "tags": ["DEM", "NASA", "Elevation"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        },
+        {
+          "id": 2,
+          "title": "NASA Earthdata - SRTM - DEM Download",
+          "url": "https://search.earthdata.nasa.gov/search?fi=SRTM",
+          "description": "Global Shuttle Radar Topography Mission (SRTM) DEM datasets for elevation mapping, available for download via NASA Earthdata.",
+          "tags": ["DEM", "SRTM", "NASA", "Elevation"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        },
+        {
+          "id": 3,
+          "title": "Copernicus Land Monitoring Service (EU-DEM)",
+          "url": "https://land.copernicus.eu/en/products/products-that-are-no-longer-disseminated-on-the-clms-website",
+          "description": "European Digital Elevation Model (EU-DEM) dataset provided by the Copernicus programme for the European territory.",
+          "tags": ["DEM", "Copernicus", "EU", "Elevation"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        },
+        {
+          "id": 4,
+          "title": "USGS Earth Explorer - LiDAR and DEM Data",
+          "url": "https://earthexplorer.usgs.gov/",
+          "description": "Access USGS Earth Explorer to download LiDAR point clouds, DEMs and DTM data worldwide.",
+          "tags": ["LiDAR", "DEM", "DTM", "USGS"],
+          "download": 1,
+          "download_mode": "Portal 🌍",
+          "stato": ["open"]
+        },
+        {
+          "id": 5,
+          "title": "OpenTopography - High-Resolution Topography Data",
+          "url": "https://portal.opentopography.org/datasets?dataSources=global&group=global",
+          "description": "Global portal for accessing high-resolution topography datasets including LiDAR, DEMs and point cloud data.",
+          "tags": ["LiDAR", "DEM", "Topography", "Open Data"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        },
+        {
+          "id": 6,
+          "title": "AW3D Global High-Resolution 5m DEM",
+          "url": "https://www.aw3d.jp/en/sampleform/",
+          "description": "High-resolution (5-meter) global DEM dataset developed by JAXA and NTT Data, available upon request.",
+          "tags": ["DEM", "Global", "JAXA"],
+          "download": 1,
+          "download_mode": "Request Form 📩",
+          "stato": ["open"]
+        },
+        {
+          "id": 7,
+          "title": "Copernicus DEM validation report",
+          "url": "https://s3.waw3-1.cloudferro.com/swift/v1/portal_uploads_prod/GEO1988-CopernicusDEM-RP-001_ValidationReport_I3.0_08.2024.pdf",
+          "description": "The methods and implementation of statistical procedures used to validate vertical accuracy of the Copernicus DEM.",
+          "tags": ["DEM", "Copernicus", "EU"],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": ["open"]
+        },
+        {
+          "id": 8,
+          "title": "LiDAR - SIM Download PST",
+          "url": "https://sim.mase.gov.it/portalediaccesso/mappe/#/viewer/new",
+          "description": "Ministero dell'Ambiente e della Sicurezza Energetica - Access to Italian national LiDAR datasets and digital terrain models (DTM).",
+          "tags": ["LiDAR", "SIM"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        },
+        {
+          "id": 9,
+          "title": "Datasets on dati.gov.it",
+          "url": "https://www.dati.gov.it/index.php/view-dataset?page=0&tags=lidar",
+          "description": "Explore datasets available on dati.gov.it, the Italian open data portal. These high-resolution datasets support applications in terrain modeling, environmental monitoring, and urban planning.",
+          "tags": ["LiDAR", "DTM"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        }
+      ]
+    },
+    {
+      "name": "Soil Data",
+      "collection": "Soil Data",
+      "data": [
+        {
+          "id": 1,
+          "title": "USDA Data Catalog - JSON Harvest",
+          "url": "https://catalog.data.gov/harvest/usda-json",
+          "description": "Access USDA datasets in JSON format through the official U.S. government open data portal. Useful for agricultural, soil, and environmental research.",
+          "tags": ["USDA", "JSON"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 2,
+          "title": "KSSL Guidance - NRCS Soil Data",
+          "url": "https://www.nrcs.usda.gov/resources/guides-and-instructions/kssl-guidance",
+          "description": "Official NRCS guidance documents for using the Kellogg Soil Survey Laboratory (KSSL) datasets, with instructions for data interpretation and analysis.",
+          "tags": ["USDA", "NRCS"],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": ["open"]
+        },
+        {
+          "id": 3,
+          "title": "Soil Data Access - USDA SDM",
+          "url": "https://sdmdataaccess.sc.egov.usda.gov/",
+          "description": "Official USDA Soil Data Access service, providing public access to the latest soil survey data available through web services and SQL queries.",
+          "tags": ["USDA", "SDM"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 4,
+          "title": "NCSS Soil Characterization Database",
+          "url": "https://ncsslabdatamart.sc.egov.usda.gov/database_download.aspx",
+          "description": "National Cooperative Soil Survey (NCSS) Lab Data Mart providing access to detailed soil characterization data from laboratory analyses across the United States.",
+          "tags": ["USDA", "NCSS"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        },
+        {
+          "id": 5,
+          "title": "OpenGeoHub - Soil Samples Data",
+          "url": "https://opengeohub.github.io/SoilSamples/",
+          "description": "Collection of example soil sample  provided by OpenGeoHub, ideal for testing, training machine learning models, and soil data analysis projects.",
+          "tags": ["OpenGeoHub", "dataset"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 6,
+          "title": "GeoPackage - Open Standard for Geospatial Data",
+          "url": "https://www.geopackage.org/",
+          "description": "Official website for the GeoPackage (GPKG) standard, a platform-independent, open format for geospatial data storage and transfer. Designed for lightweight, efficient use in GIS applications.",
+          "tags": ["GeoPackage"],
+          "download": 0,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        },
+        {
+          "id": 7,
+          "title": "WRB 2022 - Annex 1 Field Guide",
+          "url": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html",
+          "description": "Official Field Guide to World Reference Base (WRB) for Soil Resources 2022, Annex 1. Provides standardized instructions for describing soil profiles and properties in the field.",
+          "tags": ["WRB 2022"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 8,
+          "title": "WRB 2022 - FAO Official Portal",
+          "url": "https://www.fao.org/soils-portal/data-hub/soil-classification/world-reference-base/en/",
+          "description": "Official FAO portal for the World Reference Base for Soil Resources (WRB) 2022. Provides documentation, classification resources, and data related to global soil taxonomy standards.",
+          "tags": ["WRB", "FAO"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 9,
+          "title": "WRB Documents - ISRIC World Soil Information",
+          "url": "https://wrb.isric.org/documents/",
+          "description": "Access the official documents, field guides, and resources for the World Reference Base for Soil Resources (WRB) provided by ISRIC. Includes classification keys, manuals, and annexes for soil surveys and global soil taxonomy.",
+          "tags": ["WRB", "ISRIC"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 10,
+          "title": "WRB Fourth Edition 2022 (Corrected 2024)",
+          "url": "https://wrb.isric.org/files/WRB_fourth_edition_2022-12-18_errata_correction_2024-09-24.pdf",
+          "description": "Official corrected version (2024) of the World Reference Base for Soil Resources (WRB) Fourth Edition, the global standard for soil classification published by ISRIC.",
+          "tags": ["WRB", "ISRIC"],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": ["open"]
+        },
+        {
+          "id": 11,
+          "title": "FROST-Server - SensorThings API Server",
+          "url": "https://github.com/FraunhoferIOSB/FROST-Server",
+          "description": "Open-source implementation of the OGC SensorThings API by Fraunhofer IOSB, allowing seamless management of IoT sensor observations and spatial-temporal data.",
+          "tags": [
+            "IoT",
+            "API",
+            "OGC",
+            "SensorThings",
+            "Server",
+            "Open Source"
+          ],
+          "download": 1,
+          "download_mode": "GitHub 🌐",
+          "stato": ["open"]
+        },
+        {
+          "id": 12,
+          "title": "INSPIRE Soil GeoPackage Template (EJP SOIL)",
+          "url": "https://github.com/ejpsoil/inspire_soil_gpkg_template/tree/main/Version1.1-RC",
+          "description": "Official GeoPackage (GPKG) template for encoding soil data following the INSPIRE directive, developed by the EJP SOIL project to facilitate standardized soil data sharing and interoperability.",
+          "tags": ["CREA", "INSPIRE", "GeoPackage"],
+          "download": 1,
+          "download_mode": "GitHub 🌐",
+          "stato": ["open"]
+        },
+        {
+          "id": 13,
+          "title": "Field Guide",
+          "url": "https://www.researchgate.net/profile/E-Costantini/publication/260065688_Guida_ALLA_Descrizione_DEI_Suoli_IN_Campagna/links/5418551e0cf203f155ada887/Guida-ALLA-Descrizione-DEI-Suoli-IN-Campagna.pdf",
+          "description": "Official Italian guide for soil description in the field, providing standardized methods for analyzing horizons, color, structure, texture, and other key pedological features.",
+          "tags": ["CREA", "Field Guide"],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": ["open"]
+        },
+        {
+          "id": 14,
+          "title": "Field Guide (Zenodo)",
+          "url": "https://zenodo.org/records/7589089",
+          "description": "Official Italian guide for soil description in the field, providing standardized methods for analyzing horizons, color, structure, texture, and other key pedological features.",
+          "tags": ["WRB"],
+          "download": 1,
+          "download_mode": "ZIP 📦",
+          "stato": ["open"]
+        },
+        {
+          "id": 15,
+          "title": "INSPIRE Registry - Official Reference Vocabularies",
+          "url": "https://inspire.ec.europa.eu/registry",
+          "description": "Central platform for accessing INSPIRE official reference vocabularies, code lists, schemas, and metadata used to harmonize spatial datasets across Europe.",
+          "tags": ["INSPIRE", "EU"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 16,
+          "title": "EU Soil Monitoring Law - Pathway to Healthy Soils by 2050",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2024/06/17/soil-monitoring-law-eu-on-the-pathway-to-healthy-soils-by-2050/",
+          "description": "Official EU initiative aiming to ensure all European soils are in healthy condition by 2050, with binding monitoring obligations and harmonized soil health indicators.",
+          "tags": ["EU", "Soil Monitoring Law"],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": ["open"]
+        },
+        {
+          "id": 17,
+          "title": "INSPIRE Data Specification on Soil - Technical Guidelines",
+          "url": "https://knowledge-base.inspire.ec.europa.eu/publications/inspire-data-specification-soil-technical-guidelines_en",
+          "description": "Official INSPIRE technical guidelines detailing how soil data should be structured, shared, and harmonized across the European Union to ensure interoperability.",
+          "tags": ["INSPIRE", "EU"],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": ["open"]
+        },
+        {
+          "id": 18,
+          "title": "INSPIRE Geoportal - Data Themes",
+          "url": "https://inspire-geoportal.ec.europa.eu/srv/eng/catalog.search#/datathemes",
+          "description": "The INSPIRE Geoportal provides access to spatial datasets and services across Europe, organized into thematic categories according to the INSPIRE Directive. Essential for discovering, viewing, and downloading standardized environmental data.",
+          "tags": ["INSPIRE", "Geoportal", "EU"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 19,
+          "title": "INSPIRE UML Models - Soil Theme",
+          "url": "https://inspire-mif.github.io/uml-models/approved/html/EARoot/EA2/EA3/EA17/EA1/EA9071.htm",
+          "description": "Official UML (Unified Modeling Language) representation for the INSPIRE Soil data theme. Provides detailed conceptual models for standardized soil data across Europe, ensuring interoperability and harmonization between datasets.",
+          "tags": ["INSPIRE", "UML", "Data Model", "EU"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 20,
+          "title": "INSPIRE Maintenance and Implementation Framework (MIF) GitHub",
+          "url": "https://github.com/INSPIRE-MIF",
+          "description": "Official GitHub repository of the INSPIRE Maintenance and Implementation Framework (MIF). Provides open access to technical guidelines, UML models, schemas, tools, and documentation supporting the INSPIRE Directive for spatial data infrastructure across Europe.",
+          "tags": ["INSPIRE", "GitHub", "EU"],
+          "download": 1,
+          "download_mode": "GitHub 🌐",
+          "stato": ["open"]
+        },
+        {
+          "id": 21,
+          "title": "INSPIRE Knowledge Base",
+          "url": "https://knowledge-base.inspire.ec.europa.eu/index_en",
+          "description": "Official INSPIRE Knowledge Base providing access to technical documentation, data specifications, guidance documents, FAQs, and resources supporting the implementation of the INSPIRE Directive for spatial data infrastructures in Europe.",
+          "tags": ["INSPIRE", "EU"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 22,
+          "title": "API4INSPIRE Project",
+          "url": "https://datacoveeu.github.io/API4INSPIRE/",
+          "description": "API4INSPIRE is a project aimed at modernizing access to INSPIRE data through APIs, enabling easier and more efficient discovery, access, and use of spatial datasets compliant with the INSPIRE Directive.",
+          "tags": ["INSPIRE", "API", "EU"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 23,
+          "title": "OGC SensorThings API Standard",
+          "url": "https://www.ogc.org/standards/sensorthings/",
+          "description": "The OGC SensorThings API is an open standard for connecting Internet of Things (IoT) devices, sensors, and data to the web, enabling the integration of geospatial and sensor information through standardized APIs.",
+          "tags": ["OGC", "SensorThingsAPI"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 24,
+          "title": "ESDAC Soil Data and Maps",
+          "url": "https://esdac.jrc.ec.europa.eu/resource-type/soil-data-maps",
+          "description": "The European Soil Data Centre (ESDAC) provides access to a wide range of soil-related datasets, maps, indicators, and assessments for Europe, supporting soil research, environmental monitoring, and sustainable land management policies.",
+          "tags": ["Maps", "ESDAC"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        },
+        {
+          "id": 26,
+          "title": "USDA Soil Texture Class Determination Method",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0016706103002234",
+          "description": "Scientific article discussing methods for determining soil texture classes based on sand, silt, and clay contents, with insights into laboratory and field techniques for soil classification according to USDA standards.",
+          "tags": ["Soil Texture", "USDA"],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": ["open"]
+        },
+        {
+          "id": 27,
+          "title": "Eurostat GISCO - Territorial Units for Statistics (NUTS)",
+          "url": "https://ec.europa.eu/eurostat/web/gisco/geodata/statistical-units/territorial-units-statistics",
+          "description": "Access to the NUTS (Nomenclature of Territorial Units for Statistics) datasets from Eurostat GISCO, providing standardized geospatial data on administrative and statistical boundaries across Europe.",
+          "tags": ["NUTS", "Administrative Boundaries"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        },
+        {
+          "id": 28,
+          "title": "Registro Nazionale dei Geodati - CodeList",
+          "url": "https://registry.geodati.gov.it/codelist",
+          "description": "Il Registro Nazionale dei Geodati mette a disposizione le codelist ufficiali utilizzate per l'interscambio e la standardizzazione dei dati geospaziali in Italia, in linea con le specifiche INSPIRE.",
+          "tags": ["CodeList", "INSPIRE"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 29,
+          "title": "INSPIRE WRB Qualifier Value Codelist",
+          "url": "https://inspire.ec.europa.eu/codelist/WRBQualifierValue",
+          "description": "This INSPIRE codelist provides standardized qualifiers based on the World Reference Base (WRB) for Soil Resources, used for describing soil characteristics within European spatial datasets.",
+          "tags": ["INSPIRE", "WRB", "Codelist"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 30,
+          "title": "ESDAC - Soil Contamination",
+          "url": "https://esdac.jrc.ec.europa.eu/themes/soil-contamination",
+          "description": "Explore soil contamination data and information from the European Soil Data Centre (ESDAC), including datasets on polluted sites, heavy metals, organic pollutants, and risk assessments supporting soil protection policies in Europe.",
+          "tags": ["Soil Contamination", "ESDAC"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        },
+        {
+          "id": 31,
+          "title": "Soil Layers - Global Soil Maps",
+          "url": "https://soilmaps.wordpress.com/soil-layers/",
+          "description": "A collection of global soil datasets providing information on soil properties such as organic carbon, texture, bulk density, and depth. Useful for research, modeling, and sustainable land management practices.",
+          "tags": ["Soil Maps"],
+          "download": 1,
+          "download_mode": "ZIP 📦",
+          "stato": ["open"]
+        },
+        {
+          "id": 32,
+          "title": "ISPRA - Servizi Procedimenti WFS",
+          "url": "https://sinacloud.isprambiente.it/arcgisadv/rest/services/Hosted/servizi_procedimenti_WFS/FeatureServer",
+          "description": "FeatureServer WFS provided by ISPRA (Italian Institute for Environmental Protection and Research), offering access to spatial datasets related to environmental procedures and geographic information in Italy.",
+          "tags": ["ISPRA", "WFS", "GIS", "Environment", "Italy"],
+          "download": 1,
+          "download_mode": "WFS 📦",
+          "stato": ["open"]
+        },
+        {
+          "id": 33,
+          "title": "SPADE 14 - Soil Profiles Data",
+          "url": "https://esdac.jrc.ec.europa.eu/content/spade-14",
+          "description": "SPADE 14 is a harmonized database of georeferenced soil profiles across Europe, compiled by the European Soil Data Centre (ESDAC) to support soil-related research and environmental applications.",
+          "tags": [
+            "Soil Data",
+            "Soil Profiles",
+            "ESDAC",
+            "Europe",
+            "Environmental Research"
+          ],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": ["open"]
+        }
+      ]
+    },
+    {
+      "name": "Digital Mapping",
+      "collection": "Digital Mapping",
+      "data": [
+        {
+          "id": 1,
+          "title": "Copernicus Land Monitoring Service - Products",
+          "url": "https://land.copernicus.eu/en/products",
+          "description": "Access a wide range of land monitoring products from the Copernicus programme, including datasets on land cover, land use, vegetation, water, soil, and biophysical parameters, supporting sustainable environmental management across Europe.",
+          "tags": ["Copernicus", "Land Monitoring", "EU"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        }
+      ]
+    },
+    {
+      "name": "Programming",
+      "collection": "Programming",
+      "data": [
+        {
+          "id": 1,
+          "title": "AI in Agriculture - Precision Farming Techniques",
+          "url": "https://www.freecodecamp.org/news/ai-in-agriculture-book/#heading-chapter-1-precision-agriculture-techniques-and-benefits",
+          "description": "A free and detailed guide explaining how AI and machine learning are revolutionizing agriculture, with Python code examples for precision farming.",
+          "tags": ["AI", "Agriculture", "Python", "LLMs"],
+          "download": 0,
+          "download_mode": "",
           "stato": ["open"]
         }
       ]
