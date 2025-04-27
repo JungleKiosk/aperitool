@@ -3,7 +3,7 @@ import { createI18n } from "vue-i18n";
 const messages = {
   en: {
     navbar: {
-      home: "home",
+      home: "Home",
       tools: "Tools",
       links: "Links"
     },

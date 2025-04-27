@@ -87,8 +87,8 @@ export default {
 <template>
   <div class="container">
     <!-- Fixed Search and Download Filter -->
-    <div class="container_filters">
-      <div class="col-12 filter-bar">
+    <div class="container_filters_links">
+      <div class="col-12 col-lg-6">
         <div class="flex-grow-1 d-flex">
           <input
             v-model="searchQuery"
@@ -122,7 +122,7 @@ export default {
             <button
               v-for="group in groupedTags"
               :key="group.category"
-              class="btn btn-outline-primary mx-1"
+              class="btn btn_blulight mx-1"
               @click="openCategoryModal(group.category)"
             >
               {{ group.category }}
@@ -131,7 +131,6 @@ export default {
         </div>
       </div>
     </div>
-
     <div class="row mt-5">
       <!-- Collections and Cards -->
       <div v-for="col in filteredCollections" :key="col.name" class="mb-5">
@@ -144,6 +143,8 @@ export default {
           >
             <div class="card h-100 shadow-sm">
               <div class="card-body d-flex flex-column">
+                <small class="">{{ col.name }}</small>
+                <hr />
                 <h5 class="card-title text-info">{{ item.title }}</h5>
                 <p class="card-text flex-grow-1">{{ item.description }}</p>
                 <div v-if="item.download === 1" class="fw-bold mb-2">
@@ -192,14 +193,23 @@ export default {
             ></button>
           </div>
           <div class="modal-body">
-            <div v-for="tag in getTagsForOpenedCategory()" :key="tag.id">
-              <span
-                class="badge bg-info text-dark me-1 mb-1"
-                style="cursor: pointer"
-                @click="filterByTag(tag.name)"
-              >
-                {{ tag.name }}
-              </span>
+            <div
+              class="container"
+              v-for="tag in getTagsForOpenedCategory()"
+              :key="tag.id"
+            >
+            <div class="row">
+               <div class="col-2">
+                <span
+                  class="badge bg-info text-dark me-1 mb-1"
+                  style="cursor: pointer"
+                  @click="filterByTag(tag.name)"
+                >
+                  {{ tag.name }}
+                </span>
+              </div>
+            </div>
+             
             </div>
           </div>
         </div>
@@ -218,11 +228,6 @@ export default {
 <style scoped>
 .category-slider {
   white-space: nowrap;
-}
-.card {
-  border: none;
-  background-color: rgb(0, 0, 0);
-  color: white;
 }
 
 .modal {

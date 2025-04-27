@@ -45,9 +45,9 @@ export default {
           {{ isDarkMode ? 'L' : 'D' }}
         </button>
       </li>
-      <li>
+<!--       <li>
         <lang></lang>
-      </li>
+      </li> -->
     </ul>
   </nav>
 </template>

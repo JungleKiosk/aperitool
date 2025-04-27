@@ -1,0 +1,26 @@
+@use "../partials/variables" as *;
+
+.container_filters_links {
+    padding-top: 3rem;
+    position: sticky;
+    top: 60px;
+    z-index: 999;
+    background-color: $bg_body;
+  }
+  
+  
+  .category-slider::-webkit-scrollbar {
+    width: 5px;
+    border-radius: 20px;
+  }
+  
+  .category-slider::-webkit-scrollbar-thumb {
+    background-color: $notadark;
+    height: 123px;
+    border-radius: 20px;
+  }
+  
+  .category-slider::-webkit-scrollbar-thumb:hover {
+    background-color: $notalight;
+    border-radius: 20px;
+  }
