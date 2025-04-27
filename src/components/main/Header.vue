@@ -1,5 +1,6 @@
 <script>
 export default {
+    name: Headers,
     components: {
        
     },
@@ -8,7 +9,7 @@ export default {
 
 <template>
     <div id="app">
-        <header id="header" class="pt-5">
+        <header id="header">
             <div class="row justify-content-center">
                 <div class="col-12 col-lg-4">
                     <div class="title-container">
@@ -21,7 +22,4 @@ export default {
 </template>
 
 <style scoped>
-
-
-
 </style>

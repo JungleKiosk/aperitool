@@ -98,6 +98,23 @@ body.dark-mode .theme-button {
   color: white;
 }
 
+#header {
+  padding-top: 50px;
+}
+
+.container_filters {
+  padding-top: 3rem;
+  position: sticky;
+  top: 60px; /* spazio sotto la navbar */
+  z-index: 999;
+  background-color: $bg_body;
+}
+
+
+
+
+
+
 .btn_blulight {
   color: $dark;
   background-color: $bludark;

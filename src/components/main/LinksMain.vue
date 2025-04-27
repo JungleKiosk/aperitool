@@ -85,10 +85,10 @@ export default {
 </script>
 
 <template>
-  <div class="container mt-5">
+  <div class="container">
     <!-- Fixed Search and Download Filter -->
     <div class="container_filters">
-      <div class="col-2 filter-bar">
+      <div class="col-12 filter-bar">
         <div class="flex-grow-1 d-flex">
           <input
             v-model="searchQuery"
@@ -98,7 +98,7 @@ export default {
             placeholder="Search..."
           />
           <button class="btn btn-warning mx-2" @click="resetAllFilters">
-            Reset 🔄
+            Reset
           </button>
         </div>
         <div class="form-check ms-3">
@@ -132,39 +132,41 @@ export default {
       </div>
     </div>
 
-    <!-- Collections and Cards -->
-    <div v-for="col in filteredCollections" :key="col.name" class="mb-5">
-      <h3 class="mb-3">{{ col.name }}</h3>
-      <div class="row g-4">
-        <div
-          v-for="item in col.data"
-          :key="item.id"
-          class="col-12 col-md-6 col-lg-4"
-        >
-          <div class="card h-100 shadow-sm">
-            <div class="card-body d-flex flex-column">
-              <h5 class="card-title text-info">{{ item.title }}</h5>
-              <p class="card-text flex-grow-1">{{ item.description }}</p>
-              <div v-if="item.download === 1" class="fw-bold mb-2">
-                Download: {{ item.download_mode }}
-              </div>
-              <div class="mb-2">
-                <span
-                  v-for="tag in item.tags"
-                  :key="tag"
-                  class="badge bg-info text-dark me-1"
+    <div class="row mt-5">
+      <!-- Collections and Cards -->
+      <div v-for="col in filteredCollections" :key="col.name" class="mb-5">
+        <h3 class="mb-3">{{ col.name }}</h3>
+        <div class="row g-4">
+          <div
+            v-for="item in col.data"
+            :key="item.id"
+            class="col-12 col-md-6 col-lg-4"
+          >
+            <div class="card h-100 shadow-sm">
+              <div class="card-body d-flex flex-column">
+                <h5 class="card-title text-info">{{ item.title }}</h5>
+                <p class="card-text flex-grow-1">{{ item.description }}</p>
+                <div v-if="item.download === 1" class="fw-bold mb-2">
+                  Download: {{ item.download_mode }}
+                </div>
+                <div class="mb-2">
+                  <span
+                    v-for="tag in item.tags"
+                    :key="tag"
+                    class="badge bg-info text-dark me-1"
+                  >
+                    {{ tag }}
+                  </span>
+                </div>
+                <a
+                  v-if="item.url"
+                  :href="item.url"
+                  target="_blank"
+                  class="btn btn-primary btn-sm mt-auto"
                 >
-                  {{ tag }}
-                </span>
+                  Visit Site
+                </a>
               </div>
-              <a
-                v-if="item.url"
-                :href="item.url"
-                target="_blank"
-                class="btn btn-primary btn-sm mt-auto"
-              >
-                Visit Site
-              </a>
             </div>
           </div>
         </div>
@@ -214,13 +216,6 @@ export default {
 </template>
 
 <style scoped>
-.container_filters {
-  background-color: #0e2339;
-  position: fixed;
-  top: 220px;
-  z-index: 999;
-}
-
 .category-slider {
   white-space: nowrap;
 }
