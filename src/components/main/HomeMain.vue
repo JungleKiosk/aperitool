@@ -1,58 +1,46 @@
 <script>
 export default {
   name: "HomeMain",
+  data() {
+    return {
+      keywords: [
+        "Agronomy", "Forestry", "GIS", "QGIS", "Remote Sensing", "Python", "Soil Data",
+        "OCR", "Web Development", "Data Cleaning", "Environmental Analysis", "Survival"
+      ],
+    };
+  },
 };
 </script>
 
 <template>
-  <div class="container-fluid mt-5">
-    <div class="row justify-content-center text-center">
-      <div class="col-12 col-lg-8 p-4">
-        <p class="lead mt-3">
-          Qua puoi trovare una selezione di strumenti e risorse utili per
-            l'analisi dati in ambito agronomico, forestale e ambientale, la
-            programmazione e lo sviluppo web, il web scraping, la gestione e
-            pulizia dei dati, la trasformazione di documenti tra formati diversi
-            (es: da OCR a txt) e persino tecniche di sopravvivenza.
+  <div class="container">
+    <!-- Keywords Slider -->
+<!--     <div class="keyword-slider text-center">
+      <div class="scrolling-keywords">
+        <span v-for="(word, index) in keywords" :key="index" class="badge bg-info text-dark mx-2 p-2 rounded-pill">
+          {{ word }}
+        </span>
+      </div>
+    </div> -->
+
+    <div class="row justify-content-center align-items-center">
+      <div class="col-12 col-lg-6">
+        <p class="display-5 text-center text-lg-start">
+          Explore tools and resources for environmental data analysis, programming, web scraping, spatial data and
+          more.
         </p>
+      </div>
+      <div class="col-12 col-lg-6">
+        <img src="../../assets/img/home/1_blue_girls.png" alt="">
       </div>
     </div>
 
-    <div class="row justify-content-center text-center mt-5">
-      <div class="col-10 col-lg-8">
-        <h2 class="text-info mb-3">Tools Section ⚙️</h2>
-        <p>
-          Access practical Python scripts and GIS utilities — ready to download
-          and use for <strong>soil analysis</strong>,
-          <strong>spatial data extraction</strong>, and
-          <strong>soil classification</strong>.
-        </p>
-      </div>
-    </div>
-
-    <div class="row justify-content-center text-center mt-5">
-      <div class="col-10 col-lg-8">
-        <h2 class="text-success mb-3">Links Collection 🌎</h2>
-        <p>
-          Find authoritative links to
-          <strong>DEM / DTM / LiDAR datasets</strong>,
-          <strong>EU Soil Monitoring initiatives</strong>,
-          <strong>USDA resources</strong>, <strong>FAO standards</strong>, and
-          many other open-access scientific repositories.
-        </p>
-      </div>
-    </div>
-
-    <div class="row justify-content-center text-center mt-5">
-      <div class="col-10 col-lg-8">
-        <h2 class="text-warning mb-3">Why APERITOOL? 🍀</h2>
-        <p>
-          APERITOOL is designed to simplify your workflow: everything you need
-          for <strong>data collection</strong>,
-          <strong>soil texture classification</strong>,
-          <strong>satellite data discovery</strong>, and
-          <strong>environmental modeling</strong> — all in one place, always
-          accessible.
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-10 col-lg-8">
+        <p class="fs-5 text-justify">
+          APERITOOLS is a collection of useful tools for data analysis in agronomy, forestry, and environmental
+          sciences. It also includes Python scripts, QGIS extensions, document converters, and even practical techniques
+          for remote fieldwork and survival. Ideal for researchers, developers, students, and nature lovers.
         </p>
       </div>
     </div>
@@ -60,11 +48,29 @@ export default {
 </template>
 
 <style scoped>
-h1 {
-  font-family: "Montserrat", sans-serif;
+
+img{
+  width: 100%;
 }
 
-p {
-  font-size: 1.2rem;
+
+.keyword-slider {
+  overflow-x: none;
+  white-space: nowrap;
+}
+
+.scrolling-keywords {
+  display: inline-block;
+  animation: scroll 30s linear infinite;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(100%);
+  }
+
+  100% {
+    transform: translateX(-100%);
+  }
 }
 </style>

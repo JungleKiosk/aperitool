@@ -1,0 +1,14 @@
+[
+    {
+        "src": "logo/py_logo.svg",
+        "alt": "Python"
+    },
+    {
+        "src": "logo/gee.svg",
+        "alt": "Google Earth Engine"
+    },
+    {
+        "src": "logo/vuejs.svg",
+        "alt": "Vue.js"
+    }
+]

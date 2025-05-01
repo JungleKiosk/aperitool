@@ -1,10 +1,11 @@
 <script>
 import HomeMain from "../components/main/HomeMain.vue";
+import Wave from "./../components/Wave.vue";
 
 export default {
     name: "home",
     components: {
-        HomeMain
+        HomeMain, Wave
     }
 
 };
@@ -12,7 +13,8 @@ export default {
 
 <template>
     <div>
-        <main class="container mt-5">
+        <Wave></Wave>
+        <main class="container">
             <HomeMain></HomeMain>
         </main>
 

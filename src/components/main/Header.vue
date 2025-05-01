@@ -1,8 +1,10 @@
 <script>
+
+
 export default {
     name: Headers,
     components: {
-       
+        
     },
 };
 </script>

@@ -3,10 +3,9 @@ import Navbar from "./components/partials/Navbar.vue";
 import Header from "./components/main/Header.vue";
 import Footer from "./components/partials/Footer.vue";
 
-
 export default {
   components: {
-    Navbar, Footer, Header
+    Navbar, Footer, Header,
   },
   data() {
     return {
@@ -18,8 +17,9 @@ export default {
 
 <template>
   <div id="app">
-    <Navbar/>
+    <Navbar />
     <Header></Header>
+    
     <router-view />
     <Footer />
   </div>
