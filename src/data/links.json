@@ -578,6 +578,16 @@
           "download": 1,
           "download_mode": "PDF 📝",
           "stato": ["open"]
+        },
+        {
+          "id": 34,
+          "title": "Soil Organic Carbon Mapping - Cookbook - Global Soil Organic Carbon",
+          "url": "https://openknowledge.fao.org/server/api/core/bitstreams/5628102c-c895-416b-bbf2-728cadf3bc70/content",
+          "description": "creation and methodology of the GSOCmap (Global Soil Organic Carbon Map), the first global map of organic carbon deposits in soil (SOC).",
+          "tags": ["R", "Remote Sensing", "FAO"],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": ["open"]
         }
       ]
     },

@@ -29,5 +29,13 @@
     "links": "https://soilgrids.org/",
     "tags": ["Global Data", "Soil Mapping", "ISRIC"],
     "filename": 0
+  },
+  {
+    "id": "5",
+    "name": "Transcripter Audio with Whisper 🗣️📝",
+    "description": "This project uses OpenAI's Whisper to transcribe audio files into text in Google Colab",
+    "links": "https://github.com/JungleKiosk/whisper_gcolab_localaudio?tab=readme-ov-file#transcription-project-with-whisper-shipit",
+    "tags": ["Python", "Whisper", "Audio", "Transcription"],
+    "filename": 0
   }
 ]

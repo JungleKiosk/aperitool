@@ -9,18 +9,18 @@
   }
   
   
-  .category-slider::-webkit-scrollbar {
+  .category_slider_tools::-webkit-scrollbar {
     width: 5px;
     border-radius: 20px;
   }
   
-  .category-slider::-webkit-scrollbar-thumb {
+  .category_slider_tools::-webkit-scrollbar-thumb {
     background-color: $notadark;
     height: 123px;
     border-radius: 20px;
   }
   
-  .category-slider::-webkit-scrollbar-thumb:hover {
+  .category_slider_tools::-webkit-scrollbar-thumb:hover {
     background-color: $notalight;
     border-radius: 20px;
   }

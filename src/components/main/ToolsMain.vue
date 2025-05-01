@@ -86,24 +86,26 @@ export default {
           </label>
         </div>
       </div>
-    </div>
-
-    <!-- Tag Slider -->
-    <div class="row">
-      <div class="col-12">
-        <div class="d-flex overflow-auto mb-2 category-slider p-2">
-          <button
-            v-for="tag in allTags"
-            :key="tag"
-            class="btn mx-1"
-            :class="selectedTag === tag ? 'btn-primary' : 'btn_blulight'"
-            @click="filterByTag(tag)"
-          >
-            {{ tag }}
-          </button>
+      <div class="row">
+        <div class="category_slider_tools">
+          <div class="col-12">
+            <div class="d-flex overflow-auto mb-2 p-2">
+              <button
+                v-for="tag in allTags"
+                :key="tag"
+                class="btn mx-1"
+                :class="selectedTag === tag ? 'btn-primary' : 'btn_blulight'"
+                @click="filterByTag(tag)"
+              >
+                {{ tag }}
+              </button>
+            </div>
+          </div>
         </div>
       </div>
     </div>
+
+    <!-- Tag Slider -->
 
     <!-- Tools Cards -->
     <div class="row g-4 mt-5">
