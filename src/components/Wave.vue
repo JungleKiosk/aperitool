@@ -1,13 +1,19 @@
 <script>
 import python from "../assets/img/logo/py_logo.svg";
-import js from "../assets/img/logo/js.svg";
+import gee from "../assets/img/logo/gee.svg";
+import colab from "../assets/img/logo/colab.svg";
+import excel from "../assets/img/logo/excel.svg";
+import pdf from "../assets/img/logo/pdf.svg";
+import json from "../assets/img/logo/json.svg";
 import vue from "../assets/img/logo/vuejs.svg";
+import vitejs from "../assets/img/logo/vitejs.svg";
+import js from "../assets/img/logo/js.svg";
 
 export default {
     name: "wave",
     data() {
         return {
-            images: [python, js, vue],
+            images: [python, colab, gee, excel, json, pdf, vue, vitejs, js ],
             currentIndex: 0,
             currentImage: python
         };

@@ -15,7 +15,7 @@ export default {
 <template>
   <div class="container">
     <!-- Keywords Slider -->
-<!--     <div class="keyword-slider text-center">
+    <!--     <div class="keyword-slider text-center">
       <div class="scrolling-keywords">
         <span v-for="(word, index) in keywords" :key="index" class="badge bg-info text-dark mx-2 p-2 rounded-pill">
           {{ word }}
@@ -23,15 +23,15 @@ export default {
       </div>
     </div> -->
 
-    <div class="row justify-content-center align-items-center">
+    <div class="row justify-content-center">
       <div class="col-12 col-lg-6">
         <p class="display-5 text-center text-lg-start">
-          Explore tools and resources for environmental data analysis, programming, web scraping, spatial data and
+          Explore tools and resources about environmental data analysis, programming, web scraping, spatial data and
           more.
         </p>
       </div>
       <div class="col-12 col-lg-6">
-        <img src="../../assets/img/home/1_blue_girls.png" alt="">
+        <img src="../../assets/img/home/3_hand.png" alt="">
       </div>
     </div>
 
@@ -43,14 +43,16 @@ export default {
           for remote fieldwork and survival. Ideal for researchers, developers, students, and nature lovers.
         </p>
       </div>
+      <div class="col-12 col-lg-6">
+        <img src="../../assets/img/home/2_girls_yoga.png" alt="">
+      </div>
     </div>
   </div>
 </template>
 
 <style scoped>
-
-img{
-  width: 100%;
+img {
+  width: 90%;
 }
 
 
