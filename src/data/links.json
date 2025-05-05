@@ -1,6 +1,22 @@
 {
   "links": [
     {
+      "name": "Climate",
+      "collection": "Climate",
+      "data": [
+        {
+          "id": 1,
+          "title": "Climate Data Store - Copernicus",
+          "url": "https://cds.climate.copernicus.eu/datasets",
+          "description": " Historical Data: ERA5-Land",
+          "tags": ["Climate", "Copernicus", "EU", "CDS"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        }
+      ]
+    },
+    {
       "name": "LUCAS",
       "collection": "lucas",
       "data": [
@@ -142,6 +158,267 @@
           "tags": ["LUCAS", "QGIS", "Python", "Google Maps"],
           "download": "",
           "download_mode": "",
+          "stato": ["open"]
+        }
+      ]
+    },
+    {
+      "name": "ESDAC",
+      "collection": "ESDAC",
+      "data": [
+        {
+          "id": 1,
+          "title": "Phosphorus budget and P stocks",
+          "url": "https://esdac.jrc.ec.europa.eu/content/phosphorus-budget-and-p-stocks",
+          "description": "Phosphorus stocks and budgets across European soils.",
+          "tags": ["Phosphorus", "Soil", "Nutrients"],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": ["open"]
+        },
+        {
+          "id": 2,
+          "title": "Heavy metals in EU soils (LUCAS 2009)",
+          "url": "https://esdac.jrc.ec.europa.eu/content/maps-heavy-metals-soils-eu-based-lucas-2009-hm-data-0",
+          "description": "Maps and datasets of heavy metals in EU soils based on LUCAS 2009.",
+          "tags": ["Heavy Metals", "LUCAS", "Soil Contamination"],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": ["open"]
+        },
+        {
+          "id": 3,
+          "title": "Bacterial and fungal biomass",
+          "url": "https://esdac.jrc.ec.europa.eu/content/bacterial-fungal-biomass-fatty-acid-methyl-esters",
+          "description": "Dataset on microbial biomass based on fatty acid methyl esters.",
+          "tags": ["Biomass", "Microbiology", "Soil"],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": ["open"]
+        },
+        {
+          "id": 4,
+          "title": "Pesticide residues in agricultural soils",
+          "url": "https://esdac.jrc.ec.europa.eu/content/pesticides-residues-european-agricultural-soils",
+          "description": "Pesticide occurrence data in EU agricultural soils.",
+          "tags": ["Pesticides", "Agriculture", "Soil Quality"],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": ["open"]
+        },
+        {
+          "id": 5,
+          "title": "SPADE 1.4",
+          "url": "https://esdac.jrc.ec.europa.eu/content/spade-14",
+          "description": "Soil Profile Analytical Database - SPADE version 1.4.",
+          "tags": ["SPADE", "Soil Profiles", "Database"],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": ["open"]
+        },
+        {
+          "id": 6,
+          "title": "Chemical properties from LUCAS topsoil",
+          "url": "https://esdac.jrc.ec.europa.eu/content/chemical-properties-european-scale-based-lucas-topsoil-data",
+          "description": "Chemical properties of European topsoils derived from LUCAS sampling.",
+          "tags": ["LUCAS", "Soil Chemistry", "Topsoil"],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": ["open"]
+        },
+        {
+          "id": 7,
+          "title": "Chemical properties from LUCAS topsoil (EU-scale)",
+          "url": "https://esdac.jrc.ec.europa.eu/content/chemical-properties-european-scale-based-lucas-topsoil-data",
+          "description": "Chemical properties of topsoil samples across Europe based on LUCAS survey.",
+          "tags": ["LUCAS", "Soil Chemistry", "Topsoil", "EU"],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": ["open"]
+        },
+        {
+          "id": 8,
+          "title": "Physical properties of topsoil (LUCAS EU-based)",
+          "url": "https://esdac.jrc.ec.europa.eu/content/topsoil-physical-properties-europe-based-lucas-topsoil-data",
+          "description": "Physical soil properties dataset derived from the European LUCAS topsoil samples.",
+          "tags": ["LUCAS", "Soil Texture", "Topsoil", "Physical Properties"],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": ["open"]
+        },
+        {
+          "id": 8,
+          "title": "Phosphorus cycle in European agricultural soils",
+          "url": "https://esdac.jrc.ec.europa.eu/content/phosphorus-cycle-european-agricultural-soils",
+          "description": "Data on the phosphorus cycle and stock in European agricultural topsoils.",
+          "tags": ["Phosphorus", "Nutrient cycle", "Agriculture", "Topsoil"],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": ["open"]
+        },
+        {
+          "id": 9,
+          "title": "Soil organic carbon losses by lateral transfer to oceans",
+          "url": "https://esdac.jrc.ec.europa.eu/content/soil-organic-carbon-losses-lateral-transfer-oceans",
+          "description": "Dataset describing SOC losses due to erosion and runoff reaching marine systems.",
+          "tags": ["Carbon", "Soil erosion", "Climate", "Topsoil"],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": ["open"]
+        },
+        {
+          "id": 10,
+          "title": "Soil bulk density in Europe",
+          "url": "https://esdac.jrc.ec.europa.eu/content/soil-bulk-density-europe",
+          "description": "Bulk density data for European topsoils.",
+          "tags": ["Bulk Density", "Soil", "Europe"],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": ["open"]
+        },
+        {
+          "id": 11,
+          "title": "Zinc concentrations in EU topsoils",
+          "url": "https://esdac.jrc.ec.europa.eu/content/zn-concentrations-eu-topsoils",
+          "description": "Maps and data of Zn (zinc) concentration in European Union topsoil samples.",
+          "tags": ["Zinc", "Soil Chemistry", "Heavy Metals", "Topsoil"],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": ["open"]
+        },
+        {
+          "id": 12,
+          "title": "Cadmium concentrations in EU topsoils",
+          "url": "https://esdac.jrc.ec.europa.eu/content/cadmium-topsoils-european-union",
+          "description": "Dataset of cadmium levels in topsoils across the EU.",
+          "tags": ["Cadmium", "Heavy Metals", "Soil Contamination", "Topsoil"],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": ["open"]
+        },
+        {
+          "id": 13,
+          "title": "Mercury content in EU topsoils",
+          "url": "https://esdac.jrc.ec.europa.eu/content/mercury-content-european-union-topsoil",
+          "description": "Mercury stock and distribution across EU agricultural soils, including hotspots.",
+          "tags": ["Mercury", "Soil Contamination", "Heavy Metals", "Topsoil"],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": ["open"]
+        },
+        {
+          "id": 14,
+          "title": "Soil microbial biomass and respiration",
+          "url": "https://esdac.jrc.ec.europa.eu/content/soil-microbial-biomass-and-respiration",
+          "description": "Dataset on microbial biomass and respiration as soil health indicators.",
+          "tags": [
+            "Soil Biology",
+            "Microbial Biomass",
+            "Respiration",
+            "Health"
+          ],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": ["open"]
+        },
+        {
+          "id": 15,
+          "title": "Caesium-137 and Plutonium-239/240 in European topsoils",
+          "url": "https://esdac.jrc.ec.europa.eu/content/caesium-137-and-plutonium-239240-european-topsoils",
+          "description": "Radiological data on Cs-137 and Pu-239/240 across EU topsoils.",
+          "tags": ["Radioactivity", "Topsoil", "Contaminants", "EU"],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": ["open"]
+        },
+        {
+          "id": 16,
+          "title": "Pan-European SOC stock in agricultural soils",
+          "url": "https://esdac.jrc.ec.europa.eu/content/pan-european-soc-stock-agricultural-soils",
+          "description": "Soil organic carbon stocks across EU agricultural areas.",
+          "tags": ["SOC", "Carbon Stock", "Agriculture", "Topsoil"],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": ["open"]
+        },
+        {
+          "id": 17,
+          "title": "Heavy metals in EU soils (LUCAS 2009)",
+          "url": "https://esdac.jrc.ec.europa.eu/content/maps-heavy-metals-soils-eu-based-lucas-2009-hm-data-0",
+          "description": "Georeferenced heavy metal data from LUCAS 2009.",
+          "tags": ["Heavy Metals", "LUCAS", "Topsoil", "Contaminants"],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": ["open"]
+        },
+        {
+          "id": 18,
+          "title": "Potential threats to soil biodiversity in Europe",
+          "url": "https://esdac.jrc.ec.europa.eu/content/potential-threats-soil-biodiversity-europe",
+          "description": "Maps highlighting areas at risk of losing soil biodiversity.",
+          "tags": ["Soil Biodiversity", "Threats", "EU"],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": ["open"]
+        },
+        {
+          "id": 19,
+          "title": "Soil organic carbon saturation capacity",
+          "url": "https://esdac.jrc.ec.europa.eu/content/soil-organic-carbon-saturation-capacity",
+          "description": "Assessment of SOC potential storage across EU soils.",
+          "tags": ["SOC", "Saturation", "Carbon Sequestration"],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": ["open"]
+        },
+        {
+          "id": 20,
+          "title": "Maps: storing and filtering capacity of soils in Europe",
+          "url": "https://esdac.jrc.ec.europa.eu/content/maps-storing-and-filtering-capacity-soils-europe",
+          "description": "Repeated dataset entry for soil filtering capacity maps.",
+          "tags": ["Filtering", "Water Retention", "Soil Function"],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": ["open"]
+        },
+        {
+          "id": 21,
+          "title": "Soil organic carbon projections",
+          "url": "https://esdac.jrc.ec.europa.eu/content/soil-organic-carbon-soc-projections-europe",
+          "description": "Future scenarios of SOC distribution under various land uses.",
+          "tags": ["SOC", "Projections", "Carbon", "Climate"],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": ["open"]
+        },
+        {
+          "id": 22,
+          "title": "LUCAS 2018 Topsoil Data",
+          "url": "https://esdac.jrc.ec.europa.eu/content/lucas-2018-topsoil-data",
+          "description": "Official dataset of LUCAS 2018 topsoil sampling campaign.",
+          "tags": ["LUCAS", "Topsoil", "2018", "Soil Properties"],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": ["open"]
+        },
+        {
+          "id": 23,
+          "title": "LUCAS 2009 Topsoil Data",
+          "url": "https://esdac.jrc.ec.europa.eu/content/lucas-2009-topsoil-data",
+          "description": "Dataset from the first LUCAS soil sampling in 2009.",
+          "tags": ["LUCAS", "Topsoil", "2009", "Europe"],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": ["open"]
+        },
+        {
+          "id": 24,
+          "title": "LUCAS 2015 Topsoil Data",
+          "url": "https://esdac.jrc.ec.europa.eu/content/lucas2015-topsoil-data",
+          "description": "Data from the 2015 LUCAS soil survey.",
+          "tags": ["LUCAS", "Topsoil", "2015", "EU Soil"],
+          "download": 1,
+          "download_mode": "Request From 📩",
           "stato": ["open"]
         }
       ]
