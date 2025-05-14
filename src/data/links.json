@@ -899,6 +899,22 @@
           "stato": ["open"]
         }
       ]
+    },
+    {
+      "name": "Cadastral",
+      "collection": "Cadastral",
+      "data": [
+        {
+          "id": 1,
+          "title": "Cadastral - Italy",
+          "url": "https://geodati.gov.it/geoportale/visualizzazione-metadati/scheda-metadati/?uuid=age%3AS_0000_ITALIA",
+          "description": "Download all cadastral parcels of ITALY - also for each REGION",
+          "tags": ["Cadastrals", "gov"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        }
+      ]
     }
   ]
 }
