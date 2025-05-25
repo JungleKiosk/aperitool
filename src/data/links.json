@@ -915,6 +915,2642 @@
           "stato": ["open"]
         }
       ]
+    },
+    {
+      "name": "Varie - ciao",
+      "collection": "Varie - ciao",
+      "data": [
+        {
+          "id": 1,
+          "title": "Link 1",
+          "url": "https://www.linkedin.com/posts/free-code-camp_there-are-many-fields-in-which-ai-can-streamline-activity-7285219760441540609-I31J?utm_medium=ios_app&utm_source=social_share_sheet&utm_campaign=whatsapp",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 2,
+          "title": "Link 2",
+          "url": "https://www.linkedin.com/posts/free-code-camp_there-are-many-fields-in-which-ai-can-streamline-activity-7285219760441540609-I31J?utm_medium=ios_app&utm_source=social_share_sheet&utm_campaign=whatsapp",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 3,
+          "title": "Link 3",
+          "url": "https://www.linkedin.com/posts/michele-torresani-1a2572329_during-the-war-in-ukraine-alongside-the-activity-7285942351078825986-uDOG?utm_source=share&utm_medium=member_ios",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 4,
+          "title": "Link 4",
+          "url": "https://www.linkedin.com/posts/chandrakumarpillai_5-websites-that-feel-illegal-to-use-ugcPost-7286255138896281600-8Xje?utm_medium=ios_app&utm_source=social_share_sheet&utm_campaign=whatsapp",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 5,
+          "title": "Link 5",
+          "url": "https://youtube.com/shorts/YCWredszNd4?si=zI-44wocPCI1aZhU",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 6,
+          "title": "Link 6",
+          "url": "https://youtube.com/shorts/s-VlbTcUDYc?si=JqnSOlVdqa10ooWK",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 7,
+          "title": "Link 7",
+          "url": "https://www.instagram.com/reel/DEzR7Jis-Ql/?igsh=Y200ampod2d6YzJr",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 8,
+          "title": "Link 8",
+          "url": "https://www.instagram.com/reel/DERwCXIsQky/?igsh=dG1nOXU4NXN4Y2o3",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 9,
+          "title": "Link 9",
+          "url": "https://www.instagram.com/reel/DCkDg3kIJtK/?igsh=MjU3aThsc292ejVz",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 10,
+          "title": "Link 10",
+          "url": "https://www.instagram.com/reel/DDnDa_CoXcL/?igsh=MW1qMWxpMnhpOW9pdw==",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 11,
+          "title": "Link 11",
+          "url": "https://www.instagram.com/reel/DCeo7qzoZZR/?igsh=MXc3YWV1bnM4N3Zkag==",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 12,
+          "title": "Link 12",
+          "url": "https://www.instagram.com/reel/DCEU5W8AQK5/?igsh=MWpqbW9oaDFudHA0eQ==",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 13,
+          "title": "Link 13",
+          "url": "https://www.instagram.com/reel/C_u6C3CgnIW/?igsh=MWUwN2ExNnAwdHhsbw==",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 14,
+          "title": "Link 14",
+          "url": "https://www.instagram.com/reel/DB8pw8eg-vm/?igsh=cXNubWczaGZkd204",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 15,
+          "title": "Link 15",
+          "url": "https://www.instagram.com/reel/DB8tqHdg3Jo/?igsh=MTZuc3pkeTZ2M2syag==",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 16,
+          "title": "Link 16",
+          "url": "https://www.instagram.com/reel/DB9BjOdoRnd/?igsh=MTB3cGhhZHJvdW5sZA==",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 17,
+          "title": "Link 17",
+          "url": "https://www.instagram.com/reel/DB6nFTrKwlu/?igsh=MXZsN3hpNXlnc241Ng==",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 18,
+          "title": "Link 18",
+          "url": "https://www.instagram.com/reel/DBI27IrIca2/?igsh=NDQ0c3R4ZGhwdHNy",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 19,
+          "title": "Link 19",
+          "url": "https://www.instagram.com/reel/C6qucIFqvF_/?igsh=MXJ1dXc0MDRqcGNmYg==",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 20,
+          "title": "Link 20",
+          "url": "https://www.instagram.com/reel/C64UFEaKpPW/?igsh=NTZxN2djN2tyY2t4",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 21,
+          "title": "Link 21",
+          "url": "https://www.linkedin.com/posts/neslihan-girgin_neslihighlight-ugcPost-7287503659830042624-JN9v?utm_medium=ios_app&utm_source=social_share_video_v2&utm_campaign=whatsapp",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 22,
+          "title": "Link 22",
+          "url": "https://www.linkedin.com/posts/shahab-jozdani-phd-a3978a189_%F0%9D%97%96%F0%9D%97%B5%F0%9D%97%AE%F0%9D%98%81%F0%9D%9F%AE%F0%9D%97%9A%F0%9D%97%B2%F0%9D%97%BC-%F0%9D%97%99%F0%9D%97%B6%F0%9D%97%BF%F0%9D%98%80%F0%9D%98%81-%F0%9D%97%A2%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%BB-%F0%9D%97%A6%F0%9D%97%BC%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%B0%F0%9D%97%B2-ugcPost-7288754983452180481-ixRw?utm_source=share&utm_medium=member_ios",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 23,
+          "title": "Link 23",
+          "url": "https://arxiv.org/pdf/2501.00536",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 24,
+          "title": "Link 24",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7292728442599473152?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 25,
+          "title": "Link 25",
+          "url": "https://www.linkedin.com/posts/karaneesh_reshare-activity-7292727476605108225-aOXt?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 26,
+          "title": "Link 26",
+          "url": "https://www.linkedin.com/posts/milan-janosov_geogpt-came-out-a-year-ago-however-i-am-activity-7292830467416850433-dbyX?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 27,
+          "title": "Link 27",
+          "url": "https://www.linkedin.com/posts/giacomo-cipollina_foca-a-new-quality-controlled-database-of-activity-7293924661707354112--I36?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 28,
+          "title": "Link 28",
+          "url": "https://www.linkedin.com/posts/rammcodes_vscode-html-css-activity-7294011516243046401-bz9O?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 29,
+          "title": "Link 29",
+          "url": "https://www.linkedin.com/posts/khusboo-%E2%86%97%EF%B8%8F-596a78203_im-shocked-why-people-arent-using-chatgpt-activity-7294039740440268801-fhej?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 30,
+          "title": "Link 30",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7294028068828971008?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 31,
+          "title": "Link 31",
+          "url": "https://www.linkedin.com/posts/deon-joseph-898549124_so-i-get-into-it-with-a-friend-on-another-activity-7293508330516267008-5MB8?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 32,
+          "title": "Link 32",
+          "url": "https://www.linkedin.com/posts/free-code-camp_when-you-build-an-app-you-may-want-to-get-activity-7294400012359188481-ijkZ?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 33,
+          "title": "Link 33",
+          "url": "https://www.linkedin.com/posts/andreaborruso_github-ondataarchivioanncsu-activity-7294317973354213379-TWSa?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 34,
+          "title": "Link 34",
+          "url": "https://andreasbm.github.io/web-skills/",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 35,
+          "title": "Link 35",
+          "url": "https://www.linkedin.com/posts/datapizza_ai-llm-chatgpt-activity-7294656417787994113--nzM?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 36,
+          "title": "Link 36",
+          "url": "https://www.linkedin.com/posts/shahab-jozdani-phd-a3978a189_geospatial-opensource-gis-activity-7294804016297873409-xNel?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 37,
+          "title": "Link 37",
+          "url": "https://youtu.be/eCWh09avlFw?si=eNdyNURW8taqcBdf",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 38,
+          "title": "Link 38",
+          "url": "https://www.linkedin.com/posts/harish-kumar-sh_reshare-jobseekers-intern-activity-7295390527993065472-kS9F?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 39,
+          "title": "Link 39",
+          "url": "https://plugins.qgis.org/",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 40,
+          "title": "Link 40",
+          "url": "https://www.linkedin.com/posts/mappinggis-com_c%C3%B3mo-descargar-im%C3%A1genes-modis-para-predecir-activity-7295361881471356928-58Vb?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 41,
+          "title": "Link 41",
+          "url": "https://www.linkedin.com/jobs/view/4146729317",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 42,
+          "title": "Link 42",
+          "url": "https://www.linkedin.com/posts/diagramgroup_larsenale-tech-dellagricoltura-50-vi-lascer%C3%A0-activity-7295001830961344512-PlOD?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 43,
+          "title": "Link 43",
+          "url": "https://www.linkedin.com/posts/diagramgroup_diagramgroup-activity-7295079545299230720-aWxN?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 44,
+          "title": "Link 44",
+          "url": "https://www.linkedin.com/posts/free-code-camp_these-days-cyberattacks-are-becoming-increasingly-activity-7296091310304677889-3C-v?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 45,
+          "title": "Link 45",
+          "url": "https://www.linkedin.com/posts/mashford-mahute-012487178_gis-remotesensing-google-activity-7296137120581099520-MlhU?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 46,
+          "title": "Link 46",
+          "url": "https://www.linkedin.com/posts/mashford-mahute-012487178_gis-remotesensing-google-activity-7296137120581099520-MlhU?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 47,
+          "title": "Link 47",
+          "url": "https://www.soils.org/stickers?q=stickers/",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 48,
+          "title": "Link 48",
+          "url": "https://www.linkedin.com/posts/alberto-orgiazzi-54442652_new-open-access-dataset-available-on-eu-activity-7289946554369527809-MMoF?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 49,
+          "title": "Link 49",
+          "url": "https://www.booking.com/Share-LEOAICT",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 50,
+          "title": "Link 50",
+          "url": "https://www.linkedin.com/posts/andreaborruso_archivioanncsureadmemd-at-main-ondata-activity-7295024012441612288-CME2?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 51,
+          "title": "Link 51",
+          "url": "https://www.linkedin.com/posts/mashford-mahute-012487178_gis-qgis-vector-activity-7296835091186487296-uOSJ?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 52,
+          "title": "Link 52",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7296891761132531712?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 53,
+          "title": "Link 53",
+          "url": "https://www.linkedin.com/posts/alexander-korolev-b05337183_giscarta-gis-dataviz-activity-7297174006795788288-WxDE?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 54,
+          "title": "Link 54",
+          "url": "https://www.linkedin.com/posts/mashford-mahute-012487178_gis-qgis-mapping-activity-7289350646078623744-SLOP?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 55,
+          "title": "Link 55",
+          "url": "https://www.linkedin.com/posts/heynayeem_your-dream-remote-job-is-just-a-click-away-activity-7297201223596707841-_g-Z?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 56,
+          "title": "Link 56",
+          "url": "https://www.linkedin.com/posts/khusboo-%E2%86%97%EF%B8%8F-596a78203_jobpreparation-remotejobs-websites-activity-7297202183664517121-g9Vl?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 57,
+          "title": "Link 57",
+          "url": "https://wordgptpro.com/",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 58,
+          "title": "Link 58",
+          "url": "https://www.linkedin.com/posts/women-in-geospatial_database-disasterrisk-mentorshipmonday-activity-7297223311200010240-o6qi?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 59,
+          "title": "Link 59",
+          "url": "https://docs.google.com/spreadsheets/d/1HIQdo_K5F3eft_6OmWhYpVke8ZB1na5fhwlgHiPJlUo/htmlview#gid=732745858",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 60,
+          "title": "Link 60",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7297433128074178560?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 61,
+          "title": "Link 61",
+          "url": "https://sim.mase.gov.it/portalediaccesso/mappe/?#/viewer/new",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 62,
+          "title": "Link 62",
+          "url": "https://nachhaltigkeit.provinz.bz.it/it/servizi",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 63,
+          "title": "Link 63",
+          "url": "https://news.provincia.bz.it/it/news/aumenta-il-contributo-per-le-spese-abitative-accessorie?utm_source=chatgpt.com",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 64,
+          "title": "Link 64",
+          "url": "https://civis.bz.it/it/servizi/servizio.html?id=1032948",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 65,
+          "title": "Link 65",
+          "url": "https://pensplan.com/servizio/mutuo-risparmio-casa-provincia-di-bolzano/",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 66,
+          "title": "Link 66",
+          "url": "https://www.linkedin.com/posts/mashford-mahute-012487178_gis-r-rayshader-activity-7297678923952189440-ldWt?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 67,
+          "title": "Link 67",
+          "url": "https://www.linkedin.com/posts/salvatore-fiandaca-23a1a250_hackingcatasto-opendata-ingegnoitaliano-activity-7297708426430709761-rLe0?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 68,
+          "title": "Link 68",
+          "url": "https://www.linkedin.com/posts/christine-raibaldi-9a2547135_aimants-technology-tech-ugcPost-7297326277965840385-pFmm?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 69,
+          "title": "Link 69",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7297596857428459520-qK8C?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 70,
+          "title": "Link 70",
+          "url": "https://www.linkedin.com/posts/fabioduronio_pubblicato-un-importante-aggiornamento-del-activity-7297665819080101888--6UL?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 71,
+          "title": "Link 71",
+          "url": "https://www.linkedin.com/posts/mashford-mahute-012487178_gis-remotesensing-geospatial-activity-7298010232805289984-9Nra?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 72,
+          "title": "Link 72",
+          "url": "https://junglekiosk.github.io/dNRG/",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 73,
+          "title": "Link 73",
+          "url": "https://junglekiosk.github.io/dNRG/",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 74,
+          "title": "Link 74",
+          "url": "https://junglekiosk.github.io/dNRG/",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 75,
+          "title": "Link 75",
+          "url": "https://threejs-journey.com/?c=p1",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 76,
+          "title": "Link 76",
+          "url": "https://www.alphabeta.it/de/dialog-deutsch-199.html",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 77,
+          "title": "Link 77",
+          "url": "https://cssgridgenerator.io/",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 78,
+          "title": "Link 78",
+          "url": "https://www.linkedin.com/posts/giacomo-cipollina_foca-a-new-quality-controlled-database-of-activity-7293924661707354112--I36?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 79,
+          "title": "Link 79",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-ugcPost-7299131742991323137-YoPV?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 80,
+          "title": "Link 80",
+          "url": "https://www.linkedin.com/posts/free-code-camp_if-your-website-takes-too-long-to-load-theres-activity-7299956631365111809-7hqJ?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 81,
+          "title": "Link 81",
+          "url": "https://www.linkedin.com/posts/free-code-camp_having-your-own-custom-built-online-developer-activity-7300017027551793152-AhZo?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 82,
+          "title": "Link 82",
+          "url": "https://www.linkedin.com/posts/shahab-jozdani-phd-a3978a189_%F0%9D%97%96%F0%9D%97%B5%F0%9D%97%AE%F0%9D%98%81%F0%9D%9F%AE%F0%9D%97%9A%F0%9D%97%B2%F0%9D%97%BC-%F0%9D%97%A8%F0%9D%97%BD%F0%9D%97%B1%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B2%F0%9D%98%80-%F0%9D%97%99%F0%9D%97%B2%F0%9D%97%AF-activity-7300952114036367360-IVuA?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 83,
+          "title": "Link 83",
+          "url": "https://www.linkedin.com/posts/andreaborruso_github-ondataarchivioanncsu-activity-7294317973354213379-TWSa?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 84,
+          "title": "Link 84",
+          "url": "https://www.linkedin.com/posts/mashford-mahute-012487178_gis-raster-srtm-activity-7301208916669960192-JDCu?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 85,
+          "title": "Link 85",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7299211720047144960?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 86,
+          "title": "Link 86",
+          "url": "https://www.jrpxtreme.com/it/percorso-xtreme/",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 87,
+          "title": "Link 87",
+          "url": "https://www.linkedin.com/posts/andreaborruso_dati-aperti-di-alto-valore-arrivano-la-activity-7293182473209888768-eIUI?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 88,
+          "title": "Link 88",
+          "url": "https://www.linkedin.com/posts/shahab-jozdani-phd-a3978a189_geospatial-opensource-gis-activity-7296315374952697857-dZga?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 89,
+          "title": "Link 89",
+          "url": "https://www.linkedin.com/posts/shahab-jozdani-phd-a3978a189_georetina-chat2geo-geospatialai-activity-7303058330321575937-cYhv?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 90,
+          "title": "Link 90",
+          "url": "https://www.linkedin.com/posts/andreaborruso_hackingcatasto-opendata-ingegnoitaliano-activity-7297712746236669952-S2Pf?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 91,
+          "title": "Link 91",
+          "url": "https://www.linkedin.com/posts/datapizza_mistral-tech-ocr-activity-7304803213709344768-NqKM?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 92,
+          "title": "Link 92",
+          "url": "https://www.linkedin.com/posts/evren-pakyuz-charrier_qgis-mining-mineralexploration-ugcPost-7304869509020934145-8sYU?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 93,
+          "title": "Link 93",
+          "url": "https://www.linkedin.com/posts/shahab-jozdani-phd-a3978a189_georetina-geospatial-opensource-activity-7298360175235641344-KEKz?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 94,
+          "title": "Link 94",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-ugcPost-7306225804949020672-8Ona?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 95,
+          "title": "Link 95",
+          "url": "https://www.linkedin.com/posts/marrasroberto_per-chi-mi-conosce-sa-che-avevo-fatto-jiku-ugcPost-7300135619425398784-xDjQ?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 96,
+          "title": "Link 96",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7307372333655121921-GVH9?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 97,
+          "title": "Link 97",
+          "url": "https://www.linkedin.com/posts/andreaborruso_claude-a-riga-di-comando-sembra-un-gioiellino-activity-7299892760097005568-mSo-?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 98,
+          "title": "Link 98",
+          "url": "https://www.linkedin.com/posts/salvatore-fiandaca-23a1a250_qgis-ricerca-per-attributi-particelle-catastali-activity-7299758980086611968-9tVb?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 99,
+          "title": "Link 99",
+          "url": "https://m.youtube.com/watch?v=qd4Tj4LKGgc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 100,
+          "title": "Link 100",
+          "url": "https://www.linkedin.com/posts/mashford-mahute-012487178_gis-googleearthengine-qgis-activity-7307739060804972547-9V0I?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 101,
+          "title": "Link 101",
+          "url": "https://www.linkedin.com/posts/danielodonohue_this-chrome-extension-logs-the-web-services-ugcPost-7307540996882341888-V0ZI?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 102,
+          "title": "Link 102",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7307736540309282817-LOYB?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 103,
+          "title": "Link 103",
+          "url": "https://www.linkedin.com/posts/massimilianomoraca_meteodata-c3s-ecmwf-activity-7307757856445898753-LsqC?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 104,
+          "title": "Link 104",
+          "url": "https://www.linkedin.com/posts/free-code-camp_embedded-systems-are-found-in-many-different-activity-7307551674837934080-SRZ_?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 105,
+          "title": "Link 105",
+          "url": "https://www.linkedin.com/posts/gfgullo_openai-deepseek-agi-activity-7306341859566538752-DW4I?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 106,
+          "title": "Link 106",
+          "url": "https://www.linkedin.com/posts/kylebarrongeo_github-developmentseedasync-tiff-async-activity-7307822341923786752-Ti_f?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 107,
+          "title": "Link 107",
+          "url": "https://www.linkedin.com/posts/lalit-kumar-sain-815324248_stop-wasting-time-looking-for-jobs-only-on-activity-7308045033163603970-a6Ao?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 108,
+          "title": "Link 108",
+          "url": "https://www.linkedin.com/posts/free-code-camp_github-has-a-github-actions-certification-activity-7308095755502735360-QRqr?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 109,
+          "title": "Link 109",
+          "url": "https://www.linkedin.com/posts/andreaborruso_pointblank-un-nuovo-progetto-nella-versione-activity-7308153339383287808-r0E-?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 110,
+          "title": "Link 110",
+          "url": "https://www.linkedin.com/posts/william-katzenmeyer_the-ras-commander-library-is-live-https-activity-7308544089749155841-TrkB?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 111,
+          "title": "Link 111",
+          "url": "https://www.linkedin.com/posts/mashford-mahute-012487178_gis-geospatial-urban-activity-7308504242556735489-EOpL?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 112,
+          "title": "Link 112",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7308816887302250496-iUuQ?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 113,
+          "title": "Link 113",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7308932684217487360-QaZ8?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 114,
+          "title": "Link 114",
+          "url": "https://www.linkedin.com/posts/olivier-hagolle-88429a12a_sentinel2-copernicus-activity-7306328312077832193-jbm0?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 115,
+          "title": "Link 115",
+          "url": "https://www.freecodecamp.org/news/learn-any-language-with-ai/",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 116,
+          "title": "Link 116",
+          "url": "https://www.linkedin.com/posts/salvatore-fiandaca-23a1a250_qgis-daticatastali-gis-activity-7309244155640078338-LRcK?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 117,
+          "title": "Link 117",
+          "url": "https://www.linkedin.com/posts/maxim-chepurnoy-4401541a0_gis-qgis-ai-ugcPost-7306755891683319808-YO4F?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 118,
+          "title": "Link 118",
+          "url": "https://www.linkedin.com/posts/syeda-noor-ul-saba-bukhari-073772354_gis-leafletjs-webmapping-activity-7307132205569298432-LbzC?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 119,
+          "title": "Link 119",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7304871652482338816?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 120,
+          "title": "Link 120",
+          "url": "https://www.linkedin.com/posts/enrique-vivoni-ph-d-p-e-655696162_pytribs-an-open-modular-and-reproducible-activity-7309952157422624769-8lZT?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 121,
+          "title": "Link 121",
+          "url": "https://www.linkedin.com/posts/iamtekson_geotiff-tiff-gdal-activity-7310288097701761024-agIa?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 122,
+          "title": "Link 122",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7310729233218121728-3RF9?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 123,
+          "title": "Link 123",
+          "url": "https://www.linkedin.com/posts/geoinnova-formacion_qgis-gis-geografaeda-ugcPost-7310587720723001345-HQcV?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 124,
+          "title": "Link 124",
+          "url": "https://www.linkedin.com/posts/nina-gis_satelliteimagery-remotesensing-earthobservation-ugcPost-7310692914060251137-AW0I?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 125,
+          "title": "Link 125",
+          "url": "https://www.linkedin.com/posts/mappinggis-com_geocoder-cartociudad-herramienta-para-geocodificar-activity-7310740958696894464-rNM2?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 126,
+          "title": "Link 126",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7311005883730214916-RC5Y?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 127,
+          "title": "Link 127",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7311095753215533058-37M_?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 128,
+          "title": "Link 128",
+          "url": "https://www.linkedin.com/posts/shahab-jozdani-phd-a3978a189_chat2geo-is-now-available-online-no-installation-activity-7303058330321575937-yNsC?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 129,
+          "title": "Link 129",
+          "url": "https://www.linkedin.com/posts/shahab-jozdani-phd-a3978a189_a-game-changing-upgrade-is-coming-to-chat2geo-activity-7305360773667520512-TXcB?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 130,
+          "title": "Link 130",
+          "url": "https://www.getyourguide.com/explorer/bavaria-ttd241/bavarian-oktoberfest-tips/",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 131,
+          "title": "Link 131",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7312045607924211712-IHcf?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 132,
+          "title": "Link 132",
+          "url": "https://www.linkedin.com/posts/geoinnova-formacion_qgis-gis-georreferenciaciaejn-activity-7302976970835816448-QPpf?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 133,
+          "title": "Link 133",
+          "url": "https://github.com/gee-community/arcgis-earthengine-toolbox",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 134,
+          "title": "Link 134",
+          "url": "https://www.linkedin.com/posts/iamtekson_geospatial-remotesensing-googleearthengine-activity-7312828616667500545-6JJm?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 135,
+          "title": "Link 135",
+          "url": "https://www.linkedin.com/posts/fnardi_8-days-left-to-make-your-voice-count-activity-7313067962674896896-0O3_?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 136,
+          "title": "Link 136",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7313020449582436352?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 137,
+          "title": "Link 137",
+          "url": "https://www.linkedin.com/posts/free-code-camp_multimodal-data-analysis-involves-analyzing-activity-7312927079979786240-5jtN?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 138,
+          "title": "Link 138",
+          "url": "https://www.shazam.com/track/40758092?referrer=share",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 139,
+          "title": "Link 139",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-ugcPost-7317105387403407360-FV44?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 140,
+          "title": "Link 140",
+          "url": "https://focusontrips.com/europa/trekking-seceda-praplan-santa-cristina-val-gardena/",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 141,
+          "title": "Link 141",
+          "url": "https://focusontrips.com/europa/rifugio-stevia/",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 142,
+          "title": "Link 142",
+          "url": "https://focusontrips.com/europa/col-plo-alt-rifugio-gardenacia/",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 143,
+          "title": "Link 143",
+          "url": "https://www.linkedin.com/posts/james-r-horn_great-things-in-business-are-never-done-ugcPost-7317498258312822786-hzJZ?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 144,
+          "title": "Link 144",
+          "url": "https://www.linkedin.com/posts/aigpt_ai-aitools-machinelearning-activity-7317838016327118850-dqOS?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 145,
+          "title": "Link 145",
+          "url": "https://www.linkedin.com/posts/michael-egan-4941a4145_qgis-ugcPost-7318079592022319104-YWFz?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 146,
+          "title": "Link 146",
+          "url": "https://www.linkedin.com/posts/alexander-korolev-b05337183_giscarta-gis-dataviz-activity-7318622311681585152-Q15d?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 147,
+          "title": "Link 147",
+          "url": "https://www.linkedin.com/posts/altiamkabir_linkedin-remote-jobs-activity-7318891042378764288-t17K?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 148,
+          "title": "Link 148",
+          "url": "https://www.linkedin.com/posts/shahab-jozdani-phd-a3978a189_introducing-two-new-features-on-chat2geo-activity-7320129663282933761-CJsJ?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 149,
+          "title": "Link 149",
+          "url": "https://www.linkedin.com/posts/datapizza_ai-risorse-genai-activity-7320355696682655744-4T3l?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 150,
+          "title": "Link 150",
+          "url": "https://www.linkedin.com/posts/i-web-developer_activity-7320713495631564801-dhzB?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 151,
+          "title": "Link 151",
+          "url": "https://www.linkedin.com/posts/iamtekson_geospatial-remotesensing-googleearthengine-activity-7312828616667500545-6JJm?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 152,
+          "title": "Link 152",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7321045492732256256?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 153,
+          "title": "Link 153",
+          "url": "https://www.linkedin.com/posts/mashford-mahute-012487178_gis-geospatial-remotesensing-activity-7321178771695263745-Grkz?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 154,
+          "title": "Link 154",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7321491172680450049-ZDf3?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 155,
+          "title": "Link 155",
+          "url": "https://www.linkedin.com/posts/andreaborruso_catalogo-open-data-nuovo-aggiornamento-dati-activity-7321220287511846912-ymRv?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 156,
+          "title": "Link 156",
+          "url": "https://www.linkedin.com/posts/shahab-jozdani-phd-a3978a189_from-maps-to-ai-agents-build-ai-powered-activity-7321688699858030595-ZFCn?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 157,
+          "title": "Link 157",
+          "url": "https://www.linkedin.com/posts/iamtekson_googleearthengine-geek-remotesensing-activity-7316090116936994817-pZBB?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 158,
+          "title": "Link 158",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7321872198447562752-rUx8?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 159,
+          "title": "Link 159",
+          "url": "https://www.linkedin.com/posts/mashford-mahute-012487178_gis-geospatial-fao-activity-7312468477728976896-WMfC?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 160,
+          "title": "Link 160",
+          "url": "https://www.linkedin.com/posts/altiamkabir_ai-excel-alternative-activity-7321867849122152449-gDMC?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 161,
+          "title": "Link 161",
+          "url": "https://www.cai.it/sezioni-territoriali/sezioni-e-sottosezioni/sezione/?codice=9219002",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 162,
+          "title": "Link 162",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7321955946732175360-R4sG?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 163,
+          "title": "Link 163",
+          "url": "https://www.linkedin.com/posts/andreaborruso_il-vaticano-ha-una-dashboard-pagina-2-con-activity-7322164753139683328-G2Sl?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 164,
+          "title": "Link 164",
+          "url": "https://www.linkedin.com/posts/iacopo-pelagatti_penso-di-aver-creato-il-primo-videogioco-activity-7321162047688204289-dsrB?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 165,
+          "title": "Link 165",
+          "url": "https://www.linkedin.com/posts/terraria_daticlimatici-era5-ecmwf-activity-7318158718666170368-JsbZ?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 166,
+          "title": "Link 166",
+          "url": "https://www.linkedin.com/posts/matthew-f-mccabe_gnss-sar-eo-ugcPost-7322166958622203904-j2QA?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 167,
+          "title": "Link 167",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7322240224460177408-wK2F?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 168,
+          "title": "Link 168",
+          "url": "https://www.linkedin.com/posts/mike-elstermann-geoobserver-1747a1142_plugin-geobasisloader-qgis-activity-7316013718658576385-I8o2?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 169,
+          "title": "Link 169",
+          "url": "https://www.linkedin.com/posts/mike-elstermann-geoobserver-1747a1142_gistribe-gischat-fossgis-activity-7315658283611009025-YCQ0?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 170,
+          "title": "Link 170",
+          "url": "https://www.linkedin.com/posts/mikegeologist_geogpt-ai4science-openscience-activity-7322131724270723072-wnGA?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 171,
+          "title": "Link 171",
+          "url": "https://www.linkedin.com/posts/andreaborruso_associazione-ondata-newsletter-35-activity-7314906888012218368-hKHz?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 172,
+          "title": "Link 172",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7322595872385523712-wDyu?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 173,
+          "title": "Link 173",
+          "url": "https://www.linkedin.com/posts/vitolerario-gis_webgis-opendata-openscience-activity-7322696531524878336-2M2z?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 174,
+          "title": "Link 174",
+          "url": "https://www.linkedin.com/posts/geoinnova-formacion_ortofotos-mdt-sig-activity-7315645628078874624-Q43f?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 175,
+          "title": "Link 175",
+          "url": "https://www.linkedin.com/posts/mike-elstermann-geoobserver-1747a1142_qgis-switch2qgis-plugin-activity-7322977646936588290-ATJj?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 176,
+          "title": "Link 176",
+          "url": "https://altreconomia.it/il-tentativo-di-indagare-gli-alloggi-vuoti-e-inutilizzati-nellitalia-afflitta-dalla-crisi-abitativa/",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 177,
+          "title": "Link 177",
+          "url": "https://www.sanvigilio.com/it/activity/escursione-estiva-verso-ciastlins_5116",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 178,
+          "title": "Link 178",
+          "url": "https://www.linkedin.com/posts/mike-elstermann-geoobserver-1747a1142_gistribe-gischat-fossgis-activity-7323244656182312960-gcSv?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 179,
+          "title": "Link 179",
+          "url": "https://www.linkedin.com/posts/simonetta-cheli-7669879b_with-the-successful-launch-of-esas-biomass-ugcPost-7323320038080278528-k0eN?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 180,
+          "title": "Link 180",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7323595757213605890?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 181,
+          "title": "Link 181",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-ugcPost-7323777407159615488-Wu6t?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 182,
+          "title": "Link 182",
+          "url": "https://www.linkedin.com/posts/milan-janosov_just-signed-up-to-this-version-of-geogpt-activity-7323984357277253632-kI-f?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 183,
+          "title": "Link 183",
+          "url": "https://github.com/JungleKiosk",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 184,
+          "title": "Link 184",
+          "url": "https://www.linkedin.com/posts/hayleencid_teledetecciaejn-nasa-cursogratuito-activity-7324145690673123330-2emE?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 185,
+          "title": "Link 185",
+          "url": "https://www.linkedin.com/posts/shahab-jozdani-phd-a3978a189_login-to-chat2geo-platform-activity-7324161836835102721-SdoU?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 186,
+          "title": "Link 186",
+          "url": "https://www.linkedin.com/posts/alberto-orgiazzi-54442652_state-of-soils-posters-activity-7317937227366326272-o8gK?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 187,
+          "title": "Link 187",
+          "url": "https://www.linkedin.com/posts/deepnote_upgrade-your-notebooks-deepnote-is-built-activity-7292927382582132736-QfJf?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 188,
+          "title": "Link 188",
+          "url": "https://www.linkedin.com/posts/free-code-camp_if-youre-an-aspiring-data-scientist-data-activity-7324463574754451456-I03Z?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 189,
+          "title": "Link 189",
+          "url": "https://www.linkedin.com/posts/paul-storm_one-of-the-most-powerful-and-influential-ugcPost-7324457921780563968-IsQS?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 190,
+          "title": "Link 190",
+          "url": "http://www.veraclasse.it/viaggi/cultura/bourtange-la-citta-fortificata-a-forma-di-stella-nei-paesi-bassi/",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 191,
+          "title": "Link 191",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-ugcPost-7324772306981933056-ZVlW?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 192,
+          "title": "Link 192",
+          "url": "https://www.linkedin.com/posts/free-code-camp_github-actions-let-you-automate-various-process-activity-7324946350620520448-fce8?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 193,
+          "title": "Link 193",
+          "url": "https://www.linkedin.com/jobs/view/4214419732",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 194,
+          "title": "Link 194",
+          "url": "https://www.linkedin.com/posts/ahmad-zaenun-faiz_hi-everyone-my-experimental-qgis-plugin-activity-7314981478109495296-dZ-R?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 195,
+          "title": "Link 195",
+          "url": "https://www.linkedin.com/posts/mbforr_gpt-changed-language-clay-might-change-activity-7325338155094523904-7sgO?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 196,
+          "title": "Link 196",
+          "url": "https://www.linkedin.com/posts/mappinggis-com_qgis-saga-activity-7325427779481620481-j30s?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 197,
+          "title": "Link 197",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7325495508821532673-VOzu?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 198,
+          "title": "Link 198",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2589004225006716?via%3Dihub",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 199,
+          "title": "Link 199",
+          "url": "https://youtube.com/shorts/5zpElJebJaI?si=bGgH5SoJ9PCck6Ta",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 200,
+          "title": "Link 200",
+          "url": "https://youtube.com/shorts/fbF5Js3Jhnc?si=_x5v1F6kyoE8feXM",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 201,
+          "title": "Link 201",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-ugcPost-7325867917252677633-DSEs?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 202,
+          "title": "Link 202",
+          "url": "https://www.linkedin.com/posts/iamtekson_googleearthengine-lulc-machinelearning-activity-7320438736989622272-eOAZ?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 203,
+          "title": "Link 203",
+          "url": "https://www.linkedin.com/posts/alasdair-rae-17640a124_this-kind-of-nearest-x-things-to-centre-ugcPost-7325844200892112896-_NPf?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 204,
+          "title": "Link 204",
+          "url": "https://www.linkedin.com/posts/datapizza_nel-2025-devi-conoscere-i-dark-data-activity-7325859504166686721-mnq3?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 205,
+          "title": "Link 205",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-ugcPost-7320514361154785280-GVwS?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 206,
+          "title": "Link 206",
+          "url": "https://www.linkedin.com/posts/free-code-camp_as-a-web-developer-youll-likely-need-to-activity-7325973308821118976-sKBJ?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 207,
+          "title": "Link 207",
+          "url": "https://www.linkedin.com/posts/free-code-camp_creating-and-maintaining-documentation-can-activity-7325671184648359937-Bmcf?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 208,
+          "title": "Link 208",
+          "url": "https://www.linkedin.com/posts/kshitijmishra27_jobseekers-freshershiring-activity-7324748827326857216-M9q7?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 209,
+          "title": "Link 209",
+          "url": "https://www.linkedin.com/posts/free-code-camp_an-intrusion-detection-system-acts-like-a-activity-7326577598434549762-AyV0?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 210,
+          "title": "Link 210",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-ugcPost-7326679885890957312-fQsP?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 211,
+          "title": "Link 211",
+          "url": "https://www.linkedin.com/posts/spatial-thoughts_sampling-raster-data-with-xarray-geospatial-activity-7326545890301657088-Orbg?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 212,
+          "title": "Link 212",
+          "url": "https://youtube.com/shorts/mvnO1_W4ikU?si=bYZ4AfL6s-0pvFot",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 213,
+          "title": "Link 213",
+          "url": "https://www.linkedin.com/posts/jvdkwast_qgis-gis-certification-activity-7326897065635045376-OUtm?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 214,
+          "title": "Link 214",
+          "url": "https://www.linkedin.com/posts/free-code-camp_generative-ai-systems-can-create-content-activity-7327000344490639360-67WR?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 215,
+          "title": "Link 215",
+          "url": "https://www.linkedin.com/posts/kshitijmishra27_jobseekers-freshershiring-activity-7326849447726878720-wy0A?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 216,
+          "title": "Link 216",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-ugcPost-7321143095109005313-9UE7?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 217,
+          "title": "Link 217",
+          "url": "https://www.linkedin.com/posts/free-code-camp_when-youre-building-a-website-youll-want-activity-7326818644250759168-G3Hy?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 218,
+          "title": "Link 218",
+          "url": "https://www.linkedin.com/posts/shahab-jozdani-phd-a3978a189_exciting-update-tutorial-videos-are-coming-activity-7321230057853628416-VAIR?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 219,
+          "title": "Link 219",
+          "url": "https://www.linkedin.com/posts/alasdair-rae-17640a124_location-analysis-can-take-many-forms-including-ugcPost-7325789764530364416-mGuf?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 220,
+          "title": "Link 220",
+          "url": "https://www.linkedin.com/posts/free-code-camp_web-components-are-a-set-of-standardized-activity-7327060282491527169-2X5B?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 221,
+          "title": "Link 221",
+          "url": "https://maps.app.goo.gl/CSyYsJjQPQSpQRHu9?g_st=iw",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 222,
+          "title": "Link 222",
+          "url": "https://www.linkedin.com/posts/olawale-kolawole-751a3514_mechanical-electrical-energy-activity-7323270813934116864-LPHs?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 223,
+          "title": "Link 223",
+          "url": "https://www.linkedin.com/posts/sarino-alfonso-grande_qgis-docker-gis-activity-7327083906170540032-lF_1?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 224,
+          "title": "Link 224",
+          "url": "https://diagramgroup.it/italia-in-anticipo-sul-debito-ecologico-lovershoot-day-arriva-oggi-agritech-e-innovazione-digitale-tra-le-risposte-possibili/",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 225,
+          "title": "Link 225",
+          "url": "https://tg.la7.it/esteri/harvard-lettera-errori-grammaticali-segretaria-istruzione-trump-08-05-2025-236996",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 226,
+          "title": "Link 226",
+          "url": "https://tg.la7.it/sites/default/files/news/2025/05/08/lettera_harvard.png",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 227,
+          "title": "Link 227",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7327259184524083200-wj9X?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 228,
+          "title": "Link 228",
+          "url": "https://www.linkedin.com/posts/shahab-jozdani-phd-a3978a189_from-maps-to-ai-agents-build-ai-powered-activity-7321688699858030595-ZFCn?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 229,
+          "title": "Link 229",
+          "url": "https://www.freecodecamp.org/news/most-popular-free-online-courses/",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 230,
+          "title": "Link 230",
+          "url": "https://www.linkedin.com/posts/mashford-mahute-012487178_gis-geospatial-remotesensing-activity-7321178771695263745-Grkz?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 231,
+          "title": "Link 231",
+          "url": "https://www.linkedin.com/posts/diagramgroup_conclusa-lacquisizione-della-maggioranza-activity-7326178603979718656-eqX-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 232,
+          "title": "Link 232",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7327623345238110209-zNoH?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 233,
+          "title": "Link 233",
+          "url": "https://www.linkedin.com/posts/spatial-thoughts_pyqgis-qgis-activity-7325797545933197312-AnGU?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 234,
+          "title": "Link 234",
+          "url": "https://dive-in.unibo.it/article/view/21622/19448",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 235,
+          "title": "Link 235",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7327687692803076097?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 236,
+          "title": "Link 236",
+          "url": "https://www.linkedin.com/posts/free-code-camp_these-days-applications-can-get-pretty-complex-activity-7327905862621061121-8L_N?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 237,
+          "title": "Link 237",
+          "url": "https://www.linkedin.com/posts/terraria_lifeprogramme-eufunding-eulife25-activity-7327943244917469185-5PcL?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 238,
+          "title": "Link 238",
+          "url": "https://www.linkedin.com/posts/harishkumar-sh_productivity-career-job-activity-7327879495351177219-qVfJ?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 239,
+          "title": "Link 239",
+          "url": "https://www.linkedin.com/posts/free-code-camp_if-you-want-to-start-a-career-in-cybersecurity-activity-7328027125909803009-34m-?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 240,
+          "title": "Link 240",
+          "url": "https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB/blob/main/Payloads/Flip-BrowserData/README.md",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 241,
+          "title": "Link 241",
+          "url": "https://share.garmin.com/share/6564O",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 242,
+          "title": "Link 242",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-ugcPost-7322240145078792192-D-3P?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 243,
+          "title": "Link 243",
+          "url": "https://youtu.be/uQyz-pc1fWU?si=mSACTojrlebzNyBp",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 244,
+          "title": "Link 244",
+          "url": "https://youtu.be/Y53FaIjH9dk?si=n_6o1J74-vO_1C3a",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 245,
+          "title": "Link 245",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-ugcPost-7329587319789826049-_XF3?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 246,
+          "title": "Link 246",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7327672502518693890?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 247,
+          "title": "Link 247",
+          "url": "https://youtube.com/shorts/n7UCwEs97T4?si=-p4RvQ05rMfOsefe",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 248,
+          "title": "Link 248",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-ugcPost-7330527712610070529-Zaok?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 249,
+          "title": "Link 249",
+          "url": "https://www.linkedin.com/posts/datapizza_kaggle-machinelearning-datascience-activity-7330517694321967105-5oT7?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 250,
+          "title": "Link 250",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-ugcPost-7324772306981933056-ZVlW?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 251,
+          "title": "Link 251",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-ugcPost-7330926737452589056-YxS3?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 252,
+          "title": "Link 252",
+          "url": "https://psrveneto.it/",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 253,
+          "title": "Link 253",
+          "url": "https://bandi.regione.veneto.it/Public/Elenco?Tipo=1",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 254,
+          "title": "Link 254",
+          "url": "https://bandi.regione.veneto.it/Public/Dettaglio?idAtto=11267&fromPage=Elenco&high=Agricoltura",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 255,
+          "title": "Link 255",
+          "url": "https://agriculture.ec.europa.eu/common-agricultural-policy/cap-overview/cap-2023-27_it",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 256,
+          "title": "Link 256",
+          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7331232764408545282-afBD?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 257,
+          "title": "Link 257",
+          "url": "https://www.linkedin.com/jobs/view/4224749756",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 258,
+          "title": "Link 258",
+          "url": "https://www.ballallaluna.it/",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 259,
+          "title": "Link 259",
+          "url": "https://youtu.be/J2bb6wRcQiI?si=5GvhaGbSjDKGhS9Z",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 260,
+          "title": "Link 260",
+          "url": "https://www.linkedin.com/posts/free-code-camp_companies-often-use-penetration-testing-to-activity-7331771525672423425-WV03?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 261,
+          "title": "Link 261",
+          "url": "https://youtube.com/shorts/HBSOg-lx3Rc?si=JY15Y9-H6O_IouXO",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 262,
+          "title": "Link 262",
+          "url": "https://youtube.com/shorts/H3qTcfI54S0?si=bnUFkPFqLQttweod",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 263,
+          "title": "Link 263",
+          "url": "https://www.linkedin.com/posts/aaronjnichols_im-launching-the-course-i-wish-i-had-2-years-activity-7325620293345955844-rFla?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "",
+          "tags": ["Varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        }
+      ]
     }
   ]
 }
