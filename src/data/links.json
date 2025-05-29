@@ -13,6 +13,16 @@
           "download": 1,
           "download_mode": "Istant 📥",
           "stato": ["open"]
+        },
+        {
+          "id": 2,
+          "title": "ESSD - Copernicus Climate Change Service",
+          "url": "https://essd.copernicus.org/articles/16/1503/2024/",
+          "description": "FOCA: a new quality-controlled database of floods and catchment descriptors in Italy",
+          "tags": ["floods", "Copernicus"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
         }
       ]
     },
@@ -929,6 +939,122 @@
           "download": 1,
           "download_mode": "PDF 📝",
           "stato": ["open"]
+        },
+        {
+          "id": 2,
+          "title": "Chat2Geo",
+          "url": "https://chat2geo.georetina.ai/",
+          "description": "A tool for converting chat messages into geospatial data.",
+          "tags": ["Chat", "Geospatial", "Data"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 3,
+          "title": "MODIS Images - Land Use and Soil Moisture",
+          "url": "https://mappinggis.com/2025/02/imagenes-modis-usos-suelo-molusce-en-qgis/",
+          "description": "A guide on how to use MODIS images for land use and soil moisture analysis in QGIS.",
+          "tags": ["MODIS", "Land Use", "Soil Moisture", "QGIS"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        }
+      ]
+    },
+    {
+      "name": "NERDY",
+      "collection": "NERDY",
+      "data": [
+        {
+          "id": 1,
+          "title": "An early warning system based on machine learning detects huge forest loss in Ukraine during the war",
+          "url": "https://hackertyper.com/",
+          "description": "look like a pro hacker with this fun tool that simulates typing code at high speed. Perfect for pranks or just for fun!",
+          "tags": ["Hackertyper", "fun", "prank"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 2,
+          "title": "Ninite - Install Multiple Apps",
+          "url": "https://ninite.com/",
+          "description": "Install multiple applications at once with Ninite, a simple tool that automates the installation process for popular software.",
+          "tags": ["Ninite", "Install", "Automation"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 3,
+          "title": "Similar Sites",
+          "url": "https://www.similarsites.com/",
+          "description": "Find websites similar to your favorite ones.",
+          "tags": ["Similar Sites", "Web"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 4,
+          "title": "YouTube Shorts - Fun Content",
+          "url": "https://youtube.com/shorts/YCWredszNd4?si=zI-44wocPCI1aZhU",
+          "description": "Watch this fun YouTube Shorts video.",
+          "tags": ["YouTube"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 5,
+          "title": "Phase behavior of Cacio e Pepe sauce",
+          "url": "https://arxiv.org/pdf/2501.00536",
+          "description": "A research paper on advanced topics - ArXiv",
+          "tags": ["Research", "ArXiv"],
+          "download": 0,
+          "download_mode": "PDF 📝",
+          "stato": ["open"]
+        },
+        {
+          "id": 6,
+          "title": "Web scraping with Python di Python Coding",
+          "url": "https://www.youtube.com/playlist?list=PLeLGx0BaYD6a82KAsIetU8Z61pCF6EWQ9",
+          "description": "A YouTube playlist on web scraping with Python, covering various techniques and libraries.",
+          "tags": ["Python", "Web Scraping", "YouTube"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 7,
+          "title": "How to Deploy a Web App",
+          "url": "https://www.freecodecamp.org/news/how-to-deploy-a-web-app/",
+          "description": "A comprehensive guide on deploying web applications.",
+          "tags": ["Web Development", "Deployment"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 8,
+          "title": "Deep Dive into LLMs like ChatGPT",
+          "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+          "description": "An in-depth exploration of Large Language Models (LLMs) like ChatGPT, their architecture, and applications.",
+          "tags": ["LLMs", "ChatGPT", "AI"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 9,
+          "title": "Cybersecurity for Front-End Developers",
+          "url": "https://www.freecodecamp.org/news/cybersecurity-for-front-end-developers/",
+          "description": "A comprehensive guide on cybersecurity best practices for front-end developers.",
+          "tags": ["Cybersecurity", "Web Development"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
         }
       ]
     },
@@ -952,416 +1078,6 @@
           "url": "",
           "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
           "tags": ["varie", "vuoto"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 4,
-          "title": "Link 4",
-          "url": "https://www.linkedin.com/posts/chandrakumarpillai_5-websites-that-feel-illegal-to-use-ugcPost-7286255138896281600-8Xje?utm_medium=ios_app&utm_source=social_share_sheet&utm_campaign=whatsapp",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 5,
-          "title": "Link 5",
-          "url": "https://youtube.com/shorts/YCWredszNd4?si=zI-44wocPCI1aZhU",
-          "description": "Video YouTube – verifica titolo per dettagli.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 6,
-          "title": "Link 6",
-          "url": "https://youtube.com/shorts/s-VlbTcUDYc?si=JqnSOlVdqa10ooWK",
-          "description": "Video YouTube – verifica titolo per dettagli.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 7,
-          "title": "Link 7",
-          "url": "https://www.instagram.com/reel/DEzR7Jis-Ql/?igsh=Y200ampod2d6YzJr",
-          "description": "Contenuto web: DEzR7Jis Ql...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 8,
-          "title": "Link 8",
-          "url": "https://www.instagram.com/reel/DERwCXIsQky/?igsh=dG1nOXU4NXN4Y2o3",
-          "description": "Contenuto web: DERwCXIsQky...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 9,
-          "title": "Link 9",
-          "url": "https://www.instagram.com/reel/DCkDg3kIJtK/?igsh=MjU3aThsc292ejVz",
-          "description": "Contenuto web: DCkDg3kIJtK...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 10,
-          "title": "Link 10",
-          "url": "https://www.instagram.com/reel/DDnDa_CoXcL/?igsh=MW1qMWxpMnhpOW9pdw==",
-          "description": "Contenuto web: DDnDa_CoXcL...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 11,
-          "title": "Link 11",
-          "url": "https://www.instagram.com/reel/DCeo7qzoZZR/?igsh=MXc3YWV1bnM4N3Zkag==",
-          "description": "Contenuto web: DCeo7qzoZZR...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 12,
-          "title": "Link 12",
-          "url": "https://www.instagram.com/reel/DCEU5W8AQK5/?igsh=MWpqbW9oaDFudHA0eQ==",
-          "description": "Contenuto web: DCEU5W8AQK5...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 13,
-          "title": "Link 13",
-          "url": "https://www.instagram.com/reel/C_u6C3CgnIW/?igsh=MWUwN2ExNnAwdHhsbw==",
-          "description": "Contenuto web: C_u6C3CgnIW...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 14,
-          "title": "Link 14",
-          "url": "https://www.instagram.com/reel/DB8pw8eg-vm/?igsh=cXNubWczaGZkd204",
-          "description": "Contenuto web: DB8pw8eg vm...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 15,
-          "title": "Link 15",
-          "url": "https://www.instagram.com/reel/DB8tqHdg3Jo/?igsh=MTZuc3pkeTZ2M2syag==",
-          "description": "Contenuto web: DB8tqHdg3Jo...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 16,
-          "title": "Link 16",
-          "url": "https://www.instagram.com/reel/DB9BjOdoRnd/?igsh=MTB3cGhhZHJvdW5sZA==",
-          "description": "Contenuto web: DB9BjOdoRnd...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 17,
-          "title": "Link 17",
-          "url": "https://www.instagram.com/reel/DB6nFTrKwlu/?igsh=MXZsN3hpNXlnc241Ng==",
-          "description": "Contenuto web: DB6nFTrKwlu...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 18,
-          "title": "Link 18",
-          "url": "https://www.instagram.com/reel/DBI27IrIca2/?igsh=NDQ0c3R4ZGhwdHNy",
-          "description": "Contenuto web: DBI27IrIca2...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 19,
-          "title": "Link 19",
-          "url": "https://www.instagram.com/reel/C6qucIFqvF_/?igsh=MXJ1dXc0MDRqcGNmYg==",
-          "description": "Contenuto web: C6qucIFqvF_...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 20,
-          "title": "Link 20",
-          "url": "https://www.instagram.com/reel/C64UFEaKpPW/?igsh=NTZxN2djN2tyY2t4",
-          "description": "Contenuto web: C64UFEaKpPW...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 21,
-          "title": "Link 21",
-          "url": "https://www.linkedin.com/posts/neslihan-girgin_neslihighlight-ugcPost-7287503659830042624-JN9v?utm_medium=ios_app&utm_source=social_share_video_v2&utm_campaign=whatsapp",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 22,
-          "title": "Link 22",
-          "url": "https://www.linkedin.com/posts/shahab-jozdani-phd-a3978a189_%F0%9D%97%96%F0%9D%97%B5%F0%9D%97%AE%F0%9D%98%81%F0%9D%9F%AE%F0%9D%97%9A%F0%9D%97%B2%F0%9D%97%BC-%F0%9D%97%99%F0%9D%97%B6%F0%9D%97%BF%F0%9D%98%80%F0%9D%98%81-%F0%9D%97%A2%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%BB-%F0%9D%97%A6%F0%9D%97%BC%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%B0%F0%9D%97%B2-ugcPost-7288754983452180481-ixRw?utm_source=share&utm_medium=member_ios",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 23,
-          "title": "Link 23",
-          "url": "https://arxiv.org/pdf/2501.00536",
-          "description": "Contenuto web: 2501.00536...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 24,
-          "title": "Link 24",
-          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7292728442599473152?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Contenuto web: update, urn:li:activity:7292728442599473152...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 25,
-          "title": "Link 25",
-          "url": "https://www.linkedin.com/posts/karaneesh_reshare-activity-7292727476605108225-aOXt?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 26,
-          "title": "Link 26",
-          "url": "https://www.linkedin.com/posts/milan-janosov_geogpt-came-out-a-year-ago-however-i-am-activity-7292830467416850433-dbyX?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 27,
-          "title": "Link 27",
-          "url": "https://www.linkedin.com/posts/giacomo-cipollina_foca-a-new-quality-controlled-database-of-activity-7293924661707354112--I36?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 28,
-          "title": "Link 28",
-          "url": "https://www.linkedin.com/posts/rammcodes_vscode-html-css-activity-7294011516243046401-bz9O?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 29,
-          "title": "Link 29",
-          "url": "https://www.linkedin.com/posts/khusboo-%E2%86%97%EF%B8%8F-596a78203_im-shocked-why-people-arent-using-chatgpt-activity-7294039740440268801-fhej?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 30,
-          "title": "Link 30",
-          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7294028068828971008?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Contenuto web: update, urn:li:activity:7294028068828971008...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 31,
-          "title": "Link 31",
-          "url": "https://www.linkedin.com/posts/deon-joseph-898549124_so-i-get-into-it-with-a-friend-on-another-activity-7293508330516267008-5MB8?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 32,
-          "title": "Link 32",
-          "url": "https://www.linkedin.com/posts/free-code-camp_when-you-build-an-app-you-may-want-to-get-activity-7294400012359188481-ijkZ?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 33,
-          "title": "Link 33",
-          "url": "https://www.linkedin.com/posts/andreaborruso_github-ondataarchivioanncsu-activity-7294317973354213379-TWSa?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 34,
-          "title": "Link 34",
-          "url": "https://andreasbm.github.io/web-skills/",
-          "description": "Contenuto web: web skills...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 35,
-          "title": "Link 35",
-          "url": "https://www.linkedin.com/posts/datapizza_ai-llm-chatgpt-activity-7294656417787994113--nzM?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 36,
-          "title": "Link 36",
-          "url": "https://www.linkedin.com/posts/shahab-jozdani-phd-a3978a189_geospatial-opensource-gis-activity-7294804016297873409-xNel?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 37,
-          "title": "Link 37",
-          "url": "https://youtu.be/eCWh09avlFw?si=eNdyNURW8taqcBdf",
-          "description": "Contenuto web: eCWh09avlFw...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 38,
-          "title": "Link 38",
-          "url": "https://www.linkedin.com/posts/harish-kumar-sh_reshare-jobseekers-intern-activity-7295390527993065472-kS9F?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 39,
-          "title": "Link 39",
-          "url": "https://plugins.qgis.org/",
-          "description": "Contenuto web: ...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 40,
-          "title": "Link 40",
-          "url": "https://www.linkedin.com/posts/mappinggis-com_c%C3%B3mo-descargar-im%C3%A1genes-modis-para-predecir-activity-7295361881471356928-58Vb?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 41,
-          "title": "Link 41",
-          "url": "https://www.linkedin.com/jobs/view/4146729317",
-          "description": "Contenuto web: 4146729317...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 42,
-          "title": "Link 42",
-          "url": "https://www.linkedin.com/posts/diagramgroup_larsenale-tech-dellagricoltura-50-vi-lascer%C3%A0-activity-7295001830961344512-PlOD?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 43,
-          "title": "Link 43",
-          "url": "https://www.linkedin.com/posts/diagramgroup_diagramgroup-activity-7295079545299230720-aWxN?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 44,
-          "title": "Link 44",
-          "url": "https://www.linkedin.com/posts/free-code-camp_these-days-cyberattacks-are-becoming-increasingly-activity-7296091310304677889-3C-v?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]

@@ -3,7 +3,7 @@
     "id": "1",
     "name": "Cadastral Download Shapefile",
     "description": "Download shapefile from Cadastral Agency of Italy: one-to-one and from CSV",
-    "links":"https://github.com/JungleKiosk/download_ple_x_attributo_WFS_AdE",
+    "links": "https://github.com/JungleKiosk/download_ple_x_attributo_WFS_AdE",
     "tags": ["QGIS", "Cadastral", "CSV"],
     "filename": "particelleAE.zip"
   },
@@ -18,7 +18,7 @@
     "id": "3",
     "name": "USDA Soil Texture Classifier",
     "description": "Python tool for QGIS that classifies soil samples into USDA texture classes (e.g., Clay, Sandy Loam, Silty Clay Loam) based on sand, silt, and clay percentages.",
-    "links":"https://junglekiosk.github.io/QGIS_SoilTexture/",
+    "links": "https://junglekiosk.github.io/QGIS_SoilTexture/",
     "tags": ["QGIS", "Soil Texture", "USDA"],
     "filename": "soiltext.zip"
   },
@@ -36,6 +36,62 @@
     "description": "This project uses OpenAI's Whisper to transcribe audio files into text in Google Colab",
     "links": "https://github.com/JungleKiosk/whisper_gcolab_localaudio?tab=readme-ov-file#transcription-project-with-whisper-shipit",
     "tags": ["Python", "Whisper", "Audio", "Transcription"],
+    "filename": 0
+  },
+  {
+    "id": 6,
+    "title": "Down For Everyone Or Just Me?",
+    "url": "https://downforeveryoneorjustme.com/",
+    "description": "Check if a website is down for everyone or just you.",
+    "tags": ["Website Status"],
+    "filename": 0
+  },
+  {
+    "id": 7,
+    "title": "Chat2Geo",
+    "url": "https://chat2geo.georetina.ai/",
+    "description": "A tool for converting chat messages into geospatial data.",
+    "tags": ["Chat", "Geospatial", "Data"],
+    "filename": 0
+  },
+  {
+    "id": 8,
+    "title": "LaTeX OCR",
+    "url": "https://github.com/lukas-blecher/LaTeX-OCR",
+    "description": "A tool for OCR processing of LaTeX documents.",
+    "tags": ["OCR", "LaTeX"],
+    "filename": 0
+  },
+  {
+    "id": 9,
+    "title": "Google Index Checker",
+    "url": "https://idx.google.com/",
+    "description": "Check if a URL is indexed by Google.",
+    "tags": ["SEO", "Google", "Indexing"],
+    "filename": 0
+  },
+  {
+    "id": 10,
+    "title": "OpenStreetMap Overpass Turbo",
+    "url": "https://overpass-turbo.eu/",
+    "description": "A web-based tool for querying and visualizing OpenStreetMap data.",
+    "tags": ["OpenStreetMap", "Data Query", "Visualization"],
+    "filename": 0
+  },
+  {
+    "id": 11,
+    "title": "Numeri Civici e Strade",
+    "url": "https://github.com/ondata/archivio_anncsu",
+    "description": "Stradario e indirizzario dell'Archivio Nazionale dei Numeri Civici e delle Strade (ANCSU) in Italia.",
+    "tags": ["Archive", "Italian Addresses", "ANCSU"],
+    "filename": 0
+  },
+  {
+    "id": 12,
+    "title": "Web Skills",
+    "url": "https://andreasbm.github.io/web-skills/",
+    "description": "A visual guide to web development skills and technologies.",
+    "tags": ["Web Development", "Skills", "Guide"],
     "filename": 0
   }
 ]
