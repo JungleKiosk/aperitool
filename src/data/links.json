@@ -959,6 +959,22 @@
           "download": 0,
           "download_mode": "",
           "stato": ["open"]
+        },
+        {
+          "id": 4,
+          "title": "Google Earth Engine Tutorial – Flood Detection using Sentinel-1",
+          "url": "https://www.youtube.com/watch?v=rbtO0oncjPI",
+          "description": "Video tutorial on how to detect flood areas using Sentinel-1 SAR imagery in Google Earth Engine.",
+          "tags": [
+            "Google Earth Engine",
+            "Sentinel-1",
+            "Flood Detection",
+            "SAR",
+            "Remote Sensing"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
         }
       ]
     },
