@@ -93,5 +93,13 @@
     "description": "A visual guide to web development skills and technologies.",
     "tags": ["Web Development", "Skills", "Guide"],
     "filename": 0
+  },
+  {
+    "id": "13",
+    "name": "Coordinate Polygon",
+    "description": "Extract coordinates from polygons in Shapefiles and export them to CSV format",
+    "links": "https://github.com/JungleKiosk/download_ple_x_attributo_WFS_AdE",
+    "tags": ["QGIS", "coordinate", "CSV"],
+    "filename": "poly_coordinates.zip"
   }
 ]
