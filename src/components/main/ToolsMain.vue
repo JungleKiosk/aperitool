@@ -26,6 +26,9 @@ export default {
       this.selectedTag = this.selectedTag === tag ? "" : tag;
       this.applyFilters();
     },
+    getDownloadLink(filename) {
+      return `${import.meta.env.BASE_URL}tools/${filename}`;
+    },
     onSearchInput() {
       this.applyFilters();
     },
@@ -140,7 +143,8 @@ export default {
             <a
               v-if="tool.filename && tool.filename !== 0"
               class="btn btn-primary btn-sm mt-auto"
-              :href="`/tools/${tool.filename}`"
+              :href="`/aperitool/tools/${tool.filename}`"
+
               download
             >
               Download ZIP 📦
