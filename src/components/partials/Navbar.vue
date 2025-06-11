@@ -36,9 +36,9 @@ export default {
 <template>
   <nav class="navbar justify-content-center">
     <ul>
-      <li><router-link to="/">{{ $t('navbar.home') }}</router-link></li>
-      <li><router-link to="/tools">{{ $t('navbar.tools') }}</router-link></li>
-      <li><router-link to="/links">{{ $t('navbar.links') }}</router-link></li>
+      <li><router-link to="/">Home</router-link></li>
+      <li><router-link to="/tools">Tools</router-link></li>
+      <li><router-link to="/links">Links</router-link></li>
       <li>
         <!-- ✅ Bottone per cambiare tema -->
         <button @click="toggleTheme" class="theme-button rounded-5">

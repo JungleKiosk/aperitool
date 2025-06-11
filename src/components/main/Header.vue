@@ -15,7 +15,7 @@ export default {
             <div class="row justify-content-center">
                 <div class="col-12 col-lg-4">
                     <div class="title-container">
-                        <h1 class="display-1">{{ $t('header.title') }}</h1>
+                        <h1 class="display-1">Aperitools</h1>
                     </div>
                 </div>
             </div>
