@@ -3289,6 +3289,274 @@
           "stato": ["open"]
         }
       ]
+    },
+    {
+      "name": "Remote Job Boards",
+      "collection": "RemoteWorkSites",
+      "data": [
+        {
+          "id": 1,
+          "title": "We Work Remotely",
+          "url": "https://weworkremotely.com",
+          "description": "Largest remote work community with over 4.5 million visitors, offering a wide range of remote job opportunities.",
+          "tags": ["Remote", "Jobs", "Community"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 2,
+          "title": "Hubstaff Talent",
+          "url": "https://hubstafftalent.net",
+          "description": "Free resource for companies looking for remote talent. Connects businesses with freelancers and agencies worldwide.",
+          "tags": ["Freelance", "Remote", "Agencies"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 3,
+          "title": "Wellfound",
+          "url": "https://wellfound.com",
+          "description": "Connects job seekers with startups. Features over 130K tech jobs from 27K companies.",
+          "tags": ["Startups", "Tech", "Remote"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 4,
+          "title": "Remotive",
+          "url": "https://remotive.io",
+          "description": "Curates active, fully remote tech jobs. Trusted by top global tech companies.",
+          "tags": ["Tech", "Remote", "Curated"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 5,
+          "title": "WorkWave",
+          "url": "https://workwave.com",
+          "description": "Remote job listings across various industries, known for flexible work opportunities.",
+          "tags": ["Flexible", "Industries", "Remote"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 6,
+          "title": "AI Jobs",
+          "url": "https://theaijobboard.com",
+          "description": "Focuses on AI-related remote job listings. Features jobs from the top 1% of AI companies.",
+          "tags": ["AI", "Remote", "Tech"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 7,
+          "title": "Remote Woman",
+          "url": "https://remotewoman.com",
+          "description": "Remote job board tailored for women. Promotes flexibility and career growth.",
+          "tags": ["Women", "Remote", "Flexible"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 8,
+          "title": "Toptal",
+          "url": "https://toptal.com",
+          "description": "Exclusive network for top freelancers. Covers software development, design, finance, and more.",
+          "tags": ["Freelance", "Exclusive", "Top Talent"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 9,
+          "title": "FlexJobs",
+          "url": "https://flexjobs.com",
+          "description": "Find remote jobs globally or near you. Includes career coaching and resume help.",
+          "tags": ["Remote", "Coaching", "Resume"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 10,
+          "title": "JS Remotely",
+          "url": "https://jsremotely.com",
+          "description": "Specializes in JavaScript-related remote jobs, including React, Vue, Node.js, and Angular.",
+          "tags": ["JavaScript", "Remote", "JS Frameworks"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 11,
+          "title": "RemoteOK",
+          "url": "https://remoteok.com",
+          "description": "Aggregates remote jobs from across industries with filtering options by category and salary.",
+          "tags": ["Remote", "Aggregator", "Salary Filter"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 12,
+          "title": "Working Nomads",
+          "url": "https://workingnomads.com",
+          "description": "Remote jobs tailored for digital nomads. Handpicks opportunities across industries.",
+          "tags": ["Nomads", "Remote", "Curated"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 13,
+          "title": "JustRemote",
+          "url": "https://justremote.co",
+          "description": "Jobs that fit your lifestyle with fully and partially remote options.",
+          "tags": ["Lifestyle", "Remote", "Flexible"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 14,
+          "title": "Remote.co",
+          "url": "https://remote.co",
+          "description": "Hand-curated list of remote jobs. Features over 146 remote-first companies.",
+          "tags": ["Remote", "Curated", "Companies"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 15,
+          "title": "Remote Circle",
+          "url": "https://remotecircle.com",
+          "description": "Helps find remote jobs in your timezone, covering a variety of industries and roles.",
+          "tags": ["Timezone", "Remote", "Industries"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 16,
+          "title": "FlexJobs",
+          "url": "https://www.flexjobs.com/",
+          "description": "Curated remote jobs across categories like data entry, customer support, writing, and more. Paid subscription.",
+          "tags": [
+            "Remote",
+            "Data Entry",
+            "Customer Support",
+            "Writing",
+            "Jobs"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 17,
+          "title": "Remote.co",
+          "url": "https://remote.co/remote-jobs/",
+          "description": "Remote job board with non-tech categories like marketing, education, HR, and customer service.",
+          "tags": [
+            "Remote",
+            "HR",
+            "Marketing",
+            "Education",
+            "Customer Service"
+          ],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 18,
+          "title": "We Work Remotely",
+          "url": "https://weworkremotely.com/",
+          "description": "Remote job listings in support, sales, marketing, and other non-technical areas.",
+          "tags": ["Remote", "Support", "Sales", "Marketing"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 19,
+          "title": "Remotive",
+          "url": "https://remotive.io/remote-jobs",
+          "description": "Global remote jobs including junior and entry-level non-tech roles.",
+          "tags": ["Remote", "Entry-Level", "HR", "Support"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 20,
+          "title": "Working Nomads",
+          "url": "https://www.workingnomads.com/",
+          "description": "Handpicked remote jobs for digital nomads in various fields including support and admin.",
+          "tags": ["Remote", "Nomads", "Support", "Admin"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 21,
+          "title": "Outsourcely",
+          "url": "https://www.outsourcely.com/",
+          "description": "Remote freelance jobs for writers, data entry, voice-over, and other non-tech roles.",
+          "tags": ["Remote", "Freelance", "Data Entry", "Voice-over"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 22,
+          "title": "PeoplePerHour",
+          "url": "https://www.peopleperhour.com/",
+          "description": "Platform for hourly or project-based work including translations, writing, and research.",
+          "tags": ["Freelance", "Writing", "Translation", "Research"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 23,
+          "title": "Upwork",
+          "url": "https://www.upwork.com/",
+          "description": "Freelancing site offering jobs in data entry, admin support, customer service, and more.",
+          "tags": ["Freelance", "Data Entry", "Admin", "Support"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 24,
+          "title": "Fiverr",
+          "url": "https://www.fiverr.com/",
+          "description": "Sell your skills in writing, transcription, translation, and small tasks.",
+          "tags": ["Freelance", "Writing", "Transcription", "Translation"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 25,
+          "title": "Jobspresso",
+          "url": "https://jobspresso.co/",
+          "description": "Remote job listings for writers, customer support, and VA roles.",
+          "tags": ["Remote", "Writing", "Support", "Virtual Assistant"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        }
+      ]
     }
   ]
 }
