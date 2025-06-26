@@ -25,9 +25,16 @@ export default {
 
     <div class="row justify-content-center">
       <div class="col-12 col-lg-6">
-        <p class="display-5 text-center text-lg-start">
-          Explore tools and resources about environmental data analysis, programming, web scraping, spatial data and
-          more.
+        <p class="display-1 text-center text-lg-start">
+          Explore tools and resources
+        </p>
+        <p class="display-6 text-center text-lg-start">
+          Download ZIP with scripts and documentation
+        </p>
+        <p class="">
+          Aperitools is a collection of useful tools for data analysis in agronomy, forestry, and environmental
+          sciences. It also includes Python scripts, QGIS extensions, document converters, and even practical techniques
+          for remote fieldwork and survival. Ideal for researchers, developers, students, geeks, nerds and tech lovers.
         </p>
       </div>
       <div class="col-12 col-lg-6">
@@ -35,18 +42,7 @@ export default {
       </div>
     </div>
 
-    <div class="row justify-content-center">
-      <div class="col-12 col-md-10 col-lg-8">
-        <p class="fs-5 text-justify">
-          APERITOOLS is a collection of useful tools for data analysis in agronomy, forestry, and environmental
-          sciences. It also includes Python scripts, QGIS extensions, document converters, and even practical techniques
-          for remote fieldwork and survival. Ideal for researchers, developers, students, and nature lovers.
-        </p>
-      </div>
-      <div class="col-12 col-lg-6">
-        <img src="../../assets/img/home/2_girls_yoga.png" alt="">
-      </div>
-    </div>
+
   </div>
 </template>
 

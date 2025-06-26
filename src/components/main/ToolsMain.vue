@@ -16,7 +16,7 @@ export default {
     allTags() {
       const tags = new Set();
       this.tools.forEach((tool) => {
-        tool.tags.forEach((t) => tags.add(t));
+        tool.tags.forEach((t) => tags.add(t.trim()));
       });
       return Array.from(tags);
     },
@@ -46,10 +46,16 @@ export default {
       const q = this.searchQuery.toLowerCase();
       this.filteredTools = this.tools.filter((tool) => {
         const matchesText =
-          tool.name.toLowerCase().includes(q) ||
+          (tool.name && tool.name.toLowerCase().includes(q)) ||
+          (tool.title && tool.title.toLowerCase().includes(q)) ||
           tool.description.toLowerCase().includes(q);
+
         const matchesTag =
-          !this.selectedTag || tool.tags.includes(this.selectedTag);
+          !this.selectedTag ||
+          (Array.isArray(tool.tags) &&
+            tool.tags.some(
+              (tag) => tag.toLowerCase() === this.selectedTag.toLowerCase()
+            ));
         const matchesDownload =
           !this.filterDownloadOnly || (tool.filename && tool.filename !== 0);
 
@@ -144,7 +150,6 @@ export default {
               v-if="tool.filename && tool.filename !== 0"
               class="btn btn-primary btn-sm mt-auto"
               :href="`/aperitool/tools/${tool.filename}`"
-
               download
             >
               Download ZIP 📦
