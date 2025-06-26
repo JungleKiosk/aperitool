@@ -40,56 +40,56 @@
   },
   {
     "id": 6,
-    "title": "Down For Everyone Or Just Me?",
-    "url": "https://downforeveryoneorjustme.com/",
+    "name": "Down For Everyone Or Just Me?",
+    "links": "https://downforeveryoneorjustme.com/",
     "description": "Check if a website is down for everyone or just you.",
     "tags": ["Website Status"],
     "filename": 0
   },
   {
     "id": 7,
-    "title": "Chat2Geo",
-    "url": "https://chat2geo.georetina.ai/",
+    "name": "Chat2Geo",
+    "links": "https://chat2geo.georetina.ai/",
     "description": "A tool for converting chat messages into geospatial data.",
     "tags": ["Chat", "Geospatial", "Data"],
     "filename": 0
   },
   {
     "id": 8,
-    "title": "LaTeX OCR",
-    "url": "https://github.com/lukas-blecher/LaTeX-OCR",
+    "name": "LaTeX OCR",
+    "links": "https://github.com/lukas-blecher/LaTeX-OCR",
     "description": "A tool for OCR processing of LaTeX documents.",
     "tags": ["OCR", "LaTeX"],
     "filename": 0
   },
   {
     "id": 9,
-    "title": "Google Index Checker",
-    "url": "https://idx.google.com/",
-    "description": "Check if a URL is indexed by Google.",
+    "name": "Google Index Checker",
+    "links": "https://idx.google.com/",
+    "description": "Check if a links is indexed by Google.",
     "tags": ["SEO", "Google", "Indexing"],
     "filename": 0
   },
   {
     "id": 10,
-    "title": "OpenStreetMap Overpass Turbo",
-    "url": "https://overpass-turbo.eu/",
+    "name": "OpenStreetMap Overpass Turbo",
+    "links": "https://overpass-turbo.eu/",
     "description": "A web-based tool for querying and visualizing OpenStreetMap data.",
     "tags": ["OpenStreetMap", "Data Query", "Visualization"],
     "filename": 0
   },
   {
     "id": 11,
-    "title": "Numeri Civici e Strade",
-    "url": "https://github.com/ondata/archivio_anncsu",
+    "name": "Numeri Civici e Strade",
+    "links": "https://github.com/ondata/archivio_anncsu",
     "description": "Stradario e indirizzario dell'Archivio Nazionale dei Numeri Civici e delle Strade (ANCSU) in Italia.",
     "tags": ["Archive", "Italian Addresses", "ANCSU"],
     "filename": 0
   },
   {
     "id": 12,
-    "title": "Web Skills",
-    "url": "https://andreasbm.github.io/web-skills/",
+    "name": "Web Skills",
+    "links": "https://andreasbm.github.io/web-skills/",
     "description": "A visual guide to web development skills and technologies.",
     "tags": ["Web Development", "Skills", "Guide"],
     "filename": 0
