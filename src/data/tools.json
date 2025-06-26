@@ -98,7 +98,7 @@
     "id": "13",
     "name": "Coordinate Polygon",
     "description": "Extract coordinates from polygons in Shapefiles and export them to CSV format",
-    "links": "https://github.com/JungleKiosk/download_ple_x_attributo_WFS_AdE",
+    "links": "",
     "tags": ["QGIS", "coordinate", "CSV"],
     "filename": "poly_coordinates.zip"
   }
