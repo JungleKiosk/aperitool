@@ -931,12 +931,32 @@
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
+        },
+        {
+          "id": 3,
+          "title": "rainfall-induced landslide catalogue in Italy",
+          "url": "https://www.nature.com/articles/s41597-025-04551-6",
+          "description": "An enhanced rainfall-induced landslide catalogue in Italy",
+          "tags": ["Soil", "e-ITALICA", "landslide"],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": ["open"]
+        },
+        {
+          "id": 4,
+          "title": "rainfall-induced landslide catalogue in Italy",
+          "url": "https://zenodo.org/records/14204473",
+          "description": "An enhanced rainfall-induced landslide catalogue in Italy",
+          "tags": ["Soil", "e-ITALICA", "landslide"],
+          "download": 1,
+          "download_mode": "CSV 📥",
+          "stato": ["open"]
         }
       ]
     },
     {
-      "name": "Programming",
-      "collection": "Programming",
+      "name": "Dev and Prog",
+      "collection": "Dev and Prog",
       "data": [
         {
           "id": 1,
@@ -954,6 +974,46 @@
           "url": "https://www.freecodecamp.org/news/cybersecurity-for-front-end-developers/",
           "description": "A comprehensive guide on cybersecurity best practices for front-end developers.",
           "tags": ["Cybersecurity", "Web Development"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 3,
+          "title": "Three.js Journey",
+          "url": "https://threejs-journey.com/?c=p1#",
+          "description": "A comprehensive course on Three.js, covering the fundamentals and advanced topics.",
+          "tags": ["Three.js", "Web Development", "3D"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 4,
+          "title": "CSS Grid Generator",
+          "url": "https://cssgridgenerator.io/",
+          "description": "A tool for generating CSS Grid layouts.",
+          "tags": ["CSS", "Grid"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 5,
+          "title": "Speed Up Website Loading",
+          "url": "https://www.freecodecamp.org/news/speed-up-website-loading/",
+          "description": "Tips and tricks to improve your website's loading speed.",
+          "tags": ["Web Development", "FreeCodeCamp"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 6,
+          "title": "LDRS - UI Ball",
+          "url": "https://uiball.com/ldrs/",
+          "description": "A collection of loading animations for web applications.",
+          "tags": ["UI", "Animations"],
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
@@ -979,9 +1039,29 @@
           "title": "archivio anncsu ",
           "url": "https://www.cadastre.gouv.fr/",
           "description": "Stradario e indirizzario dell'Archivio Nazionale dei Numeri Civici e delle Strade",
-          "tags": ["ANNCSU", "gov", "API"],
+          "tags": ["ANNC", "SU", "gov", "API"],
           "download": 0,
           "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 3,
+          "title": "Consultazione ANNC",
+          "url": "https://geodati.gov.it/geoportale/visualizzazione-metadati/scheda-metadati/?uuid=age:consultazioneANNCSU",
+          "description": "Consultazione dell'Archivio Nazionale dei Numeri Civici e delle Strade",
+          "tags": ["ANNC", "SU", "gov", "API"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 4,
+          "title": "YouTube Video - WFS Catasto",
+          "url": "https://www.youtube.com/watch?v=qd4Tj4LKGgc",
+          "description": "QGIS Ricerca per attributi Particelle Catastali",
+          "tags": ["YouTube", "WFS Catasto"],
+          "download": 0,
+          "download_mode": "N/A",
           "stato": ["open"]
         }
       ]
@@ -1135,6 +1215,36 @@
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
+        },
+        {
+          "id": 10,
+          "title": "Deutsch Audio",
+          "url": "https://www.alphabeta.it/de/dialog-deutsch-199.html",
+          "description": "",
+          "tags": ["varie"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 11,
+          "title": "Create a Developer Portfolio as a 2D Game",
+          "url": "https://www.freecodecamp.org/news/create-a-developer-portfolio-as-a-2d-game/",
+          "description": "Learn how to create a developer portfolio by building a 2D game.",
+          "tags": ["Web Development", "Game Development", "FreeCodeCamp"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 12,
+          "title": "Claude - Code",
+          "url": "https://docs.anthropic.com/en/docs/claude-code/overview",
+          "description": "Documentation for Claude's code capabilities.",
+          "tags": ["Claude", "AI", "Documentation"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
         }
       ]
     },
@@ -1158,456 +1268,6 @@
           "url": "",
           "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
           "tags": ["varie", "vuoto"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 55,
-          "title": "Link 55",
-          "url": "https://www.linkedin.com/posts/heynayeem_your-dream-remote-job-is-just-a-click-away-activity-7297201223596707841-_g-Z?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 56,
-          "title": "Link 56",
-          "url": "https://www.linkedin.com/posts/khusboo-%E2%86%97%EF%B8%8F-596a78203_jobpreparation-remotejobs-websites-activity-7297202183664517121-g9Vl?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 58,
-          "title": "Link 58",
-          "url": "https://www.linkedin.com/posts/women-in-geospatial_database-disasterrisk-mentorshipmonday-activity-7297223311200010240-o6qi?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 59,
-          "title": "Link 59",
-          "url": "https://docs.google.com/spreadsheets/d/1HIQdo_K5F3eft_6OmWhYpVke8ZB1na5fhwlgHiPJlUo/htmlview#gid=732745858",
-          "description": "Contenuto web: spreadsheets, 1HIQdo_K5F3eft_6OmWhYpVke8ZB1na5fhwlgHiPJlUo, htmlview...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 60,
-          "title": "Link 60",
-          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7297433128074178560?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Contenuto web: update, urn:li:activity:7297433128074178560...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 61,
-          "title": "Link 61",
-          "url": "https://sim.mase.gov.it/portalediaccesso/mappe/?#/viewer/new",
-          "description": "Contenuto web: portalediaccesso...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 62,
-          "title": "Link 62",
-          "url": "https://nachhaltigkeit.provinz.bz.it/it/servizi",
-          "description": "Contenuto web: servizi...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 63,
-          "title": "Link 63",
-          "url": "https://news.provincia.bz.it/it/news/aumenta-il-contributo-per-le-spese-abitative-accessorie?utm_source=chatgpt.com",
-          "description": "Contenuto web: aumenta il contributo per le spese abitative accessorie...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 64,
-          "title": "Link 64",
-          "url": "https://civis.bz.it/it/servizi/servizio.html?id=1032948",
-          "description": "Contenuto web: servizi, servizio.html...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 65,
-          "title": "Link 65",
-          "url": "https://pensplan.com/servizio/mutuo-risparmio-casa-provincia-di-bolzano/",
-          "description": "Contenuto web: servizio, mutuo risparmio casa provincia di bolzano...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 66,
-          "title": "Link 66",
-          "url": "https://www.linkedin.com/posts/mashford-mahute-012487178_gis-r-rayshader-activity-7297678923952189440-ldWt?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 67,
-          "title": "Link 67",
-          "url": "https://www.linkedin.com/posts/salvatore-fiandaca-23a1a250_hackingcatasto-opendata-ingegnoitaliano-activity-7297708426430709761-rLe0?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 68,
-          "title": "Link 68",
-          "url": "https://www.linkedin.com/posts/christine-raibaldi-9a2547135_aimants-technology-tech-ugcPost-7297326277965840385-pFmm?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 69,
-          "title": "Link 69",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7297596857428459520-qK8C?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 70,
-          "title": "Link 70",
-          "url": "https://www.linkedin.com/posts/fabioduronio_pubblicato-un-importante-aggiornamento-del-activity-7297665819080101888--6UL?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 71,
-          "title": "Link 71",
-          "url": "https://www.linkedin.com/posts/mashford-mahute-012487178_gis-remotesensing-geospatial-activity-7298010232805289984-9Nra?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 72,
-          "title": "Link 72",
-          "url": "https://junglekiosk.github.io/dNRG/",
-          "description": "Contenuto web: ...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 73,
-          "title": "Link 73",
-          "url": "https://junglekiosk.github.io/dNRG/",
-          "description": "Contenuto web: ...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 74,
-          "title": "Link 74",
-          "url": "https://junglekiosk.github.io/dNRG/",
-          "description": "Contenuto web: ...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 75,
-          "title": "Link 75",
-          "url": "https://threejs-journey.com/?c=p1",
-          "description": "Contenuto web: ...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 76,
-          "title": "Link 76",
-          "url": "https://www.alphabeta.it/de/dialog-deutsch-199.html",
-          "description": "Contenuto web: dialog deutsch 199.html...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 77,
-          "title": "Link 77",
-          "url": "https://cssgridgenerator.io/",
-          "description": "Contenuto web: ...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 78,
-          "title": "Link 78",
-          "url": "https://www.linkedin.com/posts/giacomo-cipollina_foca-a-new-quality-controlled-database-of-activity-7293924661707354112--I36?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 79,
-          "title": "Link 79",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-ugcPost-7299131742991323137-YoPV?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 80,
-          "title": "Link 80",
-          "url": "https://www.linkedin.com/posts/free-code-camp_if-your-website-takes-too-long-to-load-theres-activity-7299956631365111809-7hqJ?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 81,
-          "title": "Link 81",
-          "url": "https://www.linkedin.com/posts/free-code-camp_having-your-own-custom-built-online-developer-activity-7300017027551793152-AhZo?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 82,
-          "title": "Link 82",
-          "url": "https://www.linkedin.com/posts/shahab-jozdani-phd-a3978a189_%F0%9D%97%96%F0%9D%97%B5%F0%9D%97%AE%F0%9D%98%81%F0%9D%9F%AE%F0%9D%97%9A%F0%9D%97%B2%F0%9D%97%BC-%F0%9D%97%A8%F0%9D%97%BD%F0%9D%97%B1%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B2%F0%9D%98%80-%F0%9D%97%99%F0%9D%97%B2%F0%9D%97%AF-activity-7300952114036367360-IVuA?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 83,
-          "title": "Link 83",
-          "url": "https://www.linkedin.com/posts/andreaborruso_github-ondataarchivioanncsu-activity-7294317973354213379-TWSa?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 84,
-          "title": "Link 84",
-          "url": "https://www.linkedin.com/posts/mashford-mahute-012487178_gis-raster-srtm-activity-7301208916669960192-JDCu?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 85,
-          "title": "Link 85",
-          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7299211720047144960?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Contenuto web: update, urn:li:activity:7299211720047144960...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 86,
-          "title": "Link 86",
-          "url": "https://www.jrpxtreme.com/it/percorso-xtreme/",
-          "description": "Contenuto web: percorso xtreme...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 87,
-          "title": "Link 87",
-          "url": "https://www.linkedin.com/posts/andreaborruso_dati-aperti-di-alto-valore-arrivano-la-activity-7293182473209888768-eIUI?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 88,
-          "title": "Link 88",
-          "url": "https://www.linkedin.com/posts/shahab-jozdani-phd-a3978a189_geospatial-opensource-gis-activity-7296315374952697857-dZga?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 89,
-          "title": "Link 89",
-          "url": "https://www.linkedin.com/posts/shahab-jozdani-phd-a3978a189_georetina-chat2geo-geospatialai-activity-7303058330321575937-cYhv?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 90,
-          "title": "Link 90",
-          "url": "https://www.linkedin.com/posts/andreaborruso_hackingcatasto-opendata-ingegnoitaliano-activity-7297712746236669952-S2Pf?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 91,
-          "title": "Link 91",
-          "url": "https://www.linkedin.com/posts/datapizza_mistral-tech-ocr-activity-7304803213709344768-NqKM?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 92,
-          "title": "Link 92",
-          "url": "https://www.linkedin.com/posts/evren-pakyuz-charrier_qgis-mining-mineralexploration-ugcPost-7304869509020934145-8sYU?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 93,
-          "title": "Link 93",
-          "url": "https://www.linkedin.com/posts/shahab-jozdani-phd-a3978a189_georetina-geospatial-opensource-activity-7298360175235641344-KEKz?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 94,
-          "title": "Link 94",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-ugcPost-7306225804949020672-8Ona?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 95,
-          "title": "Link 95",
-          "url": "https://www.linkedin.com/posts/marrasroberto_per-chi-mi-conosce-sa-che-avevo-fatto-jiku-ugcPost-7300135619425398784-xDjQ?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 96,
-          "title": "Link 96",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7307372333655121921-GVH9?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 97,
-          "title": "Link 97",
-          "url": "https://www.linkedin.com/posts/andreaborruso_claude-a-riga-di-comando-sembra-un-gioiellino-activity-7299892760097005568-mSo-?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 98,
-          "title": "Link 98",
-          "url": "https://www.linkedin.com/posts/salvatore-fiandaca-23a1a250_qgis-ricerca-per-attributi-particelle-catastali-activity-7299758980086611968-9tVb?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 99,
-          "title": "Link 99",
-          "url": "https://m.youtube.com/watch?v=qd4Tj4LKGgc",
-          "description": "Video YouTube – verifica titolo per dettagli.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 100,
-          "title": "Link 100",
-          "url": "https://www.linkedin.com/posts/mashford-mahute-012487178_gis-googleearthengine-qgis-activity-7307739060804972547-9V0I?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]

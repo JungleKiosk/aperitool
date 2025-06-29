@@ -101,5 +101,13 @@
     "links": "",
     "tags": ["QGIS", "coordinate", "CSV"],
     "filename": "poly_coordinates.zip"
+  },
+  {
+    "id": "14",
+    "name": "Google Sheets - GIS Database Repository for Disaster Risk",
+    "description": "GIS Database Repository for Disaster Risk, Emergency Response, and Resilience Planning",
+    "links": "https://docs.google.com/spreadsheets/d/1HIQdo_K5F3eft_6OmWhYpVke8ZB1na5fhwlgHiPJlUo/edit?gid=732745858#gid=732745858",
+    "tags": ["QGIS", "Databas", "xlsx"],
+    "filename": "DisasterRiskDatabase.zip"
   }
 ]
