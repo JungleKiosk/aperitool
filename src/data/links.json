@@ -909,17 +909,27 @@
       ]
     },
     {
-      "name": "Digital Mapping",
-      "collection": "Digital Mapping",
+      "name": "GIS",
+      "collection": "GIS",
       "data": [
         {
           "id": 1,
-          "title": "Copernicus Land Monitoring Service - Products",
-          "url": "https://land.copernicus.eu/en/products",
-          "description": "Access a wide range of land monitoring products from the Copernicus programme, including datasets on land cover, land use, vegetation, water, soil, and biophysical parameters, supporting sustainable environmental management across Europe.",
-          "tags": ["Copernicus", "Land Monitoring", "EU"],
-          "download": 1,
-          "download_mode": "Istant 📥",
+          "title": "GISCARTA - Informational Pop-ups in GIS",
+          "url": "https://giscarta.com/blog/informational-pop-ups-in-gis",
+          "description": "A guide on how to create and use informational pop-ups in GIS applications to enhance user interaction and data presentation.",
+          "tags": ["GIS", "GISCARTA"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 2,
+          "title": "Google Sheets - GIS Database Repository for Disaster Risk",
+          "url": "https://docs.google.com/spreadsheets/d/1HIQdo_K5F3eft_6OmWhYpVke8ZB1na5fhwlgHiPJlUo/edit?gid=732745858#gid=732745858",
+          "description": "GIS Database Repository for Disaster Risk, Emergency Response, and Resilience Planning",
+          "tags": ["DataBase", "GIS", "Disaster Risk"],
+          "download": 0,
+          "download_mode": "N/A",
           "stato": ["open"]
         }
       ]
@@ -937,6 +947,16 @@
           "download": 0,
           "download_mode": "",
           "stato": ["open"]
+        },
+        {
+          "id": 2,
+          "title": "Cybersecurity for Front-End Developers",
+          "url": "https://www.freecodecamp.org/news/cybersecurity-for-front-end-developers/",
+          "description": "A comprehensive guide on cybersecurity best practices for front-end developers.",
+          "tags": ["Cybersecurity", "Web Development"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
         }
       ]
     },
@@ -953,12 +973,22 @@
           "download": 0,
           "download_mode": "",
           "stato": ["open"]
+        },
+        {
+          "id": 2,
+          "title": "archivio anncsu ",
+          "url": "https://www.cadastre.gouv.fr/",
+          "description": "Stradario e indirizzario dell'Archivio Nazionale dei Numeri Civici e delle Strade",
+          "tags": ["ANNCSU", "gov", "API"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
         }
       ]
     },
     {
-      "name": "Remote Sensing",
-      "collection": "Remote Sensing",
+      "name": "Remote Sensing and Digital Mapping",
+      "collection": "Remote Sensing and Digital Mapping",
       "data": [
         {
           "id": 1,
@@ -998,6 +1028,16 @@
           "tags": ["Google Earth Engine", "YouTube", "Remote Sensing"],
           "download": 0,
           "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 5,
+          "title": "Copernicus Land Monitoring Service - Products",
+          "url": "https://land.copernicus.eu/en/products",
+          "description": "Access a wide range of land monitoring products from the Copernicus programme, including datasets on land cover, land use, vegetation, water, soil, and biophysical parameters, supporting sustainable environmental management across Europe.",
+          "tags": ["Copernicus", "Land Monitoring", "EU"],
+          "download": 1,
+          "download_mode": "Istant 📥",
           "stato": ["open"]
         }
       ]
@@ -1088,10 +1128,10 @@
         },
         {
           "id": 9,
-          "title": "Cybersecurity for Front-End Developers",
-          "url": "https://www.freecodecamp.org/news/cybersecurity-for-front-end-developers/",
-          "description": "A comprehensive guide on cybersecurity best practices for front-end developers.",
-          "tags": ["Cybersecurity", "Web Development"],
+          "title": "WordGPT Pro",
+          "url": "https://wordgptpro.com/",
+          "description": "A powerful tool for generating text with AI.",
+          "tags": ["WordGPT", "AI", "Text Generation"],
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
@@ -1123,76 +1163,6 @@
           "stato": ["open"]
         },
         {
-          "id": 48,
-          "title": "Link 48",
-          "url": "https://www.linkedin.com/posts/alberto-orgiazzi-54442652_new-open-access-dataset-available-on-eu-activity-7289946554369527809-MMoF?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 49,
-          "title": "Link 49",
-          "url": "https://www.booking.com/Share-LEOAICT",
-          "description": "Contenuto web: Share LEOAICT...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 50,
-          "title": "Link 50",
-          "url": "https://www.linkedin.com/posts/andreaborruso_archivioanncsureadmemd-at-main-ondata-activity-7295024012441612288-CME2?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 51,
-          "title": "Link 51",
-          "url": "https://www.linkedin.com/posts/mashford-mahute-012487178_gis-qgis-vector-activity-7296835091186487296-uOSJ?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 52,
-          "title": "Link 52",
-          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7296891761132531712?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Contenuto web: update, urn:li:activity:7296891761132531712...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 53,
-          "title": "Link 53",
-          "url": "https://www.linkedin.com/posts/alexander-korolev-b05337183_giscarta-gis-dataviz-activity-7297174006795788288-WxDE?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 54,
-          "title": "Link 54",
-          "url": "https://www.linkedin.com/posts/mashford-mahute-012487178_gis-qgis-mapping-activity-7289350646078623744-SLOP?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
           "id": 55,
           "title": "Link 55",
           "url": "https://www.linkedin.com/posts/heynayeem_your-dream-remote-job-is-just-a-click-away-activity-7297201223596707841-_g-Z?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
@@ -1207,16 +1177,6 @@
           "title": "Link 56",
           "url": "https://www.linkedin.com/posts/khusboo-%E2%86%97%EF%B8%8F-596a78203_jobpreparation-remotejobs-websites-activity-7297202183664517121-g9Vl?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
           "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 57,
-          "title": "Link 57",
-          "url": "https://wordgptpro.com/",
-          "description": "Contenuto web: ...",
           "tags": ["varie"],
           "download": 0,
           "download_mode": "N/A",
