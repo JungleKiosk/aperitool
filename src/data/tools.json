@@ -109,5 +109,13 @@
     "links": "https://docs.google.com/spreadsheets/d/1HIQdo_K5F3eft_6OmWhYpVke8ZB1na5fhwlgHiPJlUo/edit?gid=732745858#gid=732745858",
     "tags": ["QGIS", "Databas", "xlsx"],
     "filename": "DisasterRiskDatabase.zip"
+  },
+  {
+    "id": "15",
+    "name": "Geocoder CartoCiudad",
+    "description": "A tool for geocoding addresses in QGIS.",
+    "links": "https://mappinggis.com/2025/03/geocoder-cartociudad-herramienta-para-geocodificar-en-qgis/",
+    "tags": ["QGIS", "Geocoding"],
+    "filename": 0
   }
 ]

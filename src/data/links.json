@@ -23,6 +23,16 @@
           "download": 0,
           "download_mode": "",
           "stato": ["open"]
+        },
+        {
+          "id": 3,
+          "title": "gee - snow covered area",
+          "url": "https://www.youtube.com/watch?v=5_N0isJU7Pc",
+          "description": "Snow Covered Area Mapping using Landsat Imagery | Google Earth Engine",
+          "tags": ["climate", "video"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
         }
       ]
     },
@@ -536,7 +546,18 @@
           "download": 1,
           "download_mode": "Istant 📥",
           "stato": ["open"]
+        },
+        {
+          "id": 10,
+          "title": "GeoTiff 100 MB to 1MB",
+          "url": "https://www.youtube.com/watch?v=RHOvdh7XoE8",
+          "description": "Youtube video tutorial",
+          "tags": ["Youtube", "GeoTiff"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
         }
+
       ]
     },
     {
@@ -951,6 +972,76 @@
           "download": 1,
           "download_mode": "CSV 📥",
           "stato": ["open"]
+        },
+        {
+          "id": 5,
+          "title": "Copernicus Climate Change Service - ERA Explorer",
+          "url": "https://apps.copernicus-climate.eu/c3s-apps/era-explorer/?lat=40.84&lng=14.25&plot=8",
+          "description": "Explore climate data from the Copernicus Climate Change Service.",
+          "tags": ["Climate", "Copernicus"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 6,
+          "title": "Async TIFF",
+          "url": "https://github.com/developmentseed/async-tiff",
+          "description": "A library for reading and writing GeoTIFF files asynchronously.",
+          "tags": ["GeoTIFF", "Async"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 7,
+          "title": "Ras Commander",
+          "url": "https://github.com/gpt-cmdr/ras-commander",
+          "description": "A command-line tool for managing and analyzing remote sensing data.",
+          "tags": ["Remote Sensing", "Command Line"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 8,
+          "title": "QGIS MCP",
+          "url": "https://github.com/jjsantos01/qgis_mcp",
+          "description": "A QGIS plugin for managing and analyzing multi-criteria projects.",
+          "tags": ["QGIS", "Plugin"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 9,
+          "title": "Live Precipitation Map",
+          "url": "https://liveprecipitation-leaflet-rainviewer.netlify.app/#",
+          "description": "A live map showing precipitation data.",
+          "tags": ["Weather", "Map"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 10,
+          "title": "pytRIBS",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S1364815225001161",
+          "description": "An open, modular, and reproducible python-based framework for distributed hydrologic modeling",
+          "tags": ["Python", "hydrologic"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 11,
+          "title": "ArcGIS Earth Engine Toolbox",
+          "url": "https://github.com/gee-community/arcgis-earthengine-toolbox",
+          "description": "A toolbox for integrating ArcGIS with Google Earth Engine.",
+          "tags": ["ArcGIS", "Google Earth Engine"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
         }
       ]
     },
@@ -1003,7 +1094,7 @@
           "title": "Speed Up Website Loading",
           "url": "https://www.freecodecamp.org/news/speed-up-website-loading/",
           "description": "Tips and tricks to improve your website's loading speed.",
-          "tags": ["Web Development", "FreeCodeCamp"],
+          "tags": ["WebDevelopment", "FreeCodeCamp"],
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
@@ -1013,11 +1104,256 @@
           "title": "LDRS - UI Ball",
           "url": "https://uiball.com/ldrs/",
           "description": "A collection of loading animations for web applications.",
-          "tags": ["UI", "Animations"],
+          "tags": ["UI", "WebDevelopment"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 7,
+          "title": "Toggles",
+          "url": "https://toggles.dev/",
+          "description": "A tool for creating and managing toggle switches in web applications.",
+          "tags": ["UI", "WebDevelopment"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 8,
+          "title": "Connect, Read, Process Sensor Data on Microcontrollers for Beginners",
+          "url": "https://www.freecodecamp.org/news/connect-read-process-sensor-data-on-microcontrollers-for-beginners/",
+          "description": "A beginner's guide to connecting and processing sensor data on microcontrollers.",
+          "tags": ["Microcontrollers", "Sensors", "Data Processing"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 9,
+          "title": "Pass the GitHub Actions Certification Exam",
+          "url": "https://www.freecodecamp.org/news/pass-the-github-actions-certification-exam/",
+          "description": "A guide to passing the GitHub Actions certification exam, including tips and resources.",
+          "tags": ["GitHub", "Actions", "Certification"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 10,
+          "title": "Pointblank - Data Validation",
+          "url": "https://posit-dev.github.io/pointblank/",
+          "description": "Pointblank is a powerful, yet elegant data validation framework for Python that transforms how you ensure data quality.",
+          "tags": ["Python", "Data Validation", "Package"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 11,
+          "title": "SVG Layer",
+          "url": "https://svgl.app/",
+          "description": "A tool for creating and managing SVG layers in web applications.",
+          "tags": ["SVG", "Web Development"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 12,
+          "title": "Can I use",
+          "url": "https://caniuse.com/",
+          "description": "Check browser support for HTML5, CSS3, SVG and more.",
+          "tags": ["Browser", "Support", "HTML5", "CSS3", "SVG"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 13,
+          "title": "Developing RESTful APIs with Python Flask and Amazon DynamoDB",
+          "url": "https://codewithsibin.com/developing-restful-apis-with-python-flask-and-amazon-dynamodb-in-depth-guide/",
+          "description": "A comprehensive guide to building RESTful APIs using Python Flask and Amazon DynamoDB.",
+          "tags": ["Python", "Flask", "DynamoDB", "API"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 14,
+          "title": "Master Multimodal Data Analysis with LLMs and Python",
+          "url": "https://www.freecodecamp.org/news/master-multimodal-data-analysis-with-llms-and-python/",
+          "description": "A comprehensive guide to mastering multimodal data analysis using large language models (LLMs) and Python.",
+          "tags": ["LLMs", "Data Analysis", "Python"],
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
         }
+      ]
+    },
+    {
+      "AI": [
+        {
+          "id": 1,
+          "title": "Generative AI for Everyone",
+          "url": "https://www.deeplearning.ai/courses/generative-ai-for-everyone/",
+          "description": "A course on Generative AI for everyone.",
+          "tags": ["AI", "Generative AI"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 2,
+          "title": "Generative AI for Everyone - All Courses",
+          "url": "https://www.deeplearning.ai/courses/generative-ai-for-everyone/",
+          "description": "A course on Generative AI for everyone.",
+          "tags": ["AI", "Generative AI"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 3,
+          "title": "Google Cloud",
+          "url": "https://www.cloudskillsboost.google/paths/118",
+          "description": "Beginner: Introduction to Generative AI Learning Path",
+          "tags": ["AI", "Generative AI"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 4,
+          "title": "YouTube Video - AI",
+          "url": "https://www.youtube.com/watch?v=5NgNicANyqM",
+          "description": "freeCodeCamp",
+          "tags": ["YouTube", "freeCodeCamp"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+       {
+         "id": 5,
+         "title": "YouTube Channel - Andrej Karpathy",
+         "url": "https://www.youtube.com/@AndrejKarpathy",
+         "description": "Andrej Karpathy's YouTube channel.",
+         "tags": ["YouTube", "Andrej Karpathy"],
+         "download": 0,
+         "download_mode": "N/A",
+         "stato": ["open"]
+       },
+       {
+         "id": 6,
+         "title": "YouTube Channel - AI Explained",
+         "url": "https://www.youtube.com/@aiexplained-official",
+         "description": "AI Explained's YouTube channel.",
+         "tags": ["YouTube", "AI Explained"],
+         "download": 0,
+         "download_mode": "N/A",
+         "stato": ["open"]
+       },
+       {
+         "id": 7,
+         "title": "YouTube Channel - Two Minute Papers",
+         "url": "https://www.youtube.com/@TwoMinutePapers",
+         "description": "Two Minute Papers' YouTube channel.",
+         "tags": ["YouTube", "Two Minute Papers"],
+         "download": 0,
+         "download_mode": "N/A",
+         "stato": ["open"]
+       },
+       {
+         "id": 8,
+         "title": "YouTube Playlist - AI",
+         "url": "https://www.youtube.com/playlist?list=PL7x1PPPyq2gmX5wOgDSQnQl7MjgaZn4Xj",
+         "description": "A playlist of AI-related videos.",
+         "tags": ["YouTube", "AI"],
+         "download": 0,
+         "download_mode": "N/A",
+         "stato": ["open"]
+       },
+       {
+         "id": 9,
+         "title": "Substack - The Zvi",
+         "url": "https://thezvi.substack.com/",
+         "description": "The Zvi's Substack.",
+         "tags": ["Substack", "The Zvi"],
+         "download": 0,
+         "download_mode": "N/A",
+         "stato": ["open"]
+       },
+       {
+         "id": 10,
+         "title": "One Useful Thing",
+         "url": "https://www.oneusefulthing.org/",
+         "description": "A blog about useful things.",
+         "tags": ["Blog", "One Useful Thing"],
+         "download": 0,
+         "download_mode": "N/A",
+         "stato": ["open"]
+       },
+       {
+         "id": 11,
+         "title": "Data Pizza Newsletter",
+         "url": "https://datapizza.tech/it/#newsletter",
+         "description": "Stay updated with the latest news and insights.",
+         "tags": ["Newsletter", "Data Pizza"],
+         "download": 0,
+         "download_mode": "N/A",
+         "stato": ["open"]
+       }
+       {
+         "id": 12,
+         "title": "AI Supremacy",
+         "url": "https://www.ai-supremacy.com/",
+         "description": "A blog about AI and its implications.",
+         "tags": ["Blog", "AI Supremacy"],
+         "download": 0,
+         "download_mode": "N/A",
+         "stato": ["open"]
+       },
+       {
+         "id": 13,
+         "title": "Deep Learning Book",
+         "url": "https://www.deeplearningbook.org/",
+         "description": "The Deep Learning book by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.",
+         "tags": ["Book", "Deep Learning"],
+         "download": 0,
+         "download_mode": "N/A",
+         "stato": ["open"]
+       },
+       {
+         "id": 14,
+         "title": "Deep Learning Cookbook",
+         "url": "https://github.com/andkret/Cookbook",
+         "description": "A collection of practical recipes for deep learning.",
+         "tags": ["Book", "Deep Learning", "Cookbook"],
+         "download": 0,
+         "download_mode": "N/A",
+         "stato": ["open"]
+       },
+       {
+         "id": 15,
+         "title": "Dive into Deep Learning",
+         "url": "https://d2l.ai/",
+         "description": "An interactive deep learning book with code, math, and discussions.",
+         "tags": ["Book", "Deep Learning"],
+         "download": 0,
+         "download_mode": "N/A",
+         "stato": ["open"]
+       },
+       {
+         "id": 16,
+         "title": "Python Data Science Handbook",
+         "url": "https://jakevdp.github.io/PythonDataScienceHandbook/",
+         "description": "A comprehensive guide to data science in Python.",
+         "tags": ["Book", "Data Science", "Python"],
+         "download": 0,
+         "download_mode": "N/A",
+         "stato": ["open"]
+       }
+       
       ]
     },
     {
@@ -1119,7 +1455,28 @@
           "download": 1,
           "download_mode": "Istant 📥",
           "stato": ["open"]
+        },
+        {
+          "id": 15,
+          "title": "Wyvern - Open Data",
+          "url": "https://wyvern.space/open-data/",
+          "description": "Wyvern is a platform for accessing and sharing open data.",
+          "tags": ["Wyvern", "Open Data"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 16,
+          "title": "Misread t-SNE",
+          "url": "https://distill.pub/2016/misread-tsne/",
+          "description": "A visual and interactive explanation of t-SNE.",
+          "tags": ["t-SNE", "Visualization"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
         }
+
       ]
     },
     {
@@ -1245,7 +1602,58 @@
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
-        }
+        },
+        {
+          "id": 13,
+          "title": "Learn Any Language with AI",
+          "url": "https://www.freecodecamp.org/news/learn-any-language-with-ai/",
+          "description": "A guide on how to use AI to learn any language effectively.",
+          "tags": ["AI", "Language Learning", "FreeCodeCamp"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 14,
+          "title": "OS.js - A JavaScript Cloud IDE",
+          "url": "https://www.os-js.org/",
+          "description": "OS.js is a JavaScript cloud IDE that allows you to create and manage your applications in the cloud.",
+          "tags": ["OS.js", "Cloud IDE", "JavaScript"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 15,
+          "title": "Easing Wizard",
+          "url": "https://easingwizard.com/",
+          "description": "A tool for creating CSS animations.",
+          "tags": ["CSS", "Animations"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 16,
+          "title": "VS Code Themes",
+          "url": "https://vscodethemes.com/",
+          "description": "A collection of themes for Visual Studio Code.",
+          "tags": ["VS Code", "Themes"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 17,
+          "title": "File Pizza",
+          "url": "https://file.pizza/",
+          "description": "A simple file sharing service.",
+          "tags": ["File Sharing"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        
       ]
     },
     {
@@ -1273,118 +1681,8 @@
           "stato": ["open"]
         },
         {
-          "id": 101,
-          "title": "Link 101",
-          "url": "https://www.linkedin.com/posts/danielodonohue_this-chrome-extension-logs-the-web-services-ugcPost-7307540996882341888-V0ZI?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 102,
-          "title": "Link 102",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7307736540309282817-LOYB?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 103,
-          "title": "Link 103",
-          "url": "https://www.linkedin.com/posts/massimilianomoraca_meteodata-c3s-ecmwf-activity-7307757856445898753-LsqC?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 104,
-          "title": "Link 104",
-          "url": "https://www.linkedin.com/posts/free-code-camp_embedded-systems-are-found-in-many-different-activity-7307551674837934080-SRZ_?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 105,
-          "title": "Link 105",
-          "url": "https://www.linkedin.com/posts/gfgullo_openai-deepseek-agi-activity-7306341859566538752-DW4I?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 106,
-          "title": "Link 106",
-          "url": "https://www.linkedin.com/posts/kylebarrongeo_github-developmentseedasync-tiff-async-activity-7307822341923786752-Ti_f?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 107,
-          "title": "Link 107",
-          "url": "https://www.linkedin.com/posts/lalit-kumar-sain-815324248_stop-wasting-time-looking-for-jobs-only-on-activity-7308045033163603970-a6Ao?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 108,
-          "title": "Link 108",
-          "url": "https://www.linkedin.com/posts/free-code-camp_github-has-a-github-actions-certification-activity-7308095755502735360-QRqr?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 109,
-          "title": "Link 109",
-          "url": "https://www.linkedin.com/posts/andreaborruso_pointblank-un-nuovo-progetto-nella-versione-activity-7308153339383287808-r0E-?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 110,
-          "title": "Link 110",
-          "url": "https://www.linkedin.com/posts/william-katzenmeyer_the-ras-commander-library-is-live-https-activity-7308544089749155841-TrkB?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 111,
-          "title": "Link 111",
-          "url": "https://www.linkedin.com/posts/mashford-mahute-012487178_gis-geospatial-urban-activity-7308504242556735489-EOpL?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
           "id": 112,
-          "title": "Link 112",
+          "title": "Link 112 ⛵⛵⛵⛵",
           "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7308816887302250496-iUuQ?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
           "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
           "tags": ["varie"],
@@ -1393,108 +1691,8 @@
           "stato": ["open"]
         },
         {
-          "id": 113,
-          "title": "Link 113",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7308932684217487360-QaZ8?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 114,
-          "title": "Link 114",
-          "url": "https://www.linkedin.com/posts/olivier-hagolle-88429a12a_sentinel2-copernicus-activity-7306328312077832193-jbm0?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 115,
-          "title": "Link 115",
-          "url": "https://www.freecodecamp.org/news/learn-any-language-with-ai/",
-          "description": "Contenuto web: learn any language with ai...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 116,
-          "title": "Link 116",
-          "url": "https://www.linkedin.com/posts/salvatore-fiandaca-23a1a250_qgis-daticatastali-gis-activity-7309244155640078338-LRcK?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 117,
-          "title": "Link 117",
-          "url": "https://www.linkedin.com/posts/maxim-chepurnoy-4401541a0_gis-qgis-ai-ugcPost-7306755891683319808-YO4F?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 118,
-          "title": "Link 118",
-          "url": "https://www.linkedin.com/posts/syeda-noor-ul-saba-bukhari-073772354_gis-leafletjs-webmapping-activity-7307132205569298432-LbzC?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 119,
-          "title": "Link 119",
-          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7304871652482338816?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Contenuto web: update, urn:li:activity:7304871652482338816...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 120,
-          "title": "Link 120",
-          "url": "https://www.linkedin.com/posts/enrique-vivoni-ph-d-p-e-655696162_pytribs-an-open-modular-and-reproducible-activity-7309952157422624769-8lZT?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 121,
-          "title": "Link 121",
-          "url": "https://www.linkedin.com/posts/iamtekson_geotiff-tiff-gdal-activity-7310288097701761024-agIa?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 122,
-          "title": "Link 122",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7310729233218121728-3RF9?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
           "id": 123,
-          "title": "Link 123",
+          "title": "Link 123 ⛵⛵⛵⛵",
           "url": "https://www.linkedin.com/posts/geoinnova-formacion_qgis-gis-geografaeda-ugcPost-7310587720723001345-HQcV?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
           "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
           "tags": ["varie"],
@@ -1502,296 +1700,8 @@
           "download_mode": "N/A",
           "stato": ["open"]
         },
-        {
-          "id": 124,
-          "title": "Link 124",
-          "url": "https://www.linkedin.com/posts/nina-gis_satelliteimagery-remotesensing-earthobservation-ugcPost-7310692914060251137-AW0I?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 125,
-          "title": "Link 125",
-          "url": "https://www.linkedin.com/posts/mappinggis-com_geocoder-cartociudad-herramienta-para-geocodificar-activity-7310740958696894464-rNM2?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 126,
-          "title": "Link 126",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7311005883730214916-RC5Y?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 127,
-          "title": "Link 127",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7311095753215533058-37M_?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 128,
-          "title": "Link 128",
-          "url": "https://www.linkedin.com/posts/shahab-jozdani-phd-a3978a189_chat2geo-is-now-available-online-no-installation-activity-7303058330321575937-yNsC?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 129,
-          "title": "Link 129",
-          "url": "https://www.linkedin.com/posts/shahab-jozdani-phd-a3978a189_a-game-changing-upgrade-is-coming-to-chat2geo-activity-7305360773667520512-TXcB?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 130,
-          "title": "Link 130",
-          "url": "https://www.getyourguide.com/explorer/bavaria-ttd241/bavarian-oktoberfest-tips/",
-          "description": "Contenuto web: explorer, bavaria ttd241, bavarian oktoberfest tips...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 131,
-          "title": "Link 131",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7312045607924211712-IHcf?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 132,
-          "title": "Link 132",
-          "url": "https://www.linkedin.com/posts/geoinnova-formacion_qgis-gis-georreferenciaciaejn-activity-7302976970835816448-QPpf?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 133,
-          "title": "Link 133",
-          "url": "https://github.com/gee-community/arcgis-earthengine-toolbox",
-          "description": "Contenuto web: gee community, arcgis earthengine toolbox...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 134,
-          "title": "Link 134",
-          "url": "https://www.linkedin.com/posts/iamtekson_geospatial-remotesensing-googleearthengine-activity-7312828616667500545-6JJm?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 135,
-          "title": "Link 135",
-          "url": "https://www.linkedin.com/posts/fnardi_8-days-left-to-make-your-voice-count-activity-7313067962674896896-0O3_?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 136,
-          "title": "Link 136",
-          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7313020449582436352?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Contenuto web: update, urn:li:activity:7313020449582436352...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 137,
-          "title": "Link 137",
-          "url": "https://www.linkedin.com/posts/free-code-camp_multimodal-data-analysis-involves-analyzing-activity-7312927079979786240-5jtN?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 138,
-          "title": "Link 138",
-          "url": "https://www.shazam.com/track/40758092?referrer=share",
-          "description": "Contenuto web: 40758092...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 139,
-          "title": "Link 139",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-ugcPost-7317105387403407360-FV44?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 140,
-          "title": "Link 140",
-          "url": "https://focusontrips.com/europa/trekking-seceda-praplan-santa-cristina-val-gardena/",
-          "description": "Contenuto web: europa, trekking seceda praplan santa cristina val gardena...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 141,
-          "title": "Link 141",
-          "url": "https://focusontrips.com/europa/rifugio-stevia/",
-          "description": "Contenuto web: europa, rifugio stevia...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 142,
-          "title": "Link 142",
-          "url": "https://focusontrips.com/europa/col-plo-alt-rifugio-gardenacia/",
-          "description": "Contenuto web: europa, col plo alt rifugio gardenacia...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 143,
-          "title": "Link 143",
-          "url": "https://www.linkedin.com/posts/james-r-horn_great-things-in-business-are-never-done-ugcPost-7317498258312822786-hzJZ?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 144,
-          "title": "Link 144",
-          "url": "https://www.linkedin.com/posts/aigpt_ai-aitools-machinelearning-activity-7317838016327118850-dqOS?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 145,
-          "title": "Link 145",
-          "url": "https://www.linkedin.com/posts/michael-egan-4941a4145_qgis-ugcPost-7318079592022319104-YWFz?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 146,
-          "title": "Link 146",
-          "url": "https://www.linkedin.com/posts/alexander-korolev-b05337183_giscarta-gis-dataviz-activity-7318622311681585152-Q15d?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 147,
-          "title": "Link 147",
-          "url": "https://www.linkedin.com/posts/altiamkabir_linkedin-remote-jobs-activity-7318891042378764288-t17K?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 148,
-          "title": "Link 148",
-          "url": "https://www.linkedin.com/posts/shahab-jozdani-phd-a3978a189_introducing-two-new-features-on-chat2geo-activity-7320129663282933761-CJsJ?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 149,
-          "title": "Link 149",
-          "url": "https://www.linkedin.com/posts/datapizza_ai-risorse-genai-activity-7320355696682655744-4T3l?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 150,
-          "title": "Link 150",
-          "url": "https://www.linkedin.com/posts/i-web-developer_activity-7320713495631564801-dhzB?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 151,
-          "title": "Link 151",
-          "url": "https://www.linkedin.com/posts/iamtekson_geospatial-remotesensing-googleearthengine-activity-7312828616667500545-6JJm?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 152,
-          "title": "Link 152",
-          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7321045492732256256?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Contenuto web: update, urn:li:activity:7321045492732256256...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
+
+
         {
           "id": 153,
           "title": "Link 153",
