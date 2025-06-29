@@ -169,6 +169,16 @@
           "download": "",
           "download_mode": "",
           "stato": ["open"]
+        },
+        {
+          "id": 11,
+          "title": "LUCAS Soil Function Data (ESDAC)",
+          "url": "https://esdac.jrc.ec.europa.eu/content/soil-function-data-measured-lucas-2018-sites-across-eu",
+          "description": "Soil functions data for 885 samples (881 sites) from LUCAS 2018 are available as a CSV file that comes together with a metadata PDF file.",
+          "tags": ["LUCAS", "Soil", "csv"],
+          "download": "",
+          "download_mode": "",
+          "stato": ["open"]
         }
       ]
     },
@@ -875,6 +885,26 @@
           "download": 1,
           "download_mode": "PDF 📝",
           "stato": ["open"]
+        },
+        {
+          "id": 34,
+          "title": "SSSA - Get Your Stickers Here!🧡",
+          "url": "https://www.soils.org/stickers?q=stickers%2F",
+          "description": "Get your soil science stickers from the Soil Science Society of America (SSSA) and promote soil awareness!",
+          "tags": ["Stickers", "Soil Science", "SSSA"],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": ["open"]
+        },
+        {
+          "id": 35,
+          "title": "Challenges of and opportunities for protecting European soil biodiversity",
+          "url": "https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/cobi.13930",
+          "description": "Understanding nature conservation gaps related to soil biodiversity and ecosystem functions allows for more effective management and policy.",
+          "tags": ["Article ", "biodiversity"],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": ["open"]
         }
       ]
     },
@@ -962,16 +992,10 @@
         },
         {
           "id": 4,
-          "title": "Google Earth Engine Tutorial – Flood Detection using Sentinel-1",
-          "url": "https://www.youtube.com/watch?v=rbtO0oncjPI",
+          "title": "Google Earth Engine VIDEO Tutorials",
+          "url": "https://www.youtube.com/@amirhosseinahrarigee",
           "description": "Video tutorial on how to detect flood areas using Sentinel-1 SAR imagery in Google Earth Engine.",
-          "tags": [
-            "Google Earth Engine",
-            "Sentinel-1",
-            "Flood Detection",
-            "SAR",
-            "Remote Sensing"
-          ],
+          "tags": ["Google Earth Engine", "YouTube", "Remote Sensing"],
           "download": 0,
           "download_mode": "",
           "stato": ["open"]
@@ -1094,36 +1118,6 @@
           "url": "",
           "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
           "tags": ["varie", "vuoto"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 45,
-          "title": "Link 45",
-          "url": "https://www.linkedin.com/posts/mashford-mahute-012487178_gis-remotesensing-google-activity-7296137120581099520-MlhU?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 46,
-          "title": "Link 46",
-          "url": "https://www.linkedin.com/posts/mashford-mahute-012487178_gis-remotesensing-google-activity-7296137120581099520-MlhU?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 47,
-          "title": "Link 47",
-          "url": "https://www.soils.org/stickers?q=stickers/",
-          "description": "Contenuto web: stickers...",
-          "tags": ["varie"],
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]

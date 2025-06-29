@@ -80,9 +80,9 @@
   },
   {
     "id": 11,
-    "name": "Numeri Civici e Strade",
+    "name": "Numbers and Roads",
     "links": "https://github.com/ondata/archivio_anncsu",
-    "description": "Stradario e indirizzario dell'Archivio Nazionale dei Numeri Civici e delle Strade (ANCSU) in Italia.",
+    "description": "Street and Address Book of the National Archives of Civic Numbers and Roads (ANCSU) in Italy.",
     "tags": ["Archive", "Italian Addresses", "ANCSU"],
     "filename": 0
   },
