@@ -1302,7 +1302,7 @@
          "download": 0,
          "download_mode": "N/A",
          "stato": ["open"]
-       }
+       },
        {
          "id": 12,
          "title": "AI Supremacy",
@@ -1353,7 +1353,7 @@
          "download_mode": "N/A",
          "stato": ["open"]
        }
-       
+
       ]
     },
     {
@@ -1652,7 +1652,7 @@
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
-        },
+        }
         
       ]
     },
