@@ -9,7 +9,7 @@
   },
   {
     "id": "2",
-    "name": "Coordinate Shapefile",
+    "name": "Extract Coordinate",
     "description": "Easily extract coordinates from Shapefiles (points, lines, polygons) into CSV format directly in QGIS",
     "tags": ["QGIS", "CSV"],
     "filename": "coordinateShape.zip"

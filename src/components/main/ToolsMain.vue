@@ -123,7 +123,7 @@ export default {
         v-for="tool in filteredTools"
         :key="tool.id"
       >
-        <div class="card h-100 shadow-sm">
+        <div class="card card_color h-100 shadow-sm">
           <div class="card-body d-flex flex-column">
             <h5 class="card-title">{{ tool.name }}</h5>
             <p class="card-text flex-grow-1">{{ tool.description }}</p>
