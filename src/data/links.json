@@ -1502,8 +1502,139 @@
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
+        },
+        {
+          "id": 19,
+          "title": "Formulas HQ",
+          "url": "https://formulashq.com/",
+          "description": "A platform for sharing and discovering formulas.",
+          "tags": ["Formulas", "Math"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 20,
+          "title": "Arcwise",
+          "url": "https://arcwise.app/",
+          "description": "A platform for creating and sharing geospatial applications.",
+          "tags": ["Geospatial", "Applications"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 21,
+          "title": "ChatCSV",
+          "url": "https://www.chatcsv.co/",
+          "description": "A tool for converting chat messages into CSV format.",
+          "tags": ["Chat", "CSV"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 22,
+          "title": "Numerous",
+          "url": "https://numerous.ai/",
+          "description": "A platform for data enrichment and analysis.",
+          "tags": ["Data", "AI"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 23,
+          "title": "Rows",
+          "url": "https://rows.com/ai",
+          "description": "A platform for building and sharing AI applications.",
+          "tags": ["AI", "Applications"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 24,
+          "title": "Genius Sheets",
+          "url": "https://www.geniussheets.us/",
+          "description": "A platform for creating and sharing spreadsheet templates.",
+          "tags": ["Spreadsheets", "Templates"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 25,
+          "title": "Equals",
+          "url": "https://equals.com/",
+          "description": "A platform for creating and sharing geospatial applications.",
+          "tags": ["Geospatial", "Applications"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 26,
+          "title": "ChartPixel",
+          "url": "https://www.chartpixel.com/",
+          "description": "A platform for creating and sharing chart visualizations.",
+          "tags": ["Charts", "Data Visualization"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 27,
+          "title": "Julius",
+          "url": "https://julius.ai/",
+          "description": "A platform for creating and sharing AI applications.",
+          "tags": ["AI", "Applications"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 28,
+          "title": "SheetAI",
+          "url": "https://www.sheetai.app/",
+          "description": "A platform for creating and sharing AI-powered spreadsheets.",
+          "tags": ["AI", "Spreadsheets"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 29,
+          "title": "Tomat",
+          "url": "https://www.tomat.ai/",
+          "description": "A platform for creating and sharing AI-powered applications.",
+          "tags": ["AI", "Applications"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 30,
+          "title": "Simple ML for Sheets",
+          "url": "https://simplemlforsheets.com/",
+          "description": "A platform for building and deploying machine learning models in Google Sheets.",
+          "tags": ["Machine Learning", "Google Sheets"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 31,
+          "title": "Sheety",
+          "url": "https://sheety.co/",
+          "description": "A platform for turning spreadsheets into APIs.",
+          "tags": ["APIs", "Spreadsheets"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
         }
       ]
+
     },
     {
       "name": "Cadastral",
@@ -1859,16 +1990,6 @@
         },
 
 
-        {
-          "id": 159,
-          "title": "Link 159",
-          "url": "https://www.linkedin.com/posts/mashford-mahute-012487178_gis-geospatial-fao-activity-7312468477728976896-WMfC?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
         {
           "id": 160,
           "title": "Link 160",
