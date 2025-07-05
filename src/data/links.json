@@ -557,7 +557,6 @@
           "download_mode": "",
           "stato": ["open"]
         }
-
       ]
     },
     {
@@ -1042,6 +1041,106 @@
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
+        },
+        {
+          "id": 12,
+          "title": "Geofabrik Shapefiles",
+          "url": "https://www.geofabrik.de/data/shapefiles.html",
+          "description": "Download shapefiles for various regions from Geofabrik.",
+          "tags": ["Shapefiles", "Geospatial Data"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 13,
+          "title": "OpenStreetMap Data Extracts",
+          "url": "https://extract.bbbike.org/",
+          "description": "Extract OpenStreetMap data for specific areas.",
+          "tags": ["OpenStreetMap", "Data Extracts"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        }
+        ,{
+          "id": 14,
+          "title": "DIVA-GIS Data",
+          "url": "https://diva-gis.org/data.html",
+          "description": "Download free spatial data for various countries, including administrative boundaries, roads, and land cover.",
+          "tags": ["DIVA-GIS", "Spatial Data"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        }
+          ,{
+          "id": 15,
+          "title": "GADM - Global Administrative Areas",
+          "url": "https://gadm.org/",
+          "description": "Download global administrative areas data in various formats.",
+          "tags": ["GADM", "Administrative Areas"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 16,
+          "title": "Humanitarian Data Exchange",
+          "url": "https://data.humdata.org/",
+          "description": "A platform for sharing humanitarian data.",
+          "tags": ["Humanitarian", "Data"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 17,
+          "title": "Overpass Turbo",
+          "url": "https://overpass-turbo.eu/",
+          "description": "A web-based tool for querying and visualizing OpenStreetMap data.",
+          "tags": ["OpenStreetMap", "Data Visualization"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 18,
+          "title": "MapCruzin",
+          "url": "https://mapcruzin.com/",
+          "description": "A resource for free GIS data, maps, and tools.",
+          "tags": ["GIS", "Maps", "Data"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 19,
+          "title": "FAO-UNESCO Soil Map of the World",
+          "url": "https://www.fao.org/soils-portal/data-hub/soil-maps-and-databases/faounesco-soil-map-of-the-world/en/",
+          "description": "A global soil map providing information on soil resources.",
+          "tags": ["Soil", "FAO", "UNESCO"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 20,
+          "title": "Ramsar Sites Information Service",
+          "url": "https://rsis.ramsar.org/",
+          "description": "A database of wetlands of international importance.",
+          "tags": ["Wetlands", "Ramsar"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 21,
+          "title": "World Bank Data Catalog",
+          "url": "https://datacatalog.worldbank.org/home",
+          "description": "A comprehensive catalog of World Bank data.",
+          "tags": ["World Bank", "Data"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
         }
       ]
     },
@@ -1188,6 +1287,37 @@
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
+        },
+        {
+          "id": 15,
+          "title": "JSV9000",
+          "url": "https://www.jsv9000.app/",
+          "description": "A platform for exploring and visualizing JavaScript code.",
+          "tags": ["JavaScript", "Visualization"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 16,
+          "title": "Frontend Mentor",
+          "url": "https://www.frontendmentor.io/?via=rammcodes",
+          "description": "A platform for practicing front-end coding skills.",
+          "tags": ["Frontend", "Mentorship"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+
+        {
+          "id": 17,
+          "title": "",
+          "url": "https://quickref.me/",
+          "description": "",
+          "tags": ["Frontend", "Mentorship"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
         }
       ]
     },
@@ -1233,127 +1363,146 @@
           "download_mode": "N/A",
           "stato": ["open"]
         },
-       {
-         "id": 5,
-         "title": "YouTube Channel - Andrej Karpathy",
-         "url": "https://www.youtube.com/@AndrejKarpathy",
-         "description": "Andrej Karpathy's YouTube channel.",
-         "tags": ["YouTube", "Andrej Karpathy"],
-         "download": 0,
-         "download_mode": "N/A",
-         "stato": ["open"]
-       },
-       {
-         "id": 6,
-         "title": "YouTube Channel - AI Explained",
-         "url": "https://www.youtube.com/@aiexplained-official",
-         "description": "AI Explained's YouTube channel.",
-         "tags": ["YouTube", "AI Explained"],
-         "download": 0,
-         "download_mode": "N/A",
-         "stato": ["open"]
-       },
-       {
-         "id": 7,
-         "title": "YouTube Channel - Two Minute Papers",
-         "url": "https://www.youtube.com/@TwoMinutePapers",
-         "description": "Two Minute Papers' YouTube channel.",
-         "tags": ["YouTube", "Two Minute Papers"],
-         "download": 0,
-         "download_mode": "N/A",
-         "stato": ["open"]
-       },
-       {
-         "id": 8,
-         "title": "YouTube Playlist - AI",
-         "url": "https://www.youtube.com/playlist?list=PL7x1PPPyq2gmX5wOgDSQnQl7MjgaZn4Xj",
-         "description": "A playlist of AI-related videos.",
-         "tags": ["YouTube", "AI"],
-         "download": 0,
-         "download_mode": "N/A",
-         "stato": ["open"]
-       },
-       {
-         "id": 9,
-         "title": "Substack - The Zvi",
-         "url": "https://thezvi.substack.com/",
-         "description": "The Zvi's Substack.",
-         "tags": ["Substack", "The Zvi"],
-         "download": 0,
-         "download_mode": "N/A",
-         "stato": ["open"]
-       },
-       {
-         "id": 10,
-         "title": "One Useful Thing",
-         "url": "https://www.oneusefulthing.org/",
-         "description": "A blog about useful things.",
-         "tags": ["Blog", "One Useful Thing"],
-         "download": 0,
-         "download_mode": "N/A",
-         "stato": ["open"]
-       },
-       {
-         "id": 11,
-         "title": "Data Pizza Newsletter",
-         "url": "https://datapizza.tech/it/#newsletter",
-         "description": "Stay updated with the latest news and insights.",
-         "tags": ["Newsletter", "Data Pizza"],
-         "download": 0,
-         "download_mode": "N/A",
-         "stato": ["open"]
-       },
-       {
-         "id": 12,
-         "title": "AI Supremacy",
-         "url": "https://www.ai-supremacy.com/",
-         "description": "A blog about AI and its implications.",
-         "tags": ["Blog", "AI Supremacy"],
-         "download": 0,
-         "download_mode": "N/A",
-         "stato": ["open"]
-       },
-       {
-         "id": 13,
-         "title": "Deep Learning Book",
-         "url": "https://www.deeplearningbook.org/",
-         "description": "The Deep Learning book by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.",
-         "tags": ["Book", "Deep Learning"],
-         "download": 0,
-         "download_mode": "N/A",
-         "stato": ["open"]
-       },
-       {
-         "id": 14,
-         "title": "Deep Learning Cookbook",
-         "url": "https://github.com/andkret/Cookbook",
-         "description": "A collection of practical recipes for deep learning.",
-         "tags": ["Book", "Deep Learning", "Cookbook"],
-         "download": 0,
-         "download_mode": "N/A",
-         "stato": ["open"]
-       },
-       {
-         "id": 15,
-         "title": "Dive into Deep Learning",
-         "url": "https://d2l.ai/",
-         "description": "An interactive deep learning book with code, math, and discussions.",
-         "tags": ["Book", "Deep Learning"],
-         "download": 0,
-         "download_mode": "N/A",
-         "stato": ["open"]
-       },
-       {
-         "id": 16,
-         "title": "Python Data Science Handbook",
-         "url": "https://jakevdp.github.io/PythonDataScienceHandbook/",
-         "description": "A comprehensive guide to data science in Python.",
-         "tags": ["Book", "Data Science", "Python"],
-         "download": 0,
-         "download_mode": "N/A",
-         "stato": ["open"]
-       }
-
+        {
+          "id": 5,
+          "title": "YouTube Channel - Andrej Karpathy",
+          "url": "https://www.youtube.com/@AndrejKarpathy",
+          "description": "Andrej Karpathy's YouTube channel.",
+          "tags": ["YouTube", "Andrej Karpathy"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 6,
+          "title": "YouTube Channel - AI Explained",
+          "url": "https://www.youtube.com/@aiexplained-official",
+          "description": "AI Explained's YouTube channel.",
+          "tags": ["YouTube", "AI Explained"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 7,
+          "title": "YouTube Channel - Two Minute Papers",
+          "url": "https://www.youtube.com/@TwoMinutePapers",
+          "description": "Two Minute Papers' YouTube channel.",
+          "tags": ["YouTube", "Two Minute Papers"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 8,
+          "title": "YouTube Playlist - AI",
+          "url": "https://www.youtube.com/playlist?list=PL7x1PPPyq2gmX5wOgDSQnQl7MjgaZn4Xj",
+          "description": "A playlist of AI-related videos.",
+          "tags": ["YouTube", "AI"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 9,
+          "title": "Substack - The Zvi",
+          "url": "https://thezvi.substack.com/",
+          "description": "The Zvi's Substack.",
+          "tags": ["Substack", "The Zvi"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 10,
+          "title": "One Useful Thing",
+          "url": "https://www.oneusefulthing.org/",
+          "description": "A blog about useful things.",
+          "tags": ["Blog", "One Useful Thing"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 11,
+          "title": "Data Pizza Newsletter",
+          "url": "https://datapizza.tech/it/#newsletter",
+          "description": "Stay updated with the latest news and insights.",
+          "tags": ["Newsletter", "Data Pizza"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 12,
+          "title": "AI Supremacy",
+          "url": "https://www.ai-supremacy.com/",
+          "description": "A blog about AI and its implications.",
+          "tags": ["Blog", "AI Supremacy"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 13,
+          "title": "Deep Learning Book",
+          "url": "https://www.deeplearningbook.org/",
+          "description": "The Deep Learning book by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.",
+          "tags": ["Book", "Deep Learning"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 14,
+          "title": "Deep Learning Cookbook",
+          "url": "https://github.com/andkret/Cookbook",
+          "description": "A collection of practical recipes for deep learning.",
+          "tags": ["Book", "Deep Learning", "Cookbook"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 15,
+          "title": "Dive into Deep Learning",
+          "url": "https://d2l.ai/",
+          "description": "An interactive deep learning book with code, math, and discussions.",
+          "tags": ["Book", "Deep Learning"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 16,
+          "title": "Python Data Science Handbook",
+          "url": "https://jakevdp.github.io/PythonDataScienceHandbook/",
+          "description": "A comprehensive guide to data science in Python.",
+          "tags": ["Book", "Data Science", "Python"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 17,
+          "title": "From Maps to AI Agents: Build AI-Powered Applications",
+          "url": "https://www.youtube.com/playlist?list=PLxZevhetcP5xWyH5LOT4FXk1HLmW7X-5E",
+          "description": "A curated playlist of videos related to data science.",
+          "tags": ["YouTube", "Data Science"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 18,
+          "title": "Geo Agentic Starter Kit",
+          "url": "https://github.com/GeoRetina/geo_agentic_starter_kit",
+          "description": "A starter kit for building geo-agentic applications.",
+          "tags": ["GitHub", "Geo", "AI"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        }
       ]
     },
     {
@@ -1475,8 +1624,17 @@
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
+        },
+        {
+          "id": 17,
+          "title": "YouTube Video - Misread t-SNE",
+          "url": "https://www.youtube.com/watch?v=I99JprDlWTc",
+          "description": "A video explanation of the misinterpretation of t-SNE visualizations.",
+          "tags": ["YouTube", "t-SNE", "Visualization"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
         }
-
       ]
     },
     {
@@ -1653,7 +1811,6 @@
           "download_mode": "N/A",
           "stato": ["open"]
         }
-        
       ]
     },
     {
@@ -1702,66 +1859,6 @@
         },
 
 
-        {
-          "id": 153,
-          "title": "Link 153",
-          "url": "https://www.linkedin.com/posts/mashford-mahute-012487178_gis-geospatial-remotesensing-activity-7321178771695263745-Grkz?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 154,
-          "title": "Link 154",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7321491172680450049-ZDf3?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 155,
-          "title": "Link 155",
-          "url": "https://www.linkedin.com/posts/andreaborruso_catalogo-open-data-nuovo-aggiornamento-dati-activity-7321220287511846912-ymRv?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 156,
-          "title": "Link 156",
-          "url": "https://www.linkedin.com/posts/shahab-jozdani-phd-a3978a189_from-maps-to-ai-agents-build-ai-powered-activity-7321688699858030595-ZFCn?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 157,
-          "title": "Link 157",
-          "url": "https://www.linkedin.com/posts/iamtekson_googleearthengine-geek-remotesensing-activity-7316090116936994817-pZBB?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 158,
-          "title": "Link 158",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7321872198447562752-rUx8?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
         {
           "id": 159,
           "title": "Link 159",
