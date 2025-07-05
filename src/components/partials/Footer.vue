@@ -28,7 +28,10 @@
       </div>
     </div>
     <div class="row justify-content-center mt-5">
-      <div class="col-12 col-lg-2 text-center"></div>
+      <div class="col-12 col-lg-2 text-center">
+        Thanks to
+        <a href="https://www.freepik.com/?_gl=1*bm151c*fp_ga*NjUwMTE3MjYwLjE3NDE2MTMwODY.*fp_ga_1ZY8468CQB*czE3NTE3NTAzMjgkbzQkZzEkdDE3NTE3NTA0MjYkajYwJGwwJGgw*test_ga*NjUwMTE3MjYwLjE3NDE2MTMwODY.*test_ga_523JXC6VL7*czE3NTE3NTAzMjgkbzQkZzEkdDE3NTE3NTA0MjYkajYwJGwwJGgw">Freepik</a>
+      </div>
     </div>
   </footer>
 </template>
