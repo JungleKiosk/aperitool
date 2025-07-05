@@ -1061,8 +1061,8 @@
           "download": 0,
           "download_mode": "",
           "stato": ["open"]
-        }
-        ,{
+        },
+        {
           "id": 14,
           "title": "DIVA-GIS Data",
           "url": "https://diva-gis.org/data.html",
@@ -1071,8 +1071,8 @@
           "download": 0,
           "download_mode": "",
           "stato": ["open"]
-        }
-          ,{
+        },
+        {
           "id": 15,
           "title": "GADM - Global Administrative Areas",
           "url": "https://gadm.org/",
@@ -1138,6 +1138,46 @@
           "url": "https://datacatalog.worldbank.org/home",
           "description": "A comprehensive catalog of World Bank data.",
           "tags": ["World Bank", "Data"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 22,
+          "title": "GeoBasisLoader",
+          "url": "https://geoobserver.de/2025/04/10/geobasisloader-de-und-17000/",
+          "description": "A tool for loading and processing geospatial data.",
+          "tags": ["Geospatial", "Data Processing"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 23,
+          "title": "SatMonitoring",
+          "url": "https://www.satmonitoring.it/webgis",
+          "description": "A web GIS platform for satellite monitoring.",
+          "tags": ["Satellite", "GIS"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 24,
+          "title": "QGIS Tipp: GeoBasis_Loader News",
+          "url": "https://geoobserver.de/2025/04/29/qgis-tipp-geobasis_loader-news/",
+          "description": "Latest news and updates on the GeoBasis_Loader for QGIS.",
+          "tags": ["QGIS", "GeoBasis_Loader"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 25,
+          "title": "GeoJSON Files Prüfen mit geojson.io",
+          "url": "https://geoobserver.de/2025/04/30/geojson-files-pruefen-mit-geojson-io/",
+          "description": "A guide on how to validate and edit GeoJSON files using geojson.io.",
+          "tags": ["GeoJSON", "Validation"],
           "download": 0,
           "download_mode": "",
           "stato": ["open"]
@@ -1315,6 +1355,56 @@
           "url": "https://quickref.me/",
           "description": "",
           "tags": ["Frontend", "Mentorship"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 18,
+          "title": "Mapscaping - Geo Hound für Chrome",
+          "url": "https://geoobserver.de/2025/04/09/mapscaping-geo-hound-fuer-chrome/",
+          "description": "A Chrome extension for enhanced geospatial data visualization.",
+          "tags": ["Chrome", "Geospatial", "Visualization"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 19,
+          "title": "Prismane",
+          "url": "https://www.prismane.io/",
+          "description": "A platform for exploring and visualizing geospatial data.",
+          "tags": ["Geospatial", "Visualization"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 20,
+          "title": "YouTube Video - Geospatial Analysis",
+          "url": "https://www.youtube.com/watch?v=EFve2CFf9mA&list=PL_ITaxp1Ob4sZE7iJwjQT0KPSfP7kJNs9",
+          "description": "A video on geospatial analysis techniques.",
+          "tags": ["YouTube", "Geospatial"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 21,
+          "title": "YouTube Playlist - Geospatial Analysis",
+          "url": "https://www.youtube.com/playlist?list=PL_ITaxp1Ob4vnrQius5voN7h5srvjudXz",
+          "description": "A playlist of videos on geospatial analysis techniques.",
+          "tags": ["YouTube", "Geospatial"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 22,
+          "title": "GSAP",
+          "url": "https://gsap.com/",
+          "description": "The standard for JavaScript HTML5 animation.",
+          "tags": ["JavaScript", "Animation"],
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
@@ -1632,9 +1722,38 @@
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
+        },
+        {
+          "id": 32,
+          "title": "AI Planet X",
+          "url": "https://www.aiplanetx.com/",
+          "description": "A platform for exploring AI applications in various domains.",
+          "tags": ["AI", "Applications"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 33,
+          "title": "GeoGPT",
+          "url": "https://geogpt.zero2x.org/",
+          "description": "A platform for exploring geospatial data using AI.",
+          "tags": ["AI", "Geospatial"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 34,
+          "title": "GeoScientist",
+          "url": "https://geoscientist.online/sections/viewpoint/geogpt-open-science-in-practice/",
+          "description": "A platform for exploring geospatial data using AI.",
+          "tags": ["AI", "Geospatial"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
         }
       ]
-
     },
     {
       "name": "Cadastral",
@@ -1762,6 +1881,16 @@
           "url": "https://www.youtube.com/watch?v=I99JprDlWTc",
           "description": "A video explanation of the misinterpretation of t-SNE visualizations.",
           "tags": ["YouTube", "t-SNE", "Visualization"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 18,
+          "title": "BIOMASS - Press Pack",
+          "url": "https://esamultimedia.esa.int/docs/EarthObservation/BIOMASS_Press_Pack_250418.pdf",
+          "description": "Press pack for the BIOMASS mission.",
+          "tags": ["BIOMASS", "ESA"],
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
@@ -1941,6 +2070,36 @@
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
+        },
+        {
+          "id": 18,
+          "title": "Alternight",
+          "url": "https://spaceinvadev.github.io/alternight/",
+          "description": "A space-themed night mode for your browser.",
+          "tags": ["Browser", "Night Mode"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 19,
+          "title": "Wikidata Vatican Cardinals",
+          "url": "https://github.com/CristianCantoro/wikidata-vatican-cardinals",
+          "description": "A project for exploring Vatican Cardinals data on Wikidata.",
+          "tags": ["Wikidata", "Vatican", "Cardinals"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 20,
+          "title": "FunkyLancers",
+          "url": "https://game.funkylancers.com/",
+          "description": "A fun and engaging game platform.",
+          "tags": ["Gaming", "Fun"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
         }
       ]
     },
@@ -1989,70 +2148,9 @@
           "stato": ["open"]
         },
 
-
-        {
-          "id": 160,
-          "title": "Link 160",
-          "url": "https://www.linkedin.com/posts/altiamkabir_ai-excel-alternative-activity-7321867849122152449-gDMC?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 161,
-          "title": "Link 161",
-          "url": "https://www.cai.it/sezioni-territoriali/sezioni-e-sottosezioni/sezione/?codice=9219002",
-          "description": "Contenuto web: sezioni territoriali, sezioni e sottosezioni, sezione...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 162,
-          "title": "Link 162",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7321955946732175360-R4sG?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 163,
-          "title": "Link 163",
-          "url": "https://www.linkedin.com/posts/andreaborruso_il-vaticano-ha-una-dashboard-pagina-2-con-activity-7322164753139683328-G2Sl?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 164,
-          "title": "Link 164",
-          "url": "https://www.linkedin.com/posts/iacopo-pelagatti_penso-di-aver-creato-il-primo-videogioco-activity-7321162047688204289-dsrB?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 165,
-          "title": "Link 165",
-          "url": "https://www.linkedin.com/posts/terraria_daticlimatici-era5-ecmwf-activity-7318158718666170368-JsbZ?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
         {
           "id": 166,
-          "title": "Link 166",
+          "title": "Link 166 ⛵⛵⛵⛵",
           "url": "https://www.linkedin.com/posts/matthew-f-mccabe_gnss-sar-eo-ugcPost-7322166958622203904-j2QA?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
           "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
           "tags": ["varie"],
@@ -2062,7 +2160,7 @@
         },
         {
           "id": 167,
-          "title": "Link 167",
+          "title": "Link 167 ⛵⛵⛵⛵",
           "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7322240224460177408-wK2F?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
           "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
           "tags": ["varie"],
@@ -2070,146 +2168,8 @@
           "download_mode": "N/A",
           "stato": ["open"]
         },
-        {
-          "id": 168,
-          "title": "Link 168",
-          "url": "https://www.linkedin.com/posts/mike-elstermann-geoobserver-1747a1142_plugin-geobasisloader-qgis-activity-7316013718658576385-I8o2?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 169,
-          "title": "Link 169",
-          "url": "https://www.linkedin.com/posts/mike-elstermann-geoobserver-1747a1142_gistribe-gischat-fossgis-activity-7315658283611009025-YCQ0?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 170,
-          "title": "Link 170",
-          "url": "https://www.linkedin.com/posts/mikegeologist_geogpt-ai4science-openscience-activity-7322131724270723072-wnGA?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 171,
-          "title": "Link 171",
-          "url": "https://www.linkedin.com/posts/andreaborruso_associazione-ondata-newsletter-35-activity-7314906888012218368-hKHz?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 172,
-          "title": "Link 172",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7322595872385523712-wDyu?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 173,
-          "title": "Link 173",
-          "url": "https://www.linkedin.com/posts/vitolerario-gis_webgis-opendata-openscience-activity-7322696531524878336-2M2z?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 174,
-          "title": "Link 174",
-          "url": "https://www.linkedin.com/posts/geoinnova-formacion_ortofotos-mdt-sig-activity-7315645628078874624-Q43f?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 175,
-          "title": "Link 175",
-          "url": "https://www.linkedin.com/posts/mike-elstermann-geoobserver-1747a1142_qgis-switch2qgis-plugin-activity-7322977646936588290-ATJj?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 176,
-          "title": "Link 176",
-          "url": "https://altreconomia.it/il-tentativo-di-indagare-gli-alloggi-vuoti-e-inutilizzati-nellitalia-afflitta-dalla-crisi-abitativa/",
-          "description": "Contenuto web: il tentativo di indagare gli alloggi vuoti e inutilizzati nellitalia afflitta dalla crisi abitativa...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 177,
-          "title": "Link 177",
-          "url": "https://www.sanvigilio.com/it/activity/escursione-estiva-verso-ciastlins_5116",
-          "description": "Contenuto web: activity, escursione estiva verso ciastlins_5116...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 178,
-          "title": "Link 178",
-          "url": "https://www.linkedin.com/posts/mike-elstermann-geoobserver-1747a1142_gistribe-gischat-fossgis-activity-7323244656182312960-gcSv?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 179,
-          "title": "Link 179",
-          "url": "https://www.linkedin.com/posts/simonetta-cheli-7669879b_with-the-successful-launch-of-esas-biomass-ugcPost-7323320038080278528-k0eN?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 180,
-          "title": "Link 180",
-          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7323595757213605890?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Contenuto web: update, urn:li:activity:7323595757213605890...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 181,
-          "title": "Link 181",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-ugcPost-7323777407159615488-Wu6t?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
+
+  
         {
           "id": 182,
           "title": "Link 182",
