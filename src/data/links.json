@@ -556,6 +556,16 @@
           "download": 0,
           "download_mode": "",
           "stato": ["open"]
+        },
+        {
+          "id": 11,
+          "title": "Sampling Raster Data with Xarray",
+          "url": "https://www.youtube.com/watch?v=AJHdwcf8ySE&list=PLppGmFLhQ1HJIZgEzsyiRgGauN4Wx3bOL&index=4",
+          "description": "Youtube video tutorial",
+          "tags": ["Youtube", "GeoTiff"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
         }
       ]
     },
@@ -925,6 +935,16 @@
           "download": 1,
           "download_mode": "PDF 📝",
           "stato": ["open"]
+        },
+        {
+          "id": 36,
+          "title": "Soil Biodiversity and Ecosystem Functioning",
+          "url": "https://ec.europa.eu/newsroom/jrc/newsletter-archives/62453",
+          "description": "A comprehensive overview of the importance of soil biodiversity for ecosystem functioning and services, highlighting current research and policy implications.",
+          "tags": ["Soil Biodiversity", "Ecosystem Functioning", "EU"],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": ["open"]
         }
       ]
     },
@@ -1181,7 +1201,48 @@
           "download": 0,
           "download_mode": "",
           "stato": ["open"]
+        },
+        {
+          "id": 26,
+          "title": "Track Changes Plugin for QGIS",
+          "url": "https://plugins.qgis.org/plugins/track_changes/",
+          "description": "A QGIS plugin for tracking changes in your GIS data.",
+          "tags": ["QGIS", "Plugins"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 27,
+          "title": "Forrest NYC",
+          "url": "https://forrest.nyc/",
+          "description": "A platform for exploring and visualizing urban data.",
+          "tags": ["Urban", "Data", "Visualization"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 28,
+          "title": "Delimitación de Subcuencas Hidrográficas con QGIS y SAGA",
+          "url": "https://mappinggis.com/2025/05/delimitacion-de-subcuencas-hidrograficas-con-qgis-y-saga/",
+          "description": "Una guía sobre cómo delimitar subcuencas hidrográficas utilizando QGIS y SAGA.",
+          "tags": ["QGIS", "SAGA", "Hidrología"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 29,
+          "title": "QGIS Certification",
+          "url": "https://certification.qgis.org/en/",
+          "description": "Official QGIS certification program.",
+          "tags": ["QGIS", "Certification"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
         }
+        
       ]
     },
     {
@@ -1405,6 +1466,136 @@
           "url": "https://gsap.com/",
           "description": "The standard for JavaScript HTML5 animation.",
           "tags": ["JavaScript", "Animation"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 23,
+          "title": "Improve Your Data Science Skills",
+          "url": "https://www.freecodecamp.org/news/improve-your-data-science-skills-by-solving-kaggle-challenges/",
+          "description": "A guide to enhancing your data science skills through Kaggle challenges.",
+          "tags": ["Data Science", "Kaggle"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 24,
+          "title": "Smooth UI",
+          "url": "https://smoothui.dev/",
+          "description": "A collection of smooth and beautiful UI components.",
+          "tags": ["UI", "Components"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 25,
+          "title": "Learn to Use GitHub Actions - Step by Step Guide",
+          "url": "https://www.freecodecamp.org/news/learn-to-use-github-actions-step-by-step-guide/",
+          "description": "A comprehensive guide to understanding and using GitHub Actions.",
+          "tags": ["GitHub", "Actions", "CI/CD"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 26,
+          "title": "React Google Maps",
+          "url": "https://visgl.github.io/react-google-maps/",
+          "description": "A library for integrating Google Maps into React applications.",
+          "tags": ["React", "Google Maps"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 27,
+          "title": "ECharts",
+          "url": "https://echarts.apache.org/en/index.html",
+          "description": "A powerful, interactive charting and visualization library for browser.",
+          "tags": ["Visualization", "Charts"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 28,
+          "title": "GitHub Repository - Pressure",
+          "url": "https://github.com/stuyam/pressure",
+          "description": "A GitHub repository for the Pressure project.",
+          "tags": ["GitHub", "Pressure"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 29,
+          "title": "How to Write Good API Docs",
+          "url": "https://www.freecodecamp.org/news/how-to-write-good-api-docs/",
+          "description": "A guide on writing effective API documentation.",
+          "tags": ["API", "Documentation"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 30,
+          "title": "Build a Real-Time Intrusion Detection System with Python",
+          "url": "https://www.freecodecamp.org/news/build-a-real-time-intrusion-detection-system-with-python/",
+          "description": "A tutorial on building a real-time intrusion detection system using Python.",
+          "tags": ["Python", "Intrusion Detection"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 31,
+          "title": "Gradient Editor",
+          "url": "https://www.gradientos.app/editor",
+          "description": "A web-based tool for creating and editing gradients.",
+          "tags": ["Web", "Design", "Gradients"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 32,
+          "title": "FreeCodeCamp LinkedIn Post",
+          "url": "https://www.linkedin.com/posts/free-code-camp_when-youre-building-a-website-youll-want-activity-7326818644250759168-G3Hy/?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "A LinkedIn post by freeCodeCamp.",
+          "tags": ["LinkedIn", "freeCodeCamp"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 33,
+          "title": "YouTube Playlist - GeoServer",
+          "url": "https://www.youtube.com/playlist?list=PL_ITaxp1Ob4sjk24Stboa5XbO0LGdEKbL",
+          "description": "A playlist of GeoServer-related videos.",
+          "tags": ["YouTube", "GeoServer"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 34,
+          "title": "LinkedIn Post - freeCodeCamp",
+          "url": "https://www.linkedin.com/posts/free-code-camp_these-days-applications-can-get-pretty-complex-activity-7327905862621061121-8L_N/?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
+          "description": "A LinkedIn post by freeCodeCamp.",
+          "tags": ["LinkedIn", "freeCodeCamp"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 35,
+          "title": "Key Cybersecurity Concepts for Career Advancement",
+          "url": "https://www.freecodecamp.org/news/key-cybersecurity-concepts-for-career/",
+          "description": "A guide on key cybersecurity concepts for career advancement.",
+          "tags": ["Cybersecurity", "Career"],
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
@@ -1752,6 +1943,126 @@
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
+        },
+        {
+          "id": 35,
+          "title": "Introduction to Generative AI - Google",
+          "url": "https://lnkd.in/duP5TMKc",
+          "description": "A foundational course by Google on generative artificial intelligence concepts and applications.",
+          "tags": ["AI", "Generative AI", "Google"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 36,
+          "title": "Prompt Engineering - Google",
+          "url": "https://lnkd.in/gHP244dD",
+          "description": "Learn prompt engineering techniques for generative AI with Google.",
+          "tags": ["Prompt Engineering", "AI", "Google"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 37,
+          "title": "Google AI Essentials",
+          "url": "https://lnkd.in/gg8iPamm",
+          "description": "Essential concepts and tools to understand and work with AI from Google.",
+          "tags": ["AI", "Essentials", "Google"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 38,
+          "title": "Crash Course on Python - Google",
+          "url": "https://lnkd.in/ddDNEUzD",
+          "description": "A beginner-level crash course by Google on Python programming.",
+          "tags": ["Python", "Programming", "Google"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 39,
+          "title": "Google Cloud Fundamentals",
+          "url": "https://lnkd.in/giiFcxUD",
+          "description": "Introduction to Google Cloud fundamentals and cloud computing basics.",
+          "tags": ["Cloud", "Google Cloud", "Google"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 40,
+          "title": "Google Data Analytics Certificate",
+          "url": "https://lnkd.in/dBJSct9d",
+          "description": "Professional certificate in data analytics by Google.",
+          "tags": ["Data Analytics", "Google", "Certificate"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 41,
+          "title": "Get Started with Python - Google",
+          "url": "https://lnkd.in/d7i5jKWu",
+          "description": "Google’s introductory course to Python for beginners.",
+          "tags": ["Python", "Google", "Beginner"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 42,
+          "title": "Google Cybersecurity Professional Certificate",
+          "url": "https://lnkd.in/gfjS9wmu",
+          "description": "Start your career in cybersecurity with Google’s professional certificate program.",
+          "tags": ["Cybersecurity", "Google", "Certificate"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 43,
+          "title": "AI for Everyone - DeepLearning AI",
+          "url": "https://lnkd.in/dtBGAp8A",
+          "description": "Non-technical introduction to AI, by Andrew Ng and DeepLearning.AI.",
+          "tags": ["AI", "DeepLearning AI", "Andrew Ng"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 44,
+          "title": "Become an AI Developer",
+          "url": "https://lnkd.in/dJT7Fv72",
+          "description": "A pathway to become an AI developer through curated resources and training.",
+          "tags": ["AI", "Developer", "Training"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 45,
+          "title": "Generative AI Automation",
+          "url": "https://lnkd.in/diij8aQW",
+          "description": "A course exploring how to automate workflows using generative AI.",
+          "tags": ["AI", "Automation", "Generative AI"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 46,
+          "title": "Free GenAI 65-Hour Bootcamp",
+          "url": "https://www.freecodecamp.org/news/free-genai-65-hour-bootcamp/",
+          "description": "A comprehensive bootcamp on Generative AI.",
+          "tags": ["AI", "Bootcamp", "Free"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
         }
       ]
     },
@@ -1891,6 +2202,36 @@
           "url": "https://esamultimedia.esa.int/docs/EarthObservation/BIOMASS_Press_Pack_250418.pdf",
           "description": "Press pack for the BIOMASS mission.",
           "tags": ["BIOMASS", "ESA"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 19,
+          "title": "Article on Remote Sensing",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2589004225006716?via%3Dihub",
+          "description": "Remote sensing assessment of the weed adaptability to soil salinization induced by extreme droughts on coastal agriculture.",
+          "tags": ["Remote Sensing", "Science"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 20,
+          "title": "Earth Observations with GEE and AI",
+          "url": "https://www.youtube.com/watch?v=9EvF-zCQ4vI",
+          "description": "land use/land cover mapping using Google Earth Engine and AI",
+          "tags": ["YouTube", "Remote Sensing"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 21,
+          "title": "GitHub Repository - Earth Observations with GEE and AI",
+          "url": "https://github.com/iamtekson/earth-observations-with-gee-and-AI/tree/main/03_lulc_mapping",
+          "description": "A GitHub repository containing code and resources for land use/land cover mapping using Google Earth Engine and AI.",
+          "tags": ["GitHub", "Earth Observations", "GEE", "AI"],
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
@@ -2100,6 +2441,16 @@
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
+        },
+        {
+          "id": 21,
+          "title": "Flipper Zero BadUSB - Flip Browser Data",
+          "url": "https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB/blob/main/Payloads/Flip-BrowserData/README.md",
+          "description": "A collection of BadUSB payloads for the Flipper Zero.",
+          "tags": ["Flipper Zero", "BadUSB"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
         }
       ]
     },
@@ -2169,30 +2520,9 @@
           "stato": ["open"]
         },
 
-  
-        {
-          "id": 182,
-          "title": "Link 182",
-          "url": "https://www.linkedin.com/posts/milan-janosov_just-signed-up-to-this-version-of-geogpt-activity-7323984357277253632-kI-f?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 183,
-          "title": "Link 183",
-          "url": "https://github.com/JungleKiosk",
-          "description": "Contenuto web: JungleKiosk...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
         {
           "id": 184,
-          "title": "Link 184",
+          "title": "Link 184 ⛵⛵⛵⛵",
           "url": "https://www.linkedin.com/posts/hayleencid_teledetecciaejn-nasa-cursogratuito-activity-7324145690673123330-2emE?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
           "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
           "tags": ["varie"],
@@ -2201,578 +2531,8 @@
           "stato": ["open"]
         },
         {
-          "id": 185,
-          "title": "Link 185",
-          "url": "https://www.linkedin.com/posts/shahab-jozdani-phd-a3978a189_login-to-chat2geo-platform-activity-7324161836835102721-SdoU?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 186,
-          "title": "Link 186",
-          "url": "https://www.linkedin.com/posts/alberto-orgiazzi-54442652_state-of-soils-posters-activity-7317937227366326272-o8gK?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 187,
-          "title": "Link 187",
-          "url": "https://www.linkedin.com/posts/deepnote_upgrade-your-notebooks-deepnote-is-built-activity-7292927382582132736-QfJf?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 188,
-          "title": "Link 188",
-          "url": "https://www.linkedin.com/posts/free-code-camp_if-youre-an-aspiring-data-scientist-data-activity-7324463574754451456-I03Z?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 189,
-          "title": "Link 189",
-          "url": "https://www.linkedin.com/posts/paul-storm_one-of-the-most-powerful-and-influential-ugcPost-7324457921780563968-IsQS?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 190,
-          "title": "Link 190",
-          "url": "http://www.veraclasse.it/viaggi/cultura/bourtange-la-citta-fortificata-a-forma-di-stella-nei-paesi-bassi/",
-          "description": "Contenuto web: viaggi, cultura, bourtange la citta fortificata a forma di stella nei paesi bassi...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 191,
-          "title": "Link 191",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-ugcPost-7324772306981933056-ZVlW?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 192,
-          "title": "Link 192",
-          "url": "https://www.linkedin.com/posts/free-code-camp_github-actions-let-you-automate-various-process-activity-7324946350620520448-fce8?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 193,
-          "title": "Link 193",
-          "url": "https://www.linkedin.com/jobs/view/4214419732",
-          "description": "Contenuto web: 4214419732...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 194,
-          "title": "Link 194",
-          "url": "https://www.linkedin.com/posts/ahmad-zaenun-faiz_hi-everyone-my-experimental-qgis-plugin-activity-7314981478109495296-dZ-R?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 195,
-          "title": "Link 195",
-          "url": "https://www.linkedin.com/posts/mbforr_gpt-changed-language-clay-might-change-activity-7325338155094523904-7sgO?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 196,
-          "title": "Link 196",
-          "url": "https://www.linkedin.com/posts/mappinggis-com_qgis-saga-activity-7325427779481620481-j30s?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 197,
-          "title": "Link 197",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7325495508821532673-VOzu?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 198,
-          "title": "Link 198",
-          "url": "https://www.sciencedirect.com/science/article/pii/S2589004225006716?via%3Dihub",
-          "description": "Contenuto web: science, article, S2589004225006716...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 199,
-          "title": "Link 199",
-          "url": "https://youtube.com/shorts/5zpElJebJaI?si=bGgH5SoJ9PCck6Ta",
-          "description": "Video YouTube – verifica titolo per dettagli.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 200,
-          "title": "Link 200",
-          "url": "https://youtube.com/shorts/fbF5Js3Jhnc?si=_x5v1F6kyoE8feXM",
-          "description": "Video YouTube – verifica titolo per dettagli.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 201,
-          "title": "Link 201",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-ugcPost-7325867917252677633-DSEs?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 202,
-          "title": "Link 202",
-          "url": "https://www.linkedin.com/posts/iamtekson_googleearthengine-lulc-machinelearning-activity-7320438736989622272-eOAZ?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 203,
-          "title": "Link 203",
-          "url": "https://www.linkedin.com/posts/alasdair-rae-17640a124_this-kind-of-nearest-x-things-to-centre-ugcPost-7325844200892112896-_NPf?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 204,
-          "title": "Link 204",
-          "url": "https://www.linkedin.com/posts/datapizza_nel-2025-devi-conoscere-i-dark-data-activity-7325859504166686721-mnq3?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 205,
-          "title": "Link 205",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-ugcPost-7320514361154785280-GVwS?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 206,
-          "title": "Link 206",
-          "url": "https://www.linkedin.com/posts/free-code-camp_as-a-web-developer-youll-likely-need-to-activity-7325973308821118976-sKBJ?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 207,
-          "title": "Link 207",
-          "url": "https://www.linkedin.com/posts/free-code-camp_creating-and-maintaining-documentation-can-activity-7325671184648359937-Bmcf?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 208,
-          "title": "Link 208",
-          "url": "https://www.linkedin.com/posts/kshitijmishra27_jobseekers-freshershiring-activity-7324748827326857216-M9q7?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 209,
-          "title": "Link 209",
-          "url": "https://www.linkedin.com/posts/free-code-camp_an-intrusion-detection-system-acts-like-a-activity-7326577598434549762-AyV0?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 210,
-          "title": "Link 210",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-ugcPost-7326679885890957312-fQsP?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 211,
-          "title": "Link 211",
-          "url": "https://www.linkedin.com/posts/spatial-thoughts_sampling-raster-data-with-xarray-geospatial-activity-7326545890301657088-Orbg?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 212,
-          "title": "Link 212",
-          "url": "https://youtube.com/shorts/mvnO1_W4ikU?si=bYZ4AfL6s-0pvFot",
-          "description": "Video YouTube – verifica titolo per dettagli.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 213,
-          "title": "Link 213",
-          "url": "https://www.linkedin.com/posts/jvdkwast_qgis-gis-certification-activity-7326897065635045376-OUtm?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 214,
-          "title": "Link 214",
-          "url": "https://www.linkedin.com/posts/free-code-camp_generative-ai-systems-can-create-content-activity-7327000344490639360-67WR?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 215,
-          "title": "Link 215",
-          "url": "https://www.linkedin.com/posts/kshitijmishra27_jobseekers-freshershiring-activity-7326849447726878720-wy0A?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 216,
-          "title": "Link 216",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-ugcPost-7321143095109005313-9UE7?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 217,
-          "title": "Link 217",
-          "url": "https://www.linkedin.com/posts/free-code-camp_when-youre-building-a-website-youll-want-activity-7326818644250759168-G3Hy?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 218,
-          "title": "Link 218",
-          "url": "https://www.linkedin.com/posts/shahab-jozdani-phd-a3978a189_exciting-update-tutorial-videos-are-coming-activity-7321230057853628416-VAIR?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 219,
-          "title": "Link 219",
-          "url": "https://www.linkedin.com/posts/alasdair-rae-17640a124_location-analysis-can-take-many-forms-including-ugcPost-7325789764530364416-mGuf?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 220,
-          "title": "Link 220",
-          "url": "https://www.linkedin.com/posts/free-code-camp_web-components-are-a-set-of-standardized-activity-7327060282491527169-2X5B?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 221,
-          "title": "Link 221",
-          "url": "https://maps.app.goo.gl/CSyYsJjQPQSpQRHu9?g_st=iw",
-          "description": "Contenuto web: CSyYsJjQPQSpQRHu9...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 222,
-          "title": "Link 222",
-          "url": "https://www.linkedin.com/posts/olawale-kolawole-751a3514_mechanical-electrical-energy-activity-7323270813934116864-LPHs?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 223,
-          "title": "Link 223",
-          "url": "https://www.linkedin.com/posts/sarino-alfonso-grande_qgis-docker-gis-activity-7327083906170540032-lF_1?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 224,
-          "title": "Link 224",
-          "url": "https://diagramgroup.it/italia-in-anticipo-sul-debito-ecologico-lovershoot-day-arriva-oggi-agritech-e-innovazione-digitale-tra-le-risposte-possibili/",
-          "description": "Contenuto web: italia in anticipo sul debito ecologico lovershoot day arriva oggi agritech e innovazione digitale tra le risposte possibili...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 225,
-          "title": "Link 225",
-          "url": "https://tg.la7.it/esteri/harvard-lettera-errori-grammaticali-segretaria-istruzione-trump-08-05-2025-236996",
-          "description": "Contenuto web: esteri, harvard lettera errori grammaticali segretaria istruzione trump 08 05 2025 236996...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 226,
-          "title": "Link 226",
-          "url": "https://tg.la7.it/sites/default/files/news/2025/05/08/lettera_harvard.png",
-          "description": "Contenuto web: default, lettera_harvard.png...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 227,
-          "title": "Link 227",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7327259184524083200-wj9X?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 228,
-          "title": "Link 228",
-          "url": "https://www.linkedin.com/posts/shahab-jozdani-phd-a3978a189_from-maps-to-ai-agents-build-ai-powered-activity-7321688699858030595-ZFCn?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 229,
-          "title": "Link 229",
-          "url": "https://www.freecodecamp.org/news/most-popular-free-online-courses/",
-          "description": "Contenuto web: most popular free online courses...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 230,
-          "title": "Link 230",
-          "url": "https://www.linkedin.com/posts/mashford-mahute-012487178_gis-geospatial-remotesensing-activity-7321178771695263745-Grkz?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 231,
-          "title": "Link 231",
-          "url": "https://www.linkedin.com/posts/diagramgroup_conclusa-lacquisizione-della-maggioranza-activity-7326178603979718656-eqX-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 232,
-          "title": "Link 232",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7327623345238110209-zNoH?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 233,
-          "title": "Link 233",
-          "url": "https://www.linkedin.com/posts/spatial-thoughts_pyqgis-qgis-activity-7325797545933197312-AnGU?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 234,
-          "title": "Link 234",
-          "url": "https://dive-in.unibo.it/article/view/21622/19448",
-          "description": "Contenuto web: article...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 235,
-          "title": "Link 235",
-          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7327687692803076097?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Contenuto web: update, urn:li:activity:7327687692803076097...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 236,
-          "title": "Link 236",
-          "url": "https://www.linkedin.com/posts/free-code-camp_these-days-applications-can-get-pretty-complex-activity-7327905862621061121-8L_N?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 237,
-          "title": "Link 237",
-          "url": "https://www.linkedin.com/posts/terraria_lifeprogramme-eufunding-eulife25-activity-7327943244917469185-5PcL?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 238,
-          "title": "Link 238",
-          "url": "https://www.linkedin.com/posts/harishkumar-sh_productivity-career-job-activity-7327879495351177219-qVfJ?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 239,
-          "title": "Link 239",
-          "url": "https://www.linkedin.com/posts/free-code-camp_if-you-want-to-start-a-career-in-cybersecurity-activity-7328027125909803009-34m-?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 240,
-          "title": "Link 240",
-          "url": "https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB/blob/main/Payloads/Flip-BrowserData/README.md",
-          "description": "Contenuto web: I Am Jakoby, Flipper Zero BadUSB, Payloads...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 241,
-          "title": "Link 241",
-          "url": "https://share.garmin.com/share/6564O",
-          "description": "Contenuto web: ...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
           "id": 242,
-          "title": "Link 242",
+          "title": "Link 242 ⛵⛵⛵⛵",
           "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-ugcPost-7322240145078792192-D-3P?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
           "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
           "tags": ["varie"],
@@ -2988,274 +2748,6 @@
           "tags": ["varie"],
           "download": 0,
           "download_mode": "N/A",
-          "stato": ["open"]
-        }
-      ]
-    },
-    {
-      "name": "Remote Job Boards",
-      "collection": "RemoteWorkSites",
-      "data": [
-        {
-          "id": 1,
-          "title": "We Work Remotely",
-          "url": "https://weworkremotely.com",
-          "description": "Largest remote work community with over 4.5 million visitors, offering a wide range of remote job opportunities.",
-          "tags": ["Remote", "Jobs", "Community"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 2,
-          "title": "Hubstaff Talent",
-          "url": "https://hubstafftalent.net",
-          "description": "Free resource for companies looking for remote talent. Connects businesses with freelancers and agencies worldwide.",
-          "tags": ["Freelance", "Remote", "Agencies"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 3,
-          "title": "Wellfound",
-          "url": "https://wellfound.com",
-          "description": "Connects job seekers with startups. Features over 130K tech jobs from 27K companies.",
-          "tags": ["Startups", "Tech", "Remote"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 4,
-          "title": "Remotive",
-          "url": "https://remotive.io",
-          "description": "Curates active, fully remote tech jobs. Trusted by top global tech companies.",
-          "tags": ["Tech", "Remote", "Curated"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 5,
-          "title": "WorkWave",
-          "url": "https://workwave.com",
-          "description": "Remote job listings across various industries, known for flexible work opportunities.",
-          "tags": ["Flexible", "Industries", "Remote"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 6,
-          "title": "AI Jobs",
-          "url": "https://theaijobboard.com",
-          "description": "Focuses on AI-related remote job listings. Features jobs from the top 1% of AI companies.",
-          "tags": ["AI", "Remote", "Tech"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 7,
-          "title": "Remote Woman",
-          "url": "https://remotewoman.com",
-          "description": "Remote job board tailored for women. Promotes flexibility and career growth.",
-          "tags": ["Women", "Remote", "Flexible"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 8,
-          "title": "Toptal",
-          "url": "https://toptal.com",
-          "description": "Exclusive network for top freelancers. Covers software development, design, finance, and more.",
-          "tags": ["Freelance", "Exclusive", "Top Talent"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 9,
-          "title": "FlexJobs",
-          "url": "https://flexjobs.com",
-          "description": "Find remote jobs globally or near you. Includes career coaching and resume help.",
-          "tags": ["Remote", "Coaching", "Resume"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 10,
-          "title": "JS Remotely",
-          "url": "https://jsremotely.com",
-          "description": "Specializes in JavaScript-related remote jobs, including React, Vue, Node.js, and Angular.",
-          "tags": ["JavaScript", "Remote", "JS Frameworks"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 11,
-          "title": "RemoteOK",
-          "url": "https://remoteok.com",
-          "description": "Aggregates remote jobs from across industries with filtering options by category and salary.",
-          "tags": ["Remote", "Aggregator", "Salary Filter"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 12,
-          "title": "Working Nomads",
-          "url": "https://workingnomads.com",
-          "description": "Remote jobs tailored for digital nomads. Handpicks opportunities across industries.",
-          "tags": ["Nomads", "Remote", "Curated"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 13,
-          "title": "JustRemote",
-          "url": "https://justremote.co",
-          "description": "Jobs that fit your lifestyle with fully and partially remote options.",
-          "tags": ["Lifestyle", "Remote", "Flexible"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 14,
-          "title": "Remote.co",
-          "url": "https://remote.co",
-          "description": "Hand-curated list of remote jobs. Features over 146 remote-first companies.",
-          "tags": ["Remote", "Curated", "Companies"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 15,
-          "title": "Remote Circle",
-          "url": "https://remotecircle.com",
-          "description": "Helps find remote jobs in your timezone, covering a variety of industries and roles.",
-          "tags": ["Timezone", "Remote", "Industries"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 16,
-          "title": "FlexJobs",
-          "url": "https://www.flexjobs.com/",
-          "description": "Curated remote jobs across categories like data entry, customer support, writing, and more. Paid subscription.",
-          "tags": [
-            "Remote",
-            "Data Entry",
-            "Customer Support",
-            "Writing",
-            "Jobs"
-          ],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 17,
-          "title": "Remote.co",
-          "url": "https://remote.co/remote-jobs/",
-          "description": "Remote job board with non-tech categories like marketing, education, HR, and customer service.",
-          "tags": [
-            "Remote",
-            "HR",
-            "Marketing",
-            "Education",
-            "Customer Service"
-          ],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 18,
-          "title": "We Work Remotely",
-          "url": "https://weworkremotely.com/",
-          "description": "Remote job listings in support, sales, marketing, and other non-technical areas.",
-          "tags": ["Remote", "Support", "Sales", "Marketing"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 19,
-          "title": "Remotive",
-          "url": "https://remotive.io/remote-jobs",
-          "description": "Global remote jobs including junior and entry-level non-tech roles.",
-          "tags": ["Remote", "Entry-Level", "HR", "Support"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 20,
-          "title": "Working Nomads",
-          "url": "https://www.workingnomads.com/",
-          "description": "Handpicked remote jobs for digital nomads in various fields including support and admin.",
-          "tags": ["Remote", "Nomads", "Support", "Admin"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 21,
-          "title": "Outsourcely",
-          "url": "https://www.outsourcely.com/",
-          "description": "Remote freelance jobs for writers, data entry, voice-over, and other non-tech roles.",
-          "tags": ["Remote", "Freelance", "Data Entry", "Voice-over"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 22,
-          "title": "PeoplePerHour",
-          "url": "https://www.peopleperhour.com/",
-          "description": "Platform for hourly or project-based work including translations, writing, and research.",
-          "tags": ["Freelance", "Writing", "Translation", "Research"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 23,
-          "title": "Upwork",
-          "url": "https://www.upwork.com/",
-          "description": "Freelancing site offering jobs in data entry, admin support, customer service, and more.",
-          "tags": ["Freelance", "Data Entry", "Admin", "Support"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 24,
-          "title": "Fiverr",
-          "url": "https://www.fiverr.com/",
-          "description": "Sell your skills in writing, transcription, translation, and small tasks.",
-          "tags": ["Freelance", "Writing", "Transcription", "Translation"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 25,
-          "title": "Jobspresso",
-          "url": "https://jobspresso.co/",
-          "description": "Remote job listings for writers, customer support, and VA roles.",
-          "tags": ["Remote", "Writing", "Support", "Virtual Assistant"],
-          "download": 0,
-          "download_mode": "",
           "stato": ["open"]
         }
       ]

@@ -118,4 +118,21 @@
     "tags": ["QGIS", "Geocoding"],
     "filename": 0
   }
+  ,
+  {
+    "id": "16",
+    "name": "Deepnote",
+    "description": "A collaborative data science notebook platform.",
+    "links": "https://deepnote.com/",
+    "tags": ["Data Science", "Collaboration", "Notebooks"],
+    "filename": 0
+  },
+  {
+    "id": "17",
+    "name": "Liam's Toolbox",
+    "description": "A collection of tools and resources for developers.",
+    "links": "https://liambx.com/",
+    "tags": ["Web", "Tools"],
+    "filename": 0
+  }
 ]

@@ -36,6 +36,10 @@ export default {
           sciences. It also includes Python scripts, QGIS extensions, document converters, and even practical techniques
           for remote fieldwork and survival. Ideal for researchers, developers, students, geeks, nerds and tech lovers.
         </p>
+        <a href="https://certification.qgis.org/en/" target="_blank">QGIS Certification</a>
+        <a href="https://www.freepublicapis.com/tags/geodata" target="_blank">Free Geodata APIs</a>
+        <a href="https://www.freecodecamp.org/news/most-popular-free-online-courses/" target="_blank">Free Online Courses</a>
+        <a href="https://courses.spatialthoughts.com/pyqgis-masterclass.html#introduction" target="_blank">PyQGIS Masterclass</a>
       </div>
       <div class="col-12 col-lg-6">
         <img src="../../assets/img/home/3_hand.png" alt="">
