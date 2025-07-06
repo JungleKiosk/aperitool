@@ -4,8 +4,40 @@ export default {
   data() {
     return {
       keywords: [
-        "Agronomy", "Forestry", "GIS", "QGIS", "Remote Sensing", "Python", "Soil Data",
-        "OCR", "Web Development", "Data Cleaning", "Environmental Analysis", "Survival"
+        "Agronomy",
+        "Forestry",
+        "GIS",
+        "QGIS",
+        "Remote Sensing",
+        "Python",
+        "Soil Data",
+        "OCR",
+        "Web Development",
+        "Data Cleaning",
+        "Environmental Analysis",
+        "Survival",
+      ],
+      featuredLinks: [
+        {
+          title: "QGIS Certification",
+          url: "https://certification.qgis.org/en/",
+          description: "Official QGIS certification resources.",
+        },
+        {
+          title: "Free Geodata APIs",
+          url: "https://www.freepublicapis.com/tags/geodata",
+          description: "Explore APIs for geospatial data.",
+        },
+        {
+          title: "Free Online Courses",
+          url: "https://www.freecodecamp.org/news/most-popular-free-online-courses/",
+          description: "Top free courses from FreeCodeCamp.",
+        },
+        {
+          title: "PyQGIS Masterclass",
+          url: "https://courses.spatialthoughts.com/pyqgis-masterclass.html#introduction",
+          description: "Advanced QGIS automation with Python.",
+        },
       ],
     };
   },
@@ -13,17 +45,9 @@ export default {
 </script>
 
 <template>
-  <div class="container">
-    <!-- Keywords Slider -->
-    <!--     <div class="keyword-slider text-center">
-      <div class="scrolling-keywords">
-        <span v-for="(word, index) in keywords" :key="index" class="badge bg-info text-dark mx-2 p-2 rounded-pill">
-          {{ word }}
-        </span>
-      </div>
-    </div> -->
-
-    <div class="row justify-content-center">
+  <div class="container py-4">
+    <!-- Header -->
+    <div class="row justify-content-center mb-5">
       <div class="col-12 col-lg-6">
         <p class="display-1 text-center text-lg-start">
           Explore tools and resources
@@ -31,48 +55,45 @@ export default {
         <p class="display-6 text-center text-lg-start">
           Download ZIP with scripts and documentation
         </p>
-        <p class="">
-          Aperitools is a collection of useful tools for data analysis in agronomy, forestry, and environmental
-          sciences. It also includes Python scripts, QGIS extensions, document converters, and even practical techniques
-          for remote fieldwork and survival. Ideal for researchers, developers, students, geeks, nerds and tech lovers.
+        <p>
+          Aperitools is a collection of useful tools for data analysis in
+          agronomy, forestry, and environmental sciences. It also includes
+          Python scripts, QGIS extensions, document converters, and even
+          practical techniques for remote fieldwork and survival.
         </p>
-        <a href="https://certification.qgis.org/en/" target="_blank">QGIS Certification</a>
-        <a href="https://www.freepublicapis.com/tags/geodata" target="_blank">Free Geodata APIs</a>
-        <a href="https://www.freecodecamp.org/news/most-popular-free-online-courses/" target="_blank">Free Online Courses</a>
-        <a href="https://courses.spatialthoughts.com/pyqgis-masterclass.html#introduction" target="_blank">PyQGIS Masterclass</a>
       </div>
-      <div class="col-12 col-lg-6">
-        <img src="../../assets/img/home/3_hand.png" alt="">
+      <div
+        class="col-12 col-lg-6 d-flex align-items-center justify-content-center"
+      >
+        <img src="../../assets/img/home/3_hand.png" alt="Aperitools logo" />
       </div>
     </div>
 
+    <!-- Featured Links -->
 
+    <h2 class="text-center">Featured Resources</h2>
+    <div class="row">
+      <div
+        class="col-12 col-md-6 col-lg-3"
+        v-for="(item, index) in featuredLinks"
+        :key="index"
+      >
+        <div class="card">
+          <div class="card-body">
+            <h5 class="card-title">{{ item.title }}</h5>
+            <p class="card-text">{{ item.description }}</p>
+            <a :href="item.url" class="btn btn-outline-primary" target="_blank"
+              >Visit</a
+            >
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
 <style scoped>
 img {
   width: 90%;
-}
-
-
-.keyword-slider {
-  overflow-x: none;
-  white-space: nowrap;
-}
-
-.scrolling-keywords {
-  display: inline-block;
-  animation: scroll 30s linear infinite;
-}
-
-@keyframes scroll {
-  0% {
-    transform: translateX(100%);
-  }
-
-  100% {
-    transform: translateX(-100%);
-  }
 }
 </style>
