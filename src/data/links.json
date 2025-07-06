@@ -1643,7 +1643,9 @@
       ]
     },
     {
-      "AI": [
+      "name": "AI",
+      "collection": "AI",
+      "data": [
         {
           "id": 1,
           "title": "Generative AI for Everyone",
