@@ -1,37 +1,297 @@
 {
   "links": [
     {
-      "name": "Climate",
-      "collection": "Climate",
+      "name": "GIS",
+      "collection": "GIS",
       "data": [
         {
           "id": 1,
-          "title": "climate Data Store - Copernicus",
-          "url": "https://cds.climate.copernicus.eu/datasets",
-          "description": " Historical Data: ERA5-Land",
-          "tags": ["climate", "Copernicus", "EU", "CDS"],
-          "download": 1,
-          "download_mode": "Istant 📥",
-          "stato": ["open"]
-        },
-        {
-          "id": 2,
-          "title": "ESSD - Copernicus Climate Change Service",
-          "url": "https://essd.copernicus.org/articles/16/1503/2024/",
-          "description": "FOCA: a new quality-controlled database of floods and catchment descriptors in Italy",
-          "tags": ["floods", "Copernicus"],
+          "title": "GISCARTA - Informational Pop-ups in GIS",
+          "url": "https://giscarta.com/blog/informational-pop-ups-in-gis",
+          "description": "A guide on how to create and use informational pop-ups in GIS applications to enhance user interaction and data presentation.",
+          "tags": ["GIS", "GISCARTA"],
           "download": 0,
           "download_mode": "",
           "stato": ["open"]
         },
         {
-          "id": 3,
-          "title": "gee - snow covered area",
-          "url": "https://www.youtube.com/watch?v=5_N0isJU7Pc",
-          "description": "Snow Covered Area Mapping using Landsat Imagery | Google Earth Engine",
-          "tags": ["climate", "video"],
+          "id": 2,
+          "title": "Google Sheets - GIS Database Repository for Disaster Risk",
+          "url": "https://docs.google.com/spreadsheets/d/1HIQdo_K5F3eft_6OmWhYpVke8ZB1na5fhwlgHiPJlUo/edit?gid=732745858#gid=732745858",
+          "description": "GIS Database Repository for Disaster Risk, Emergency Response, and Resilience Planning",
+          "tags": ["DataBase", "GIS", "Disaster Risk"],
           "download": 0,
           "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 3,
+          "title": "rainfall-induced landslide catalogue in Italy",
+          "url": "https://www.nature.com/articles/s41597-025-04551-6",
+          "description": "An enhanced rainfall-induced landslide catalogue in Italy",
+          "tags": ["Soil", "e-ITALICA", "landslide"],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": ["open"]
+        },
+        {
+          "id": 4,
+          "title": "rainfall-induced landslide catalogue in Italy",
+          "url": "https://zenodo.org/records/14204473",
+          "description": "An enhanced rainfall-induced landslide catalogue in Italy",
+          "tags": ["Soil", "e-ITALICA", "landslide"],
+          "download": 1,
+          "download_mode": "CSV 📥",
+          "stato": ["open"]
+        },
+        {
+          "id": 5,
+          "title": "Copernicus Climate Change Service - ERA Explorer",
+          "url": "https://apps.copernicus-climate.eu/c3s-apps/era-explorer/?lat=40.84&lng=14.25&plot=8",
+          "description": "Explore climate data from the Copernicus Climate Change Service.",
+          "tags": ["Climate", "Copernicus"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 6,
+          "title": "Async TIFF",
+          "url": "https://github.com/developmentseed/async-tiff",
+          "description": "A library for reading and writing GeoTIFF files asynchronously.",
+          "tags": ["GeoTIFF", "Async"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 7,
+          "title": "Ras Commander",
+          "url": "https://github.com/gpt-cmdr/ras-commander",
+          "description": "A command-line tool for managing and analyzing remote sensing data.",
+          "tags": ["Remote Sensing", "Command Line"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 8,
+          "title": "QGIS MCP",
+          "url": "https://github.com/jjsantos01/qgis_mcp",
+          "description": "A QGIS plugin for managing and analyzing multi-criteria projects.",
+          "tags": ["QGIS", "Plugin"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 9,
+          "title": "Live Precipitation Map",
+          "url": "https://liveprecipitation-leaflet-rainviewer.netlify.app/#",
+          "description": "A live map showing precipitation data.",
+          "tags": ["Weather", "Map"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 10,
+          "title": "pytRIBS",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S1364815225001161",
+          "description": "An open, modular, and reproducible python-based framework for distributed hydrologic modeling",
+          "tags": ["Python", "hydrologic"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 11,
+          "title": "ArcGIS Earth Engine Toolbox",
+          "url": "https://github.com/gee-community/arcgis-earthengine-toolbox",
+          "description": "A toolbox for integrating ArcGIS with Google Earth Engine.",
+          "tags": ["ArcGIS", "Google Earth Engine"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 12,
+          "title": "Geofabrik Shapefiles",
+          "url": "https://www.geofabrik.de/data/shapefiles.html",
+          "description": "Download shapefiles for various regions from Geofabrik.",
+          "tags": ["Shapefiles", "Geospatial Data"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 13,
+          "title": "OpenStreetMap Data Extracts",
+          "url": "https://extract.bbbike.org/",
+          "description": "Extract OpenStreetMap data for specific areas.",
+          "tags": ["OpenStreetMap", "Data Extracts"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 14,
+          "title": "DIVA-GIS Data",
+          "url": "https://diva-gis.org/data.html",
+          "description": "Download free spatial data for various countries, including administrative boundaries, roads, and land cover.",
+          "tags": ["DIVA-GIS", "Spatial Data"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 15,
+          "title": "GADM - Global Administrative Areas",
+          "url": "https://gadm.org/",
+          "description": "Download global administrative areas data in various formats.",
+          "tags": ["GADM", "Administrative Areas"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 16,
+          "title": "Humanitarian Data Exchange",
+          "url": "https://data.humdata.org/",
+          "description": "A platform for sharing humanitarian data.",
+          "tags": ["Humanitarian", "Data"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 17,
+          "title": "Overpass Turbo",
+          "url": "https://overpass-turbo.eu/",
+          "description": "A web-based tool for querying and visualizing OpenStreetMap data.",
+          "tags": ["OpenStreetMap", "Data Visualization"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 18,
+          "title": "MapCruzin",
+          "url": "https://mapcruzin.com/",
+          "description": "A resource for free GIS data, maps, and tools.",
+          "tags": ["GIS", "Maps", "Data"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 19,
+          "title": "FAO-UNESCO Soil Map of the World",
+          "url": "https://www.fao.org/soils-portal/data-hub/soil-maps-and-databases/faounesco-soil-map-of-the-world/en/",
+          "description": "A global soil map providing information on soil resources.",
+          "tags": ["Soil", "FAO", "UNESCO"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 20,
+          "title": "Ramsar Sites Information Service",
+          "url": "https://rsis.ramsar.org/",
+          "description": "A database of wetlands of international importance.",
+          "tags": ["Wetlands", "Ramsar"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 21,
+          "title": "World Bank Data Catalog",
+          "url": "https://datacatalog.worldbank.org/home",
+          "description": "A comprehensive catalog of World Bank data.",
+          "tags": ["World Bank", "Data"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 22,
+          "title": "GeoBasisLoader",
+          "url": "https://geoobserver.de/2025/04/10/geobasisloader-de-und-17000/",
+          "description": "A tool for loading and processing geospatial data.",
+          "tags": ["Geospatial", "Data Processing"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 23,
+          "title": "SatMonitoring",
+          "url": "https://www.satmonitoring.it/webgis",
+          "description": "A web GIS platform for satellite monitoring.",
+          "tags": ["Satellite", "GIS"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 24,
+          "title": "QGIS Tipp: GeoBasis_Loader News",
+          "url": "https://geoobserver.de/2025/04/29/qgis-tipp-geobasis_loader-news/",
+          "description": "Latest news and updates on the GeoBasis_Loader for QGIS.",
+          "tags": ["QGIS", "GeoBasis_Loader"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 25,
+          "title": "GeoJSON Files Prüfen mit geojson.io",
+          "url": "https://geoobserver.de/2025/04/30/geojson-files-pruefen-mit-geojson-io/",
+          "description": "A guide on how to validate and edit GeoJSON files using geojson.io.",
+          "tags": ["GeoJSON", "Validation"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 26,
+          "title": "Track Changes Plugin for QGIS",
+          "url": "https://plugins.qgis.org/plugins/track_changes/",
+          "description": "A QGIS plugin for tracking changes in your GIS data.",
+          "tags": ["QGIS", "Plugins"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 27,
+          "title": "Forrest NYC",
+          "url": "https://forrest.nyc/",
+          "description": "A platform for exploring and visualizing urban data.",
+          "tags": ["Urban", "Data", "Visualization"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 28,
+          "title": "Delimitación de Subcuencas Hidrográficas con QGIS y SAGA",
+          "url": "https://mappinggis.com/2025/05/delimitacion-de-subcuencas-hidrograficas-con-qgis-y-saga/",
+          "description": "Una guía sobre cómo delimitar subcuencas hidrográficas utilizando QGIS y SAGA.",
+          "tags": ["QGIS", "SAGA", "Hidrología"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 29,
+          "title": "QGIS Certification",
+          "url": "https://certification.qgis.org/en/",
+          "description": "Official QGIS certification program.",
+          "tags": ["QGIS", "Certification"],
+          "download": 0,
+          "download_mode": "",
           "stato": ["open"]
         }
       ]
@@ -454,6 +714,179 @@
       ]
     },
     {
+      "name": "Cadastral",
+      "collection": "Cadastral",
+      "data": [
+        {
+          "id": 1,
+          "title": "Cadastral - Italy",
+          "url": "https://geodati.gov.it/geoportale/visualizzazione-metadati/scheda-metadati/?uuid=age%3AS_0000_ITALIA",
+          "description": "Download all cadastral parcels of ITALY - also for each REGION",
+          "tags": ["Cadastrals", "gov"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 2,
+          "title": "archivio anncsu ",
+          "url": "https://www.cadastre.gouv.fr/",
+          "description": "Stradario e indirizzario dell'Archivio Nazionale dei Numeri Civici e delle Strade",
+          "tags": ["ANNC", "SU", "gov", "API"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 3,
+          "title": "Consultazione ANNC",
+          "url": "https://geodati.gov.it/geoportale/visualizzazione-metadati/scheda-metadati/?uuid=age:consultazioneANNCSU",
+          "description": "Consultazione dell'Archivio Nazionale dei Numeri Civici e delle Strade",
+          "tags": ["ANNC", "SU", "gov", "API"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 4,
+          "title": "YouTube Video - WFS Catasto",
+          "url": "https://www.youtube.com/watch?v=qd4Tj4LKGgc",
+          "description": "QGIS Ricerca per attributi Particelle Catastali",
+          "tags": ["YouTube", "WFS Catasto"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        }
+      ]
+    },
+    {
+      "name": "RemoteSensing",
+      "collection": "RemoteSensing",
+      "data": [
+        {
+          "id": 1,
+          "title": "An early warning system based on machine learning detects huge forest loss in Ukraine during the war",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2351989425000289?via%3Dihub",
+          "description": "During the war in Ukraine, alongside the devastating loss of human lives, vast areas of forests have also been destroyed. In this new paper, lead by Roberto Cazzolla Gatti we estimated this forest loss using AI and remote sensing data 🛰️",
+          "tags": ["LLMs", "Remote Sensing", "Ukraine"],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": ["open"]
+        },
+        {
+          "id": 2,
+          "title": "Chat2Geo",
+          "url": "https://chat2geo.georetina.ai/",
+          "description": "A tool for converting chat messages into geospatial data.",
+          "tags": ["Chat", "Geospatial", "Data"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 3,
+          "title": "MODIS Images - Land Use and Soil Moisture",
+          "url": "https://mappinggis.com/2025/02/imagenes-modis-usos-suelo-molusce-en-qgis/",
+          "description": "A guide on how to use MODIS images for land use and soil moisture analysis in QGIS.",
+          "tags": ["MODIS", "Land Use", "Soil Moisture", "QGIS"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 4,
+          "title": "Google Earth Engine VIDEO Tutorials",
+          "url": "https://www.youtube.com/@amirhosseinahrarigee",
+          "description": "Video tutorial on how to detect flood areas using Sentinel-1 SAR imagery in Google Earth Engine.",
+          "tags": ["Google Earth Engine", "YouTube", "Remote Sensing"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 5,
+          "title": "Copernicus Land Monitoring Service - Products",
+          "url": "https://land.copernicus.eu/en/products",
+          "description": "Access a wide range of land monitoring products from the Copernicus programme, including datasets on land cover, land use, vegetation, water, soil, and biophysical parameters, supporting sustainable environmental management across Europe.",
+          "tags": ["Copernicus", "Land Monitoring", "EU"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        },
+        {
+          "id": 15,
+          "title": "Wyvern - Open Data",
+          "url": "https://wyvern.space/open-data/",
+          "description": "Wyvern is a platform for accessing and sharing open data.",
+          "tags": ["Wyvern", "Open Data"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 16,
+          "title": "Misread t-SNE",
+          "url": "https://distill.pub/2016/misread-tsne/",
+          "description": "A visual and interactive explanation of t-SNE.",
+          "tags": ["t-SNE", "Visualization"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 17,
+          "title": "YouTube Video - Misread t-SNE",
+          "url": "https://www.youtube.com/watch?v=I99JprDlWTc",
+          "description": "A video explanation of the misinterpretation of t-SNE visualizations.",
+          "tags": ["YouTube", "t-SNE", "Visualization"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 18,
+          "title": "BIOMASS - Press Pack",
+          "url": "https://esamultimedia.esa.int/docs/EarthObservation/BIOMASS_Press_Pack_250418.pdf",
+          "description": "Press pack for the BIOMASS mission.",
+          "tags": ["BIOMASS", "ESA"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 19,
+          "title": "Article on Remote Sensing",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2589004225006716?via%3Dihub",
+          "description": "Remote sensing assessment of the weed adaptability to soil salinization induced by extreme droughts on coastal agriculture.",
+          "tags": ["Remote Sensing", "Science"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 20,
+          "title": "Earth Observations with GEE and AI",
+          "url": "https://www.youtube.com/watch?v=9EvF-zCQ4vI",
+          "description": "land use/land cover mapping using Google Earth Engine and AI",
+          "tags": ["YouTube", "Remote Sensing"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 21,
+          "title": "GitHub Repository - Earth Observations with GEE and AI",
+          "url": "https://github.com/iamtekson/earth-observations-with-gee-and-AI/tree/main/03_lulc_mapping",
+          "description": "A GitHub repository containing code and resources for land use/land cover mapping using Google Earth Engine and AI.",
+          "tags": ["GitHub", "Earth Observations", "GEE", "AI"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        }
+      ]
+    },
+
+    {
       "name": "Raster",
       "collection": "Raster",
       "data": [
@@ -565,6 +998,42 @@
           "tags": ["Youtube", "GeoTiff"],
           "download": 0,
           "download_mode": "",
+          "stato": ["open"]
+        }
+      ]
+    },
+    {
+      "name": "Climate",
+      "collection": "Climate",
+      "data": [
+        {
+          "id": 1,
+          "title": "climate Data Store - Copernicus",
+          "url": "https://cds.climate.copernicus.eu/datasets",
+          "description": " Historical Data: ERA5-Land",
+          "tags": ["climate", "Copernicus", "EU", "CDS"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        },
+        {
+          "id": 2,
+          "title": "ESSD - Copernicus Climate Change Service",
+          "url": "https://essd.copernicus.org/articles/16/1503/2024/",
+          "description": "FOCA: a new quality-controlled database of floods and catchment descriptors in Italy",
+          "tags": ["floods", "Copernicus"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 3,
+          "title": "gee - snow covered area",
+          "url": "https://www.youtube.com/watch?v=5_N0isJU7Pc",
+          "description": "Snow Covered Area Mapping using Landsat Imagery | Google Earth Engine",
+          "tags": ["climate", "video"],
+          "download": 0,
+          "download_mode": "N/A",
           "stato": ["open"]
         }
       ]
@@ -946,303 +1415,6 @@
           "download_mode": "PDF 📝",
           "stato": ["open"]
         }
-      ]
-    },
-    {
-      "name": "GIS",
-      "collection": "GIS",
-      "data": [
-        {
-          "id": 1,
-          "title": "GISCARTA - Informational Pop-ups in GIS",
-          "url": "https://giscarta.com/blog/informational-pop-ups-in-gis",
-          "description": "A guide on how to create and use informational pop-ups in GIS applications to enhance user interaction and data presentation.",
-          "tags": ["GIS", "GISCARTA"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 2,
-          "title": "Google Sheets - GIS Database Repository for Disaster Risk",
-          "url": "https://docs.google.com/spreadsheets/d/1HIQdo_K5F3eft_6OmWhYpVke8ZB1na5fhwlgHiPJlUo/edit?gid=732745858#gid=732745858",
-          "description": "GIS Database Repository for Disaster Risk, Emergency Response, and Resilience Planning",
-          "tags": ["DataBase", "GIS", "Disaster Risk"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 3,
-          "title": "rainfall-induced landslide catalogue in Italy",
-          "url": "https://www.nature.com/articles/s41597-025-04551-6",
-          "description": "An enhanced rainfall-induced landslide catalogue in Italy",
-          "tags": ["Soil", "e-ITALICA", "landslide"],
-          "download": 1,
-          "download_mode": "PDF 📝",
-          "stato": ["open"]
-        },
-        {
-          "id": 4,
-          "title": "rainfall-induced landslide catalogue in Italy",
-          "url": "https://zenodo.org/records/14204473",
-          "description": "An enhanced rainfall-induced landslide catalogue in Italy",
-          "tags": ["Soil", "e-ITALICA", "landslide"],
-          "download": 1,
-          "download_mode": "CSV 📥",
-          "stato": ["open"]
-        },
-        {
-          "id": 5,
-          "title": "Copernicus Climate Change Service - ERA Explorer",
-          "url": "https://apps.copernicus-climate.eu/c3s-apps/era-explorer/?lat=40.84&lng=14.25&plot=8",
-          "description": "Explore climate data from the Copernicus Climate Change Service.",
-          "tags": ["Climate", "Copernicus"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 6,
-          "title": "Async TIFF",
-          "url": "https://github.com/developmentseed/async-tiff",
-          "description": "A library for reading and writing GeoTIFF files asynchronously.",
-          "tags": ["GeoTIFF", "Async"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 7,
-          "title": "Ras Commander",
-          "url": "https://github.com/gpt-cmdr/ras-commander",
-          "description": "A command-line tool for managing and analyzing remote sensing data.",
-          "tags": ["Remote Sensing", "Command Line"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 8,
-          "title": "QGIS MCP",
-          "url": "https://github.com/jjsantos01/qgis_mcp",
-          "description": "A QGIS plugin for managing and analyzing multi-criteria projects.",
-          "tags": ["QGIS", "Plugin"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 9,
-          "title": "Live Precipitation Map",
-          "url": "https://liveprecipitation-leaflet-rainviewer.netlify.app/#",
-          "description": "A live map showing precipitation data.",
-          "tags": ["Weather", "Map"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 10,
-          "title": "pytRIBS",
-          "url": "https://www.sciencedirect.com/science/article/abs/pii/S1364815225001161",
-          "description": "An open, modular, and reproducible python-based framework for distributed hydrologic modeling",
-          "tags": ["Python", "hydrologic"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 11,
-          "title": "ArcGIS Earth Engine Toolbox",
-          "url": "https://github.com/gee-community/arcgis-earthengine-toolbox",
-          "description": "A toolbox for integrating ArcGIS with Google Earth Engine.",
-          "tags": ["ArcGIS", "Google Earth Engine"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 12,
-          "title": "Geofabrik Shapefiles",
-          "url": "https://www.geofabrik.de/data/shapefiles.html",
-          "description": "Download shapefiles for various regions from Geofabrik.",
-          "tags": ["Shapefiles", "Geospatial Data"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 13,
-          "title": "OpenStreetMap Data Extracts",
-          "url": "https://extract.bbbike.org/",
-          "description": "Extract OpenStreetMap data for specific areas.",
-          "tags": ["OpenStreetMap", "Data Extracts"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 14,
-          "title": "DIVA-GIS Data",
-          "url": "https://diva-gis.org/data.html",
-          "description": "Download free spatial data for various countries, including administrative boundaries, roads, and land cover.",
-          "tags": ["DIVA-GIS", "Spatial Data"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 15,
-          "title": "GADM - Global Administrative Areas",
-          "url": "https://gadm.org/",
-          "description": "Download global administrative areas data in various formats.",
-          "tags": ["GADM", "Administrative Areas"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 16,
-          "title": "Humanitarian Data Exchange",
-          "url": "https://data.humdata.org/",
-          "description": "A platform for sharing humanitarian data.",
-          "tags": ["Humanitarian", "Data"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 17,
-          "title": "Overpass Turbo",
-          "url": "https://overpass-turbo.eu/",
-          "description": "A web-based tool for querying and visualizing OpenStreetMap data.",
-          "tags": ["OpenStreetMap", "Data Visualization"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 18,
-          "title": "MapCruzin",
-          "url": "https://mapcruzin.com/",
-          "description": "A resource for free GIS data, maps, and tools.",
-          "tags": ["GIS", "Maps", "Data"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 19,
-          "title": "FAO-UNESCO Soil Map of the World",
-          "url": "https://www.fao.org/soils-portal/data-hub/soil-maps-and-databases/faounesco-soil-map-of-the-world/en/",
-          "description": "A global soil map providing information on soil resources.",
-          "tags": ["Soil", "FAO", "UNESCO"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 20,
-          "title": "Ramsar Sites Information Service",
-          "url": "https://rsis.ramsar.org/",
-          "description": "A database of wetlands of international importance.",
-          "tags": ["Wetlands", "Ramsar"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 21,
-          "title": "World Bank Data Catalog",
-          "url": "https://datacatalog.worldbank.org/home",
-          "description": "A comprehensive catalog of World Bank data.",
-          "tags": ["World Bank", "Data"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 22,
-          "title": "GeoBasisLoader",
-          "url": "https://geoobserver.de/2025/04/10/geobasisloader-de-und-17000/",
-          "description": "A tool for loading and processing geospatial data.",
-          "tags": ["Geospatial", "Data Processing"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 23,
-          "title": "SatMonitoring",
-          "url": "https://www.satmonitoring.it/webgis",
-          "description": "A web GIS platform for satellite monitoring.",
-          "tags": ["Satellite", "GIS"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 24,
-          "title": "QGIS Tipp: GeoBasis_Loader News",
-          "url": "https://geoobserver.de/2025/04/29/qgis-tipp-geobasis_loader-news/",
-          "description": "Latest news and updates on the GeoBasis_Loader for QGIS.",
-          "tags": ["QGIS", "GeoBasis_Loader"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 25,
-          "title": "GeoJSON Files Prüfen mit geojson.io",
-          "url": "https://geoobserver.de/2025/04/30/geojson-files-pruefen-mit-geojson-io/",
-          "description": "A guide on how to validate and edit GeoJSON files using geojson.io.",
-          "tags": ["GeoJSON", "Validation"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 26,
-          "title": "Track Changes Plugin for QGIS",
-          "url": "https://plugins.qgis.org/plugins/track_changes/",
-          "description": "A QGIS plugin for tracking changes in your GIS data.",
-          "tags": ["QGIS", "Plugins"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 27,
-          "title": "Forrest NYC",
-          "url": "https://forrest.nyc/",
-          "description": "A platform for exploring and visualizing urban data.",
-          "tags": ["Urban", "Data", "Visualization"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 28,
-          "title": "Delimitación de Subcuencas Hidrográficas con QGIS y SAGA",
-          "url": "https://mappinggis.com/2025/05/delimitacion-de-subcuencas-hidrograficas-con-qgis-y-saga/",
-          "description": "Una guía sobre cómo delimitar subcuencas hidrográficas utilizando QGIS y SAGA.",
-          "tags": ["QGIS", "SAGA", "Hidrología"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 29,
-          "title": "QGIS Certification",
-          "url": "https://certification.qgis.org/en/",
-          "description": "Official QGIS certification program.",
-          "tags": ["QGIS", "Certification"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        }
-        
       ]
     },
     {
@@ -2102,178 +2274,6 @@
           "url": "https://www.freecodecamp.org/news/free-genai-65-hour-bootcamp/",
           "description": "A comprehensive bootcamp on Generative AI.",
           "tags": ["AI", "Bootcamp", "Free"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        }
-      ]
-    },
-    {
-      "name": "Cadastral",
-      "collection": "Cadastral",
-      "data": [
-        {
-          "id": 1,
-          "title": "Cadastral - Italy",
-          "url": "https://geodati.gov.it/geoportale/visualizzazione-metadati/scheda-metadati/?uuid=age%3AS_0000_ITALIA",
-          "description": "Download all cadastral parcels of ITALY - also for each REGION",
-          "tags": ["Cadastrals", "gov"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 2,
-          "title": "archivio anncsu ",
-          "url": "https://www.cadastre.gouv.fr/",
-          "description": "Stradario e indirizzario dell'Archivio Nazionale dei Numeri Civici e delle Strade",
-          "tags": ["ANNC", "SU", "gov", "API"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 3,
-          "title": "Consultazione ANNC",
-          "url": "https://geodati.gov.it/geoportale/visualizzazione-metadati/scheda-metadati/?uuid=age:consultazioneANNCSU",
-          "description": "Consultazione dell'Archivio Nazionale dei Numeri Civici e delle Strade",
-          "tags": ["ANNC", "SU", "gov", "API"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 4,
-          "title": "YouTube Video - WFS Catasto",
-          "url": "https://www.youtube.com/watch?v=qd4Tj4LKGgc",
-          "description": "QGIS Ricerca per attributi Particelle Catastali",
-          "tags": ["YouTube", "WFS Catasto"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        }
-      ]
-    },
-    {
-      "name": "RemoteSensing",
-      "collection": "RemoteSensing",
-      "data": [
-        {
-          "id": 1,
-          "title": "An early warning system based on machine learning detects huge forest loss in Ukraine during the war",
-          "url": "https://www.sciencedirect.com/science/article/pii/S2351989425000289?via%3Dihub",
-          "description": "During the war in Ukraine, alongside the devastating loss of human lives, vast areas of forests have also been destroyed. In this new paper, lead by Roberto Cazzolla Gatti we estimated this forest loss using AI and remote sensing data 🛰️",
-          "tags": ["LLMs", "Remote Sensing", "Ukraine"],
-          "download": 1,
-          "download_mode": "PDF 📝",
-          "stato": ["open"]
-        },
-        {
-          "id": 2,
-          "title": "Chat2Geo",
-          "url": "https://chat2geo.georetina.ai/",
-          "description": "A tool for converting chat messages into geospatial data.",
-          "tags": ["Chat", "Geospatial", "Data"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 3,
-          "title": "MODIS Images - Land Use and Soil Moisture",
-          "url": "https://mappinggis.com/2025/02/imagenes-modis-usos-suelo-molusce-en-qgis/",
-          "description": "A guide on how to use MODIS images for land use and soil moisture analysis in QGIS.",
-          "tags": ["MODIS", "Land Use", "Soil Moisture", "QGIS"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 4,
-          "title": "Google Earth Engine VIDEO Tutorials",
-          "url": "https://www.youtube.com/@amirhosseinahrarigee",
-          "description": "Video tutorial on how to detect flood areas using Sentinel-1 SAR imagery in Google Earth Engine.",
-          "tags": ["Google Earth Engine", "YouTube", "Remote Sensing"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 5,
-          "title": "Copernicus Land Monitoring Service - Products",
-          "url": "https://land.copernicus.eu/en/products",
-          "description": "Access a wide range of land monitoring products from the Copernicus programme, including datasets on land cover, land use, vegetation, water, soil, and biophysical parameters, supporting sustainable environmental management across Europe.",
-          "tags": ["Copernicus", "Land Monitoring", "EU"],
-          "download": 1,
-          "download_mode": "Istant 📥",
-          "stato": ["open"]
-        },
-        {
-          "id": 15,
-          "title": "Wyvern - Open Data",
-          "url": "https://wyvern.space/open-data/",
-          "description": "Wyvern is a platform for accessing and sharing open data.",
-          "tags": ["Wyvern", "Open Data"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 16,
-          "title": "Misread t-SNE",
-          "url": "https://distill.pub/2016/misread-tsne/",
-          "description": "A visual and interactive explanation of t-SNE.",
-          "tags": ["t-SNE", "Visualization"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 17,
-          "title": "YouTube Video - Misread t-SNE",
-          "url": "https://www.youtube.com/watch?v=I99JprDlWTc",
-          "description": "A video explanation of the misinterpretation of t-SNE visualizations.",
-          "tags": ["YouTube", "t-SNE", "Visualization"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 18,
-          "title": "BIOMASS - Press Pack",
-          "url": "https://esamultimedia.esa.int/docs/EarthObservation/BIOMASS_Press_Pack_250418.pdf",
-          "description": "Press pack for the BIOMASS mission.",
-          "tags": ["BIOMASS", "ESA"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 19,
-          "title": "Article on Remote Sensing",
-          "url": "https://www.sciencedirect.com/science/article/pii/S2589004225006716?via%3Dihub",
-          "description": "Remote sensing assessment of the weed adaptability to soil salinization induced by extreme droughts on coastal agriculture.",
-          "tags": ["Remote Sensing", "Science"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 20,
-          "title": "Earth Observations with GEE and AI",
-          "url": "https://www.youtube.com/watch?v=9EvF-zCQ4vI",
-          "description": "land use/land cover mapping using Google Earth Engine and AI",
-          "tags": ["YouTube", "Remote Sensing"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 21,
-          "title": "GitHub Repository - Earth Observations with GEE and AI",
-          "url": "https://github.com/iamtekson/earth-observations-with-gee-and-AI/tree/main/03_lulc_mapping",
-          "description": "A GitHub repository containing code and resources for land use/land cover mapping using Google Earth Engine and AI.",
-          "tags": ["GitHub", "Earth Observations", "GEE", "AI"],
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]

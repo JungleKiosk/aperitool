@@ -79,7 +79,7 @@ export default {
             placeholder="Search..."
           />
           <button class="btn btn-warning mx-2" @click="resetAllFilters">
-            Reset
+            All
           </button>
         </div>
         <div class="form-check ms-3">

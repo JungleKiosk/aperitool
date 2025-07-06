@@ -66,15 +66,11 @@ export default {
           practical techniques for remote fieldwork and survival.
         </p>
       </div>
-      <!--     <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center">
-        <img src="../../assets/img/home/3_hand.png" alt="Aperitools logo" />
-      </div> -->
-
-      <!--       <h2 class="text-center my-4">Link Collections</h2> -->
-
-      <div class="col-12 col-lg-6 d-flex flex-wrap justify-content-center gap-3">
+      <div
+        class="col-12 col-lg-6 d-flex flex-wrap justify-content-center gap-3"
+      >
         <router-link
-          class="col-3 border rounded shadow-sm text-center text-decoration-none text-dark p-2"
+          class="collection-card col-3 text-center text-decoration-none p-2"
           v-for="(item, index) in collections"
           :key="index"
           :to="{ path: '/links', query: { collection: item.name } }"

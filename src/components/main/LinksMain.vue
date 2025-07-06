@@ -98,6 +98,8 @@ export default {
       this.searchQuery = "";
       this.selectedTag = "";
       this.filterDownloadOnly = false;
+      this.selectedCollection = ""; // <- cancella anche il filtro collection
+      this.$router.replace({ path: "/links" }); // rimuove la query dalla URL
       this.applyFilters();
     },
   },
@@ -118,7 +120,7 @@ export default {
             placeholder="Search..."
           />
           <button class="btn btn-warning mx-2" @click="resetAllFilters">
-            Reset
+            All
           </button>
         </div>
         <div class="form-check ms-3">
