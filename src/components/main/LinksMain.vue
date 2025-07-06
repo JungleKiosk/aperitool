@@ -1,9 +1,10 @@
 <script>
 import linksData from "../../data/links.json";
 import { groupedTags } from "../../data/tags.js";
+import { useRoute } from "vue-router";
 
 export default {
-  name: "LinksView",
+  name: "LinksMain",
   data() {
     return {
       searchQuery: "",
@@ -15,10 +16,23 @@ export default {
       searchTimeout: null,
       openedCategory: null,
       showCategoryModal: false,
+      filteredLinks: [],
+      selectedCollection: "",
     };
   },
   created() {
     this.filteredCollections = this.collections;
+  },
+  setup() {
+    const route = useRoute();
+    return { route };
+  },
+  mounted() {
+    const collectionName = this.$route.query.collection;
+    if (collectionName) {
+      this.selectedCollection = collectionName;
+      this.applyFilters(); // usa direttamente il filtro già esistente
+    }
   },
   methods: {
     getTagsForOpenedCategory() {
@@ -39,6 +53,12 @@ export default {
     applyFilters() {
       const q = this.searchQuery.toLowerCase();
       this.filteredCollections = this.collections
+        .filter((col) => {
+          // Se è selezionata una collection, mostra solo quella
+          return (
+            !this.selectedCollection || col.name === this.selectedCollection
+          );
+        })
         .map((col) => {
           const filteredData = col.data.filter((item) => {
             const matchesTitle = item.title?.toLowerCase().includes(q);
@@ -198,18 +218,17 @@ export default {
               v-for="tag in getTagsForOpenedCategory()"
               :key="tag.id"
             >
-            <div class="row">
-               <div class="col-2">
-                <span
-                  class="badge bg-info text-dark me-1 mb-1"
-                  style="cursor: pointer"
-                  @click="filterByTag(tag.name)"
-                >
-                  {{ tag.name }}
-                </span>
+              <div class="row">
+                <div class="col-2">
+                  <span
+                    class="badge bg-info text-dark me-1 mb-1"
+                    style="cursor: pointer"
+                    @click="filterByTag(tag.name)"
+                  >
+                    {{ tag.name }}
+                  </span>
+                </div>
               </div>
-            </div>
-             
             </div>
           </div>
         </div>

@@ -73,14 +73,15 @@ export default {
       <!--       <h2 class="text-center my-4">Link Collections</h2> -->
 
       <div class="col-12 col-lg-6 d-flex flex-wrap justify-content-center gap-3">
-        <div
-          class="col-3 border rounded shadow-sm text-center"
+        <router-link
+          class="col-3 border rounded shadow-sm text-center text-decoration-none text-dark p-2"
           v-for="(item, index) in collections"
           :key="index"
+          :to="{ path: '/links', query: { collection: item.name } }"
         >
           <h6 class="fw-bold">{{ item.name }}</h6>
-          <small>{{ item.count }}</small>
-        </div>
+          <small>{{ item.count }} links</small>
+        </router-link>
       </div>
     </div>
 

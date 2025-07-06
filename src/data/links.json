@@ -38,7 +38,7 @@
     },
     {
       "name": "LUCAS",
-      "collection": "lucas",
+      "collection": "LUCAS",
       "data": [
         {
           "id": 1,
@@ -454,7 +454,7 @@
       ]
     },
     {
-      "name": "DEM - DTM - LiDAR",
+      "name": "Raster",
       "collection": "Raster",
       "data": [
         {
@@ -570,7 +570,7 @@
       ]
     },
     {
-      "name": "Soil Data",
+      "name": "Soil",
       "collection": "Soil",
       "data": [
         {
@@ -1246,7 +1246,7 @@
       ]
     },
     {
-      "name": "Dev and Prog",
+      "name": "DevProg",
       "collection": "DevProg",
       "data": [
         {
@@ -2155,8 +2155,8 @@
       ]
     },
     {
-      "name": "Remote Sensing and Digital Mapping",
-      "collection": "Remote Sensing",
+      "name": "RemoteSensing",
+      "collection": "RemoteSensing",
       "data": [
         {
           "id": 1,
@@ -2282,7 +2282,7 @@
     },
     {
       "name": "NERDY",
-      "collection": "Nerdy",
+      "collection": "NERDY",
       "data": [
         {
           "id": 1,
