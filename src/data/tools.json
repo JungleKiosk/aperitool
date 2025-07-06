@@ -134,5 +134,21 @@
     "links": "https://liambx.com/",
     "tags": ["Web", "Tools"],
     "filename": 0
+  },
+  {
+    "id": "18",
+    "name": "Vert",
+    "description": "The file converter you'll love.",
+    "links": "https://vert.sh/",
+    "tags": ["Python", "Virtual Environments"],
+    "filename": 0
+  },
+  {
+    "id": "19",
+    "name": "Omatsuri",
+    "description": "A tool for creating and managing online events.",
+    "links": "https://omatsuri.app/",
+    "tags": ["Events", "Management"],
+    "filename": 0
   }
 ]

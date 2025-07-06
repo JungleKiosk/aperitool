@@ -1599,6 +1599,46 @@
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
+        },
+        {
+          "id": 36,
+          "title": "Eruda",
+          "url": "https://github.com/liriliri/eruda",
+          "description": "Access browser devtools on your phone",
+          "tags": ["GitHub", "Eruda"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 37,
+          "title": "Kaggle Solutions",
+          "url": "https://github.com/faridrashidi/kaggle-solutions",
+          "description": "It is an open collection on GitHub containing the techniques, strategies and winning codes of the best participants in Kaggle competitions",
+          "tags": ["GitHub", "Kaggle"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 38,
+          "title": "Smooth UI",
+          "url": "https://smoothui.dev/",
+          "description": "A collection of smooth and beautiful UI components.",
+          "tags": ["UI", "Components"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 39,
+          "title": "Beginner's Guide to Penetration Testing",
+          "url": "https://www.freecodecamp.org/news/beginners-guide-to-penetration-testing-cybersecurity/",
+          "description": "A comprehensive guide for beginners on penetration testing in cybersecurity.",
+          "tags": ["Cybersecurity", "Penetration Testing", "Guide"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
         }
       ]
     },
@@ -2451,6 +2491,16 @@
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
+        },
+        {
+          "id": 22,
+          "title": " Limitless Ai",
+          "url": "https://www.youtube.com/watch?v=J2bb6wRcQiI",
+          "description": "A YouTube video related to the topic.",
+          "tags": ["YouTube", " Limitless Ai"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
         }
       ]
     },
@@ -2542,7 +2592,7 @@
         },
         {
           "id": 243,
-          "title": "Link 243",
+          "title": "Link 243 ⛵⛵⛵⛵",
           "url": "https://youtu.be/uQyz-pc1fWU?si=mSACTojrlebzNyBp",
           "description": "Contenuto web: uQyz pc1fWU...",
           "tags": ["varie"],
@@ -2552,7 +2602,7 @@
         },
         {
           "id": 244,
-          "title": "Link 244",
+          "title": "Link 244 ⛵⛵⛵⛵",
           "url": "https://youtu.be/Y53FaIjH9dk?si=n_6o1J74-vO_1C3a",
           "description": "Contenuto web: Y53FaIjH9dk...",
           "tags": ["varie"],
@@ -2561,189 +2611,9 @@
           "stato": ["open"]
         },
         {
-          "id": 245,
-          "title": "Link 245",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-ugcPost-7329587319789826049-_XF3?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 246,
-          "title": "Link 246",
-          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7327672502518693890?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Contenuto web: update, urn:li:activity:7327672502518693890...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 247,
-          "title": "Link 247",
-          "url": "https://youtube.com/shorts/n7UCwEs97T4?si=-p4RvQ05rMfOsefe",
-          "description": "Video YouTube – verifica titolo per dettagli.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 248,
-          "title": "Link 248",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-ugcPost-7330527712610070529-Zaok?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 249,
-          "title": "Link 249",
-          "url": "https://www.linkedin.com/posts/datapizza_kaggle-machinelearning-datascience-activity-7330517694321967105-5oT7?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 250,
-          "title": "Link 250",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-ugcPost-7324772306981933056-ZVlW?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
           "id": 251,
-          "title": "Link 251",
+          "title": "Link 251 ⛵⛵⛵⛵",
           "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-ugcPost-7330926737452589056-YxS3?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 252,
-          "title": "Link 252",
-          "url": "https://psrveneto.it/",
-          "description": "Contenuto web: ...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 253,
-          "title": "Link 253",
-          "url": "https://bandi.regione.veneto.it/Public/Elenco?Tipo=1",
-          "description": "Contenuto web: Public, Elenco...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 254,
-          "title": "Link 254",
-          "url": "https://bandi.regione.veneto.it/Public/Dettaglio?idAtto=11267&fromPage=Elenco&high=Agricoltura",
-          "description": "Contenuto web: Public, Dettaglio...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 255,
-          "title": "Link 255",
-          "url": "https://agriculture.ec.europa.eu/common-agricultural-policy/cap-overview/cap-2023-27_it",
-          "description": "Contenuto web: common agricultural policy, cap overview, cap 2023 27_it...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 256,
-          "title": "Link 256",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7331232764408545282-afBD?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 257,
-          "title": "Link 257",
-          "url": "https://www.linkedin.com/jobs/view/4224749756",
-          "description": "Contenuto web: 4224749756...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 258,
-          "title": "Link 258",
-          "url": "https://www.ballallaluna.it/",
-          "description": "Contenuto web: ...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 259,
-          "title": "Link 259",
-          "url": "https://youtu.be/J2bb6wRcQiI?si=5GvhaGbSjDKGhS9Z",
-          "description": "Contenuto web: J2bb6wRcQiI...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 260,
-          "title": "Link 260",
-          "url": "https://www.linkedin.com/posts/free-code-camp_companies-often-use-penetration-testing-to-activity-7331771525672423425-WV03?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 261,
-          "title": "Link 261",
-          "url": "https://youtube.com/shorts/HBSOg-lx3Rc?si=JY15Y9-H6O_IouXO",
-          "description": "Video YouTube – verifica titolo per dettagli.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 262,
-          "title": "Link 262",
-          "url": "https://youtube.com/shorts/H3qTcfI54S0?si=bnUFkPFqLQttweod",
-          "description": "Video YouTube – verifica titolo per dettagli.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 263,
-          "title": "Link 263",
-          "url": "https://www.linkedin.com/posts/aaronjnichols_im-launching-the-course-i-wish-i-had-2-years-activity-7325620293345955844-rFla?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
           "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
           "tags": ["varie"],
           "download": 0,
