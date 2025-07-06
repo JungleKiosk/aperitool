@@ -83,22 +83,39 @@ export default {
 
     <!-- Featured Links -->
 
-    <h2 class="text-center">Featured Resources</h2>
-    <div class="row">
-      <div
-        class="col-12 col-md-6 col-lg-3"
-        v-for="(item, index) in featuredLinks"
-        :key="index"
-      >
-        <div class="card">
-          <div class="card-body">
-            <h5 class="card-title">{{ item.title }}</h5>
-            <p class="card-text">{{ item.description }}</p>
-            <a :href="item.url" class="btn btn-outline-primary" target="_blank"
-              >Visit</a
-            >
+    <h2 class="text-center my-4">Featured Resources</h2>
+    <div class="row align-items-start">
+      <!-- CARD CONTAINER -->
+      <div class="col-12 col-lg-6">
+        <div class="row g-3">
+          <div
+            class="col-12 col-md-6"
+            v-for="(item, index) in featuredLinks"
+            :key="index"
+          >
+            <div class="card h-100 shadow-sm">
+              <div class="card-body d-flex flex-column">
+                <h5 class="card-title">{{ item.title }}</h5>
+                <p class="card-text flex-grow-1">{{ item.description }}</p>
+                <a
+                  :href="item.url"
+                  class="btn btn-outline-primary mt-auto"
+                  target="_blank"
+                >
+                  Visit
+                </a>
+              </div>
+            </div>
           </div>
         </div>
+      </div>
+      <!-- IMMAGINE -->
+      <div class="col-12 col-lg-6 d-flex justify-content-center mb-4 mb-lg-0">
+        <img
+          src="../../assets/img/home/3_hand.png"
+          alt="Aperitools Logo"
+          class="img-fluid"
+        />
       </div>
     </div>
   </div>
