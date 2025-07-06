@@ -455,7 +455,7 @@
     },
     {
       "name": "DEM - DTM - LiDAR",
-      "collection": "DEM - DTM - LiDAR",
+      "collection": "Raster",
       "data": [
         {
           "id": 1,
@@ -571,7 +571,7 @@
     },
     {
       "name": "Soil Data",
-      "collection": "Soil Data",
+      "collection": "Soil",
       "data": [
         {
           "id": 1,
@@ -1247,7 +1247,7 @@
     },
     {
       "name": "Dev and Prog",
-      "collection": "Dev and Prog",
+      "collection": "DevProg",
       "data": [
         {
           "id": 1,
@@ -2156,7 +2156,7 @@
     },
     {
       "name": "Remote Sensing and Digital Mapping",
-      "collection": "Remote Sensing and Digital Mapping",
+      "collection": "Remote Sensing",
       "data": [
         {
           "id": 1,
@@ -2282,7 +2282,7 @@
     },
     {
       "name": "NERDY",
-      "collection": "NERDY",
+      "collection": "Nerdy",
       "data": [
         {
           "id": 1,

@@ -1,22 +1,11 @@
 <script>
+import linksData from "./../../data/links.json";
+
 export default {
   name: "HomeMain",
   data() {
     return {
-      keywords: [
-        "Agronomy",
-        "Forestry",
-        "GIS",
-        "QGIS",
-        "Remote Sensing",
-        "Python",
-        "Soil Data",
-        "OCR",
-        "Web Development",
-        "Data Cleaning",
-        "Environmental Analysis",
-        "Survival",
-      ],
+      collections: [],
       featuredLinks: [
         {
           title: "QGIS Certification",
@@ -41,6 +30,21 @@ export default {
       ],
     };
   },
+  created() {
+    this.extractCollections();
+  },
+  methods: {
+    extractCollections() {
+      if (Array.isArray(linksData.links)) {
+        this.collections = linksData.links.map((section) => {
+          return {
+            name: section.collection,
+            count: section.data.length, // conteggio dei link
+          };
+        });
+      }
+    },
+  },
 };
 </script>
 
@@ -62,10 +66,21 @@ export default {
           practical techniques for remote fieldwork and survival.
         </p>
       </div>
-      <div
-        class="col-12 col-lg-6 d-flex align-items-center justify-content-center"
-      >
+      <!--     <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center">
         <img src="../../assets/img/home/3_hand.png" alt="Aperitools logo" />
+      </div> -->
+
+      <!--       <h2 class="text-center my-4">Link Collections</h2> -->
+
+      <div class="col-12 col-lg-6 d-flex flex-wrap justify-content-center gap-3">
+        <div
+          class="col-3 border rounded shadow-sm text-center"
+          v-for="(item, index) in collections"
+          :key="index"
+        >
+          <h6 class="fw-bold">{{ item.name }}</h6>
+          <small>{{ item.count }}</small>
+        </div>
       </div>
     </div>
 
