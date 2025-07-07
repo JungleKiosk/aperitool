@@ -293,6 +293,304 @@
           "download": 0,
           "download_mode": "",
           "stato": ["open"]
+        },
+        {
+          "id": 30,
+          "title": "Istat - Geoportal",
+          "url": "https://gisportal.istat.it/bt.carto/bt.carto.html",
+          "description": "Istat's geoportal for accessing statistical data and maps.",
+          "tags": ["Istat", "Geoportal", "Statistics"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        }
+      ]
+    },
+    {
+      "name": "Remote Sensing",
+      "collection": "Remote Sensing",
+      "data": [
+        {
+          "id": 1,
+          "title": "An early warning system based on machine learning detects huge forest loss in Ukraine during the war",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2351989425000289?via%3Dihub",
+          "description": "During the war in Ukraine, alongside the devastating loss of human lives, vast areas of forests have also been destroyed. In this new paper, lead by Roberto Cazzolla Gatti we estimated this forest loss using AI and remote sensing data 🛰️",
+          "tags": ["LLMs", "Remote Sensing", "Ukraine"],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": ["open"]
+        },
+        {
+          "id": 2,
+          "title": "Chat2Geo",
+          "url": "https://chat2geo.georetina.ai/",
+          "description": "A tool for converting chat messages into geospatial data.",
+          "tags": ["Chat", "Geospatial", "Data"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 3,
+          "title": "MODIS Images - Land Use and Soil Moisture",
+          "url": "https://mappinggis.com/2025/02/imagenes-modis-usos-suelo-molusce-en-qgis/",
+          "description": "A guide on how to use MODIS images for land use and soil moisture analysis in QGIS.",
+          "tags": ["MODIS", "Land Use", "Soil Moisture", "QGIS"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 4,
+          "title": "Google Earth Engine VIDEO Tutorials",
+          "url": "https://www.youtube.com/@amirhosseinahrarigee",
+          "description": "Video tutorial on how to detect flood areas using Sentinel-1 SAR imagery in Google Earth Engine.",
+          "tags": ["Google Earth Engine", "YouTube", "Remote Sensing"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 5,
+          "title": "Copernicus Land Monitoring Service - Products",
+          "url": "https://land.copernicus.eu/en/products",
+          "description": "Access a wide range of land monitoring products from the Copernicus programme, including datasets on land cover, land use, vegetation, water, soil, and biophysical parameters, supporting sustainable environmental management across Europe.",
+          "tags": ["Copernicus", "Land Monitoring", "EU"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        },
+        {
+          "id": 15,
+          "title": "Wyvern - Open Data",
+          "url": "https://wyvern.space/open-data/",
+          "description": "Wyvern is a platform for accessing and sharing open data.",
+          "tags": ["Wyvern", "Open Data"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 16,
+          "title": "Misread t-SNE",
+          "url": "https://distill.pub/2016/misread-tsne/",
+          "description": "A visual and interactive explanation of t-SNE.",
+          "tags": ["t-SNE", "Visualization"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 17,
+          "title": "YouTube Video - Misread t-SNE",
+          "url": "https://www.youtube.com/watch?v=I99JprDlWTc",
+          "description": "A video explanation of the misinterpretation of t-SNE visualizations.",
+          "tags": ["YouTube", "t-SNE", "Visualization"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 18,
+          "title": "BIOMASS - Press Pack",
+          "url": "https://esamultimedia.esa.int/docs/EarthObservation/BIOMASS_Press_Pack_250418.pdf",
+          "description": "Press pack for the BIOMASS mission.",
+          "tags": ["BIOMASS", "ESA"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 19,
+          "title": "Article on Remote Sensing",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2589004225006716?via%3Dihub",
+          "description": "Remote sensing assessment of the weed adaptability to soil salinization induced by extreme droughts on coastal agriculture.",
+          "tags": ["Remote Sensing", "Science"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 20,
+          "title": "Earth Observations with GEE and AI",
+          "url": "https://www.youtube.com/watch?v=9EvF-zCQ4vI",
+          "description": "land use/land cover mapping using Google Earth Engine and AI",
+          "tags": ["YouTube", "Remote Sensing"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 21,
+          "title": "GitHub Repository - Earth Observations with GEE and AI",
+          "url": "https://github.com/iamtekson/earth-observations-with-gee-and-AI/tree/main/03_lulc_mapping",
+          "description": "A GitHub repository containing code and resources for land use/land cover mapping using Google Earth Engine and AI.",
+          "tags": ["GitHub", "Earth Observations", "GEE", "AI"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        }
+      ]
+    },
+    {
+      "name": "Cadastral",
+      "collection": "Cadastral",
+      "data": [
+        {
+          "id": 1,
+          "title": "Cadastral - Italy",
+          "url": "https://geodati.gov.it/geoportale/visualizzazione-metadati/scheda-metadati/?uuid=age%3AS_0000_ITALIA",
+          "description": "Download all cadastral parcels of ITALY - also for each REGION",
+          "tags": ["Cadastrals", "gov"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 2,
+          "title": "archivio anncsu ",
+          "url": "https://www.cadastre.gouv.fr/",
+          "description": "Stradario e indirizzario dell'Archivio Nazionale dei Numeri Civici e delle Strade",
+          "tags": ["ANNC", "SU", "gov", "API"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 3,
+          "title": "Consultazione ANNC",
+          "url": "https://geodati.gov.it/geoportale/visualizzazione-metadati/scheda-metadati/?uuid=age:consultazioneANNCSU",
+          "description": "Consultazione dell'Archivio Nazionale dei Numeri Civici e delle Strade",
+          "tags": ["ANNC", "SU", "gov", "API"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 4,
+          "title": "YouTube Video - WFS Catasto",
+          "url": "https://www.youtube.com/watch?v=qd4Tj4LKGgc",
+          "description": "QGIS Ricerca per attributi Particelle Catastali",
+          "tags": ["YouTube", "WFS Catasto"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        }
+      ]
+    },
+    {
+      "name": "Raster",
+      "collection": "Raster",
+      "data": [
+        {
+          "id": 1,
+          "title": "NASA Earthdata - DEM Download",
+          "url": "https://search.earthdata.nasa.gov/search?gdf=DEM&as[granule_data_format][0]=DEM",
+          "description": "Global Shuttle Radar Topography Mission (SRTM) DEM datasets for elevation mapping, available for download via NASA Earthdata.",
+          "tags": ["DEM", "NASA", "Elevation"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        },
+        {
+          "id": 2,
+          "title": "NASA Earthdata - SRTM - DEM Download",
+          "url": "https://search.earthdata.nasa.gov/search?fi=SRTM",
+          "description": "Global Shuttle Radar Topography Mission (SRTM) DEM datasets for elevation mapping, available for download via NASA Earthdata.",
+          "tags": ["DEM", "SRTM", "NASA", "Elevation"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        },
+        {
+          "id": 3,
+          "title": "Copernicus Land Monitoring Service (EU-DEM)",
+          "url": "https://land.copernicus.eu/en/products/products-that-are-no-longer-disseminated-on-the-clms-website",
+          "description": "European Digital Elevation Model (EU-DEM) dataset provided by the Copernicus programme for the European territory.",
+          "tags": ["DEM", "Copernicus", "EU", "Elevation"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        },
+        {
+          "id": 4,
+          "title": "USGS Earth Explorer - LiDAR and DEM Data",
+          "url": "https://earthexplorer.usgs.gov/",
+          "description": "Access USGS Earth Explorer to download LiDAR point clouds, DEMs and DTM data worldwide.",
+          "tags": ["LiDAR", "DEM", "DTM", "USGS"],
+          "download": 1,
+          "download_mode": "Portal 🌍",
+          "stato": ["open"]
+        },
+        {
+          "id": 5,
+          "title": "OpenTopography - High-Resolution Topography Data",
+          "url": "https://portal.opentopography.org/datasets?dataSources=global&group=global",
+          "description": "Global portal for accessing high-resolution topography datasets including LiDAR, DEMs and point cloud data.",
+          "tags": ["LiDAR", "DEM", "Topography", "Open Data"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        },
+        {
+          "id": 6,
+          "title": "AW3D Global High-Resolution 5m DEM",
+          "url": "https://www.aw3d.jp/en/sampleform/",
+          "description": "High-resolution (5-meter) global DEM dataset developed by JAXA and NTT Data, available upon request.",
+          "tags": ["DEM", "Global", "JAXA"],
+          "download": 1,
+          "download_mode": "Request Form 📩",
+          "stato": ["open"]
+        },
+        {
+          "id": 7,
+          "title": "Copernicus DEM validation report",
+          "url": "https://s3.waw3-1.cloudferro.com/swift/v1/portal_uploads_prod/GEO1988-CopernicusDEM-RP-001_ValidationReport_I3.0_08.2024.pdf",
+          "description": "The methods and implementation of statistical procedures used to validate vertical accuracy of the Copernicus DEM.",
+          "tags": ["DEM", "Copernicus", "EU"],
+          "download": 1,
+          "download_mode": "PDF 📝",
+          "stato": ["open"]
+        },
+        {
+          "id": 8,
+          "title": "LiDAR - SIM Download PST",
+          "url": "https://sim.mase.gov.it/portalediaccesso/mappe/#/viewer/new",
+          "description": "Ministero dell'Ambiente e della Sicurezza Energetica - Access to Italian national LiDAR datasets and digital terrain models (DTM).",
+          "tags": ["LiDAR", "SIM"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        },
+        {
+          "id": 9,
+          "title": "Datasets on dati.gov.it",
+          "url": "https://www.dati.gov.it/index.php/view-dataset?page=0&tags=lidar",
+          "description": "Explore datasets available on dati.gov.it, the Italian open data portal. These high-resolution datasets support applications in terrain modeling, environmental monitoring, and urban planning.",
+          "tags": ["LiDAR", "DTM"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        },
+        {
+          "id": 10,
+          "title": "GeoTiff 100 MB to 1MB",
+          "url": "https://www.youtube.com/watch?v=RHOvdh7XoE8",
+          "description": "Youtube video tutorial",
+          "tags": ["Youtube", "GeoTiff"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 11,
+          "title": "Sampling Raster Data with Xarray",
+          "url": "https://www.youtube.com/watch?v=AJHdwcf8ySE&list=PLppGmFLhQ1HJIZgEzsyiRgGauN4Wx3bOL&index=4",
+          "description": "Youtube video tutorial",
+          "tags": ["Youtube", "GeoTiff"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
         }
       ]
     },
@@ -709,295 +1007,6 @@
           "tags": ["LUCAS", "Topsoil", "2015", "EU Soil"],
           "download": 1,
           "download_mode": "Request From 📩",
-          "stato": ["open"]
-        }
-      ]
-    },
-    {
-      "name": "Cadastral",
-      "collection": "Cadastral",
-      "data": [
-        {
-          "id": 1,
-          "title": "Cadastral - Italy",
-          "url": "https://geodati.gov.it/geoportale/visualizzazione-metadati/scheda-metadati/?uuid=age%3AS_0000_ITALIA",
-          "description": "Download all cadastral parcels of ITALY - also for each REGION",
-          "tags": ["Cadastrals", "gov"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 2,
-          "title": "archivio anncsu ",
-          "url": "https://www.cadastre.gouv.fr/",
-          "description": "Stradario e indirizzario dell'Archivio Nazionale dei Numeri Civici e delle Strade",
-          "tags": ["ANNC", "SU", "gov", "API"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 3,
-          "title": "Consultazione ANNC",
-          "url": "https://geodati.gov.it/geoportale/visualizzazione-metadati/scheda-metadati/?uuid=age:consultazioneANNCSU",
-          "description": "Consultazione dell'Archivio Nazionale dei Numeri Civici e delle Strade",
-          "tags": ["ANNC", "SU", "gov", "API"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 4,
-          "title": "YouTube Video - WFS Catasto",
-          "url": "https://www.youtube.com/watch?v=qd4Tj4LKGgc",
-          "description": "QGIS Ricerca per attributi Particelle Catastali",
-          "tags": ["YouTube", "WFS Catasto"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        }
-      ]
-    },
-    {
-      "name": "RemoteSensing",
-      "collection": "RemoteSensing",
-      "data": [
-        {
-          "id": 1,
-          "title": "An early warning system based on machine learning detects huge forest loss in Ukraine during the war",
-          "url": "https://www.sciencedirect.com/science/article/pii/S2351989425000289?via%3Dihub",
-          "description": "During the war in Ukraine, alongside the devastating loss of human lives, vast areas of forests have also been destroyed. In this new paper, lead by Roberto Cazzolla Gatti we estimated this forest loss using AI and remote sensing data 🛰️",
-          "tags": ["LLMs", "Remote Sensing", "Ukraine"],
-          "download": 1,
-          "download_mode": "PDF 📝",
-          "stato": ["open"]
-        },
-        {
-          "id": 2,
-          "title": "Chat2Geo",
-          "url": "https://chat2geo.georetina.ai/",
-          "description": "A tool for converting chat messages into geospatial data.",
-          "tags": ["Chat", "Geospatial", "Data"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 3,
-          "title": "MODIS Images - Land Use and Soil Moisture",
-          "url": "https://mappinggis.com/2025/02/imagenes-modis-usos-suelo-molusce-en-qgis/",
-          "description": "A guide on how to use MODIS images for land use and soil moisture analysis in QGIS.",
-          "tags": ["MODIS", "Land Use", "Soil Moisture", "QGIS"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 4,
-          "title": "Google Earth Engine VIDEO Tutorials",
-          "url": "https://www.youtube.com/@amirhosseinahrarigee",
-          "description": "Video tutorial on how to detect flood areas using Sentinel-1 SAR imagery in Google Earth Engine.",
-          "tags": ["Google Earth Engine", "YouTube", "Remote Sensing"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 5,
-          "title": "Copernicus Land Monitoring Service - Products",
-          "url": "https://land.copernicus.eu/en/products",
-          "description": "Access a wide range of land monitoring products from the Copernicus programme, including datasets on land cover, land use, vegetation, water, soil, and biophysical parameters, supporting sustainable environmental management across Europe.",
-          "tags": ["Copernicus", "Land Monitoring", "EU"],
-          "download": 1,
-          "download_mode": "Istant 📥",
-          "stato": ["open"]
-        },
-        {
-          "id": 15,
-          "title": "Wyvern - Open Data",
-          "url": "https://wyvern.space/open-data/",
-          "description": "Wyvern is a platform for accessing and sharing open data.",
-          "tags": ["Wyvern", "Open Data"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 16,
-          "title": "Misread t-SNE",
-          "url": "https://distill.pub/2016/misread-tsne/",
-          "description": "A visual and interactive explanation of t-SNE.",
-          "tags": ["t-SNE", "Visualization"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 17,
-          "title": "YouTube Video - Misread t-SNE",
-          "url": "https://www.youtube.com/watch?v=I99JprDlWTc",
-          "description": "A video explanation of the misinterpretation of t-SNE visualizations.",
-          "tags": ["YouTube", "t-SNE", "Visualization"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 18,
-          "title": "BIOMASS - Press Pack",
-          "url": "https://esamultimedia.esa.int/docs/EarthObservation/BIOMASS_Press_Pack_250418.pdf",
-          "description": "Press pack for the BIOMASS mission.",
-          "tags": ["BIOMASS", "ESA"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 19,
-          "title": "Article on Remote Sensing",
-          "url": "https://www.sciencedirect.com/science/article/pii/S2589004225006716?via%3Dihub",
-          "description": "Remote sensing assessment of the weed adaptability to soil salinization induced by extreme droughts on coastal agriculture.",
-          "tags": ["Remote Sensing", "Science"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 20,
-          "title": "Earth Observations with GEE and AI",
-          "url": "https://www.youtube.com/watch?v=9EvF-zCQ4vI",
-          "description": "land use/land cover mapping using Google Earth Engine and AI",
-          "tags": ["YouTube", "Remote Sensing"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 21,
-          "title": "GitHub Repository - Earth Observations with GEE and AI",
-          "url": "https://github.com/iamtekson/earth-observations-with-gee-and-AI/tree/main/03_lulc_mapping",
-          "description": "A GitHub repository containing code and resources for land use/land cover mapping using Google Earth Engine and AI.",
-          "tags": ["GitHub", "Earth Observations", "GEE", "AI"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        }
-      ]
-    },
-
-    {
-      "name": "Raster",
-      "collection": "Raster",
-      "data": [
-        {
-          "id": 1,
-          "title": "NASA Earthdata - DEM Download",
-          "url": "https://search.earthdata.nasa.gov/search?gdf=DEM&as[granule_data_format][0]=DEM",
-          "description": "Global Shuttle Radar Topography Mission (SRTM) DEM datasets for elevation mapping, available for download via NASA Earthdata.",
-          "tags": ["DEM", "NASA", "Elevation"],
-          "download": 1,
-          "download_mode": "Istant 📥",
-          "stato": ["open"]
-        },
-        {
-          "id": 2,
-          "title": "NASA Earthdata - SRTM - DEM Download",
-          "url": "https://search.earthdata.nasa.gov/search?fi=SRTM",
-          "description": "Global Shuttle Radar Topography Mission (SRTM) DEM datasets for elevation mapping, available for download via NASA Earthdata.",
-          "tags": ["DEM", "SRTM", "NASA", "Elevation"],
-          "download": 1,
-          "download_mode": "Istant 📥",
-          "stato": ["open"]
-        },
-        {
-          "id": 3,
-          "title": "Copernicus Land Monitoring Service (EU-DEM)",
-          "url": "https://land.copernicus.eu/en/products/products-that-are-no-longer-disseminated-on-the-clms-website",
-          "description": "European Digital Elevation Model (EU-DEM) dataset provided by the Copernicus programme for the European territory.",
-          "tags": ["DEM", "Copernicus", "EU", "Elevation"],
-          "download": 1,
-          "download_mode": "Istant 📥",
-          "stato": ["open"]
-        },
-        {
-          "id": 4,
-          "title": "USGS Earth Explorer - LiDAR and DEM Data",
-          "url": "https://earthexplorer.usgs.gov/",
-          "description": "Access USGS Earth Explorer to download LiDAR point clouds, DEMs and DTM data worldwide.",
-          "tags": ["LiDAR", "DEM", "DTM", "USGS"],
-          "download": 1,
-          "download_mode": "Portal 🌍",
-          "stato": ["open"]
-        },
-        {
-          "id": 5,
-          "title": "OpenTopography - High-Resolution Topography Data",
-          "url": "https://portal.opentopography.org/datasets?dataSources=global&group=global",
-          "description": "Global portal for accessing high-resolution topography datasets including LiDAR, DEMs and point cloud data.",
-          "tags": ["LiDAR", "DEM", "Topography", "Open Data"],
-          "download": 1,
-          "download_mode": "Istant 📥",
-          "stato": ["open"]
-        },
-        {
-          "id": 6,
-          "title": "AW3D Global High-Resolution 5m DEM",
-          "url": "https://www.aw3d.jp/en/sampleform/",
-          "description": "High-resolution (5-meter) global DEM dataset developed by JAXA and NTT Data, available upon request.",
-          "tags": ["DEM", "Global", "JAXA"],
-          "download": 1,
-          "download_mode": "Request Form 📩",
-          "stato": ["open"]
-        },
-        {
-          "id": 7,
-          "title": "Copernicus DEM validation report",
-          "url": "https://s3.waw3-1.cloudferro.com/swift/v1/portal_uploads_prod/GEO1988-CopernicusDEM-RP-001_ValidationReport_I3.0_08.2024.pdf",
-          "description": "The methods and implementation of statistical procedures used to validate vertical accuracy of the Copernicus DEM.",
-          "tags": ["DEM", "Copernicus", "EU"],
-          "download": 1,
-          "download_mode": "PDF 📝",
-          "stato": ["open"]
-        },
-        {
-          "id": 8,
-          "title": "LiDAR - SIM Download PST",
-          "url": "https://sim.mase.gov.it/portalediaccesso/mappe/#/viewer/new",
-          "description": "Ministero dell'Ambiente e della Sicurezza Energetica - Access to Italian national LiDAR datasets and digital terrain models (DTM).",
-          "tags": ["LiDAR", "SIM"],
-          "download": 1,
-          "download_mode": "Istant 📥",
-          "stato": ["open"]
-        },
-        {
-          "id": 9,
-          "title": "Datasets on dati.gov.it",
-          "url": "https://www.dati.gov.it/index.php/view-dataset?page=0&tags=lidar",
-          "description": "Explore datasets available on dati.gov.it, the Italian open data portal. These high-resolution datasets support applications in terrain modeling, environmental monitoring, and urban planning.",
-          "tags": ["LiDAR", "DTM"],
-          "download": 1,
-          "download_mode": "Istant 📥",
-          "stato": ["open"]
-        },
-        {
-          "id": 10,
-          "title": "GeoTiff 100 MB to 1MB",
-          "url": "https://www.youtube.com/watch?v=RHOvdh7XoE8",
-          "description": "Youtube video tutorial",
-          "tags": ["Youtube", "GeoTiff"],
-          "download": 0,
-          "download_mode": "",
-          "stato": ["open"]
-        },
-        {
-          "id": 11,
-          "title": "Sampling Raster Data with Xarray",
-          "url": "https://www.youtube.com/watch?v=AJHdwcf8ySE&list=PLppGmFLhQ1HJIZgEzsyiRgGauN4Wx3bOL&index=4",
-          "description": "Youtube video tutorial",
-          "tags": ["Youtube", "GeoTiff"],
-          "download": 0,
-          "download_mode": "",
           "stato": ["open"]
         }
       ]

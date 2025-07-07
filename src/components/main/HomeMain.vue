@@ -18,14 +18,61 @@ export default {
           description: "Explore APIs for geospatial data.",
         },
         {
-          title: "Free Online Courses",
-          url: "https://www.freecodecamp.org/news/most-popular-free-online-courses/",
-          description: "Top free courses from FreeCodeCamp.",
+          title: "How to use Google Colab",
+          url: "https://www.geeksforgeeks.org/how-to-use-google-colab/",
+          description:
+            "A comprehensive guide on using Google Colab for data science.",
         },
         {
           title: "PyQGIS Masterclass",
           url: "https://courses.spatialthoughts.com/pyqgis-masterclass.html#introduction",
           description: "Advanced QGIS automation with Python.",
+        },
+      ],
+      games: [
+        {
+          title: "OpenGuesser",
+          url: "https://openguessr.com/",
+          description: "A geography trivia game based on Google Maps.",
+        },
+        {
+          title: "World Geography Games",
+          url: "https://world-geography-games.com/index.html",
+          description:
+            "Test your knowledge of world geography with these fun games.",
+        },
+        {
+          title: "Toporopa",
+          url: "https://www.toporopa.eu/en/",
+          description: "A geography trivia game to test your knowledge.",
+        },
+        {
+          title: "GeoGrid",
+          url: "https://www.geogridgame.com/",
+          description:
+            "Test your geography knowledge with this engaging grid-based game.",
+        },
+      ],
+      curiosities: [
+        {
+          title: "Old Maps Online",
+          url: "https://www.oldmapsonline.org/it/Alps#position=5.7815/44.52/8.94&year=1935",
+          description: "Explore historical maps of the Alps.",
+        },
+        {
+          title: "Rare Maps",
+          url: "https://www.raremaps.com/",
+          description: "A collection of rare and antique maps.",
+        },
+        {
+          title: "AirNav Radar",
+          url: "https://www.airnavradar.com/@48.80300,2.26690,z6",
+          description: "Live flight tracking and radar information.",
+        },
+        {
+          title: "Go-Cart",
+          url: "https://go-cart.io/",
+          description: "A fun and interactive online go-kart racing game.",
         },
       ],
     };
@@ -76,46 +123,120 @@ export default {
           :to="{ path: '/links', query: { collection: item.name } }"
         >
           <h6 class="fw-bold">{{ item.name }}</h6>
-          <small>{{ item.count }} links</small>
+          <small class="items_links">{{ item.count }} links</small>
         </router-link>
       </div>
     </div>
 
     <!-- Featured Links -->
 
-    <h2 class="text-center my-4">Featured Resources</h2>
-    <div class="row align-items-start">
+    <div class="row align-items-center">
       <!-- CARD CONTAINER -->
-      <div class="col-12 col-lg-6">
+      <div class="col-12 col-lg-4">
+        <h2 class="my-4">Featured Resources</h2>
         <div class="row g-3">
           <div
-            class="col-12 col-md-6"
+            class="col-12 col-lg-6"
             v-for="(item, index) in featuredLinks"
             :key="index"
           >
-            <div class="card h-100 shadow-sm">
+            <div class="card h-100 shadow-sm featured-resources">
               <div class="card-body d-flex flex-column">
-                <h5 class="card-title">{{ item.title }}</h5>
+                <h5 class="card-title fw-bold">{{ item.title }}</h5>
                 <p class="card-text flex-grow-1">{{ item.description }}</p>
-                <a
-                  :href="item.url"
-                  class="btn btn-outline-primary mt-auto"
-                  target="_blank"
-                >
-                  Visit
-                </a>
+                <a :href="item.url" class="" target="_blank"> Website </a>
               </div>
             </div>
           </div>
         </div>
       </div>
       <!-- IMMAGINE -->
-      <div class="col-12 col-lg-6 d-flex justify-content-center mb-4 mb-lg-0">
+      <div class="col-12 col-lg-4 text-center d-flex justify-content-center mb-4 mb-lg-0">
         <img
-          src="../../assets/img/home/3_hand.png"
+          src="../../assets/img/icons/3_lime_clip.png"
           alt="Aperitools Logo"
           class="img-fluid"
         />
+      </div>
+      <!-- CARD CONTAINER -->
+      <!-- <div class="col-12 col-lg-4">
+        <h2 class="my-4">Featured Resources</h2>
+        <div class="row g-3">
+          <p>
+            Aperitools is a collection of useful tools for data analysis in
+            agronomy, forestry, and environmental sciences. It also includes
+            Python scripts, QGIS extensions, document converters, and even
+            practical techniques for remote fieldwork and survival.
+          </p>
+        </div>
+      </div> -->
+    </div>
+
+    <h2 class="">Games</h2>
+    <p class="">
+      Explore our collection of featured games designed for learning and
+      engagement.
+    </p>
+
+    <div class="row justify-content-center align-items-center gap-2">
+      <!-- IMMAGINE -->
+      <div class="col-12 col-lg-6 text-center">
+        <img
+          src="../../assets/img/icons/5_lime2.png"
+          alt="Aperitools Logo"
+          class=""
+        />
+      </div>
+      <!-- CARD CONTAINER -->
+
+      <div class="row">
+        <div
+          class="col-12 col-lg-3"
+          v-for="(item, index) in games"
+          :key="index"
+        >
+          <div class="card h-100 shadow-sm featured-resources">
+            <div class="card-body">
+              <h5 class="card-title fw-bold">{{ item.title }}</h5>
+              <p class="card-text flex-grow-1">{{ item.description }}</p>
+              <a :href="item.url" class="" target="_blank"> Website </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <h2 class="">Curiosities</h2>
+    <p class="">
+      Explore our collection of featured games designed for learning and
+      engagement.
+    </p>
+
+    <div class="row justify-content-center align-items-center gap-2">
+      <!-- IMMAGINE -->
+      <div class="col-12 col-lg-6 text-center">
+        <img
+          src="../../assets/img/icons/6_pata2.png"
+          alt="Aperitools Logo"
+          class="pata"
+        />
+      </div>
+      <!-- CARD CONTAINER -->
+
+      <div class="row">
+        <div
+          class="col-12 col-lg-3"
+          v-for="(item, index) in curiosities"
+          :key="index"
+        >
+          <div class="card h-100 shadow-sm featured-resources">
+            <div class="card-body">
+              <h5 class="card-title fw-bold">{{ item.title }}</h5>
+              <p class="card-text flex-grow-1">{{ item.description }}</p>
+              <a :href="item.url" class="" target="_blank"> Website </a>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -123,6 +244,10 @@ export default {
 
 <style scoped>
 img {
-  width: 90%;
+  width: 70%;
+}
+
+.pata {
+  width: 40%;
 }
 </style>

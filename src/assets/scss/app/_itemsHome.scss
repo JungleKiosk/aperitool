@@ -8,6 +8,10 @@
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   cursor: pointer;
 
+  .items_links{
+    color: #003366;
+  }
+
   &:hover {
     transform: scale(1.05);
     background-color: #dbefff; // Colore più intenso all'hover
@@ -18,7 +22,20 @@
     color: #003366;
   }
 
-  small {
-    color: #555;
+}
+
+.featured-resources{
+  background-color: #f0f8ff;
+  transition: transform 0.2s ease, background-color 0.3s ease;
+  cursor: pointer;
+
+  &:hover {
+    background-color: #dbefff;
+    transform: scale(1.05);
   }
+
+  h5 {
+    color: #003366;
+  }
+
 }

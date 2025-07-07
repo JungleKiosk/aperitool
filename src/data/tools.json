@@ -150,5 +150,13 @@
     "links": "https://omatsuri.app/",
     "tags": ["Events", "Management"],
     "filename": 0
+  },
+  {
+    "id": "20",
+    "name": "Maps3D",
+    "description": "A 3D map editor for creating and visualizing geographic data.",
+    "links": "https://maps3d.io/editor",
+    "tags": ["3D Maps", "Geographic Data", "Editor"],
+    "filename": 0
   }
 ]

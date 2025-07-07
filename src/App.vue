@@ -9,7 +9,7 @@ export default {
   },
   data() {
     return {
-      isDarkMode: false // default value for dark mode
+      isDarkMode: false
     };
   },
 };
@@ -19,7 +19,6 @@ export default {
   <div id="app">
     <Navbar />
     <Header></Header>
-    
     <router-view />
     <Footer />
   </div>

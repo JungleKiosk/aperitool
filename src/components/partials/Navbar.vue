@@ -34,7 +34,7 @@ export default {
 </script>
 
 <template>
-  <nav class="navbar justify-content-center">
+  <nav class="navbar justify-content-center p-4">
     <ul>
       <li><router-link to="/">Home</router-link></li>
       <li><router-link to="/tools">Tools</router-link></li>
@@ -42,7 +42,7 @@ export default {
       <li>
         <!-- ✅ Bottone per cambiare tema -->
         <button @click="toggleTheme" class="theme-button rounded-5">
-          {{ isDarkMode ? 'L' : 'D' }}
+          {{ isDarkMode ? 'Light' : 'Dark' }}
         </button>
       </li>
 <!--       <li>
