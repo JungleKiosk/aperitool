@@ -13,6 +13,29 @@ export default {
           description: "Official QGIS certification resources.",
         },
         {
+          title: "Deepnote",
+          url: "https://deepnote.com/docs/getting-started",
+          description: "Collaborative data science notebooks.",
+        },
+        {
+          title: "How to use Google Colab",
+          url: "https://www.geeksforgeeks.org/how-to-use-google-colab/",
+          description:
+            "A comprehensive guide on using Google Colab for data science.",
+        },
+        {
+          title: "PyQGIS Masterclass",
+          url: "https://courses.spatialthoughts.com/pyqgis-masterclass.html#introduction",
+          description: "Advanced QGIS automation with Python.",
+        },
+      ],
+      featuredLinks_2: [
+        {
+          title: "QGIS Certification",
+          url: "https://deepnote.com/docs/getting-started",
+          description: "Official QGIS certification resources.",
+        },
+        {
           title: "Free Geodata APIs",
           url: "https://www.freepublicapis.com/tags/geodata",
           description: "Explore APIs for geospatial data.",
@@ -100,10 +123,10 @@ export default {
     <!-- Header -->
     <div class="row justify-content-center mb-5">
       <div class="col-12 col-lg-6">
-        <p class="display-1 text-center text-lg-start">
+        <p class="display-1 text-lg-start">
           Explore tools and resources
         </p>
-        <p class="display-6 text-center text-lg-start">
+        <p class="display-6 text-lg-start">
           Download ZIP with scripts and documentation
         </p>
         <p>
@@ -130,7 +153,7 @@ export default {
 
     <!-- Featured Links -->
 
-    <div class="row align-items-center">
+    <div class="row align-items-center mb-5">
       <!-- CARD CONTAINER -->
       <div class="col-12 col-lg-4">
         <h2 class="my-4">Featured Resources</h2>
@@ -151,7 +174,9 @@ export default {
         </div>
       </div>
       <!-- IMMAGINE -->
-      <div class="col-12 col-lg-4 text-center d-flex justify-content-center mb-4 mb-lg-0">
+      <div
+        class="col-12 col-lg-4 text-center d-flex justify-content-center mb-4 mb-lg-0"
+      >
         <img
           src="../../assets/img/icons/3_lime_clip.png"
           alt="Aperitools Logo"
@@ -159,17 +184,24 @@ export default {
         />
       </div>
       <!-- CARD CONTAINER -->
-      <!-- <div class="col-12 col-lg-4">
-        <h2 class="my-4">Featured Resources</h2>
+      <div class="col-12 col-lg-4">
+        <h2 class="my-4">Utilities</h2>
         <div class="row g-3">
-          <p>
-            Aperitools is a collection of useful tools for data analysis in
-            agronomy, forestry, and environmental sciences. It also includes
-            Python scripts, QGIS extensions, document converters, and even
-            practical techniques for remote fieldwork and survival.
-          </p>
+          <div
+            class="col-12 col-lg-6"
+            v-for="(item, index) in featuredLinks_2"
+            :key="index"
+          >
+            <div class="card h-100 shadow-sm featured-resources">
+              <div class="card-body d-flex flex-column">
+                <h5 class="card-title fw-bold">{{ item.title }}</h5>
+                <p class="card-text flex-grow-1">{{ item.description }}</p>
+                <a :href="item.url" class="" target="_blank"> Website </a>
+              </div>
+            </div>
+          </div>
         </div>
-      </div> -->
+      </div>
     </div>
 
     <h2 class="">Games</h2>
@@ -178,7 +210,7 @@ export default {
       engagement.
     </p>
 
-    <div class="row justify-content-center align-items-center gap-2">
+    <div class="row justify-content-center align-items-center gap-2 mb-5">
       <!-- IMMAGINE -->
       <div class="col-12 col-lg-6 text-center">
         <img

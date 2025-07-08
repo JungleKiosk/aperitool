@@ -433,8 +433,8 @@
       ]
     },
     {
-      "name": "Cadastral",
-      "collection": "Cadastral",
+      "name": "Cad",
+      "collection": "Cad",
       "data": [
         {
           "id": 1,
@@ -2509,124 +2509,6 @@
           "url": "https://www.youtube.com/watch?v=J2bb6wRcQiI",
           "description": "A YouTube video related to the topic.",
           "tags": ["YouTube", " Limitless Ai"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        }
-      ]
-    },
-    {
-      "name": "varie - ciao",
-      "collection": "varie - ciao",
-      "data": [
-        {
-          "id": 1,
-          "title": "VUOTO ⚠️",
-          "url": "",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie", "vuoto"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 2,
-          "title": "VUOTO ⚠️",
-          "url": "",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie", "vuoto"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 112,
-          "title": "Link 112 ⛵⛵⛵⛵",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7308816887302250496-iUuQ?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 123,
-          "title": "Link 123 ⛵⛵⛵⛵",
-          "url": "https://www.linkedin.com/posts/geoinnova-formacion_qgis-gis-geografaeda-ugcPost-7310587720723001345-HQcV?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-
-        {
-          "id": 166,
-          "title": "Link 166 ⛵⛵⛵⛵",
-          "url": "https://www.linkedin.com/posts/matthew-f-mccabe_gnss-sar-eo-ugcPost-7322166958622203904-j2QA?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 167,
-          "title": "Link 167 ⛵⛵⛵⛵",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-activity-7322240224460177408-wK2F?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-
-        {
-          "id": 184,
-          "title": "Link 184 ⛵⛵⛵⛵",
-          "url": "https://www.linkedin.com/posts/hayleencid_teledetecciaejn-nasa-cursogratuito-activity-7324145690673123330-2emE?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 242,
-          "title": "Link 242 ⛵⛵⛵⛵",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-ugcPost-7322240145078792192-D-3P?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 243,
-          "title": "Link 243 ⛵⛵⛵⛵",
-          "url": "https://youtu.be/uQyz-pc1fWU?si=mSACTojrlebzNyBp",
-          "description": "Contenuto web: uQyz pc1fWU...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 244,
-          "title": "Link 244 ⛵⛵⛵⛵",
-          "url": "https://youtu.be/Y53FaIjH9dk?si=n_6o1J74-vO_1C3a",
-          "description": "Contenuto web: Y53FaIjH9dk...",
-          "tags": ["varie"],
-          "download": 0,
-          "download_mode": "N/A",
-          "stato": ["open"]
-        },
-        {
-          "id": 251,
-          "title": "Link 251 ⛵⛵⛵⛵",
-          "url": "https://www.linkedin.com/posts/rammcodes_html-css-javascript-ugcPost-7330926737452589056-YxS3?utm_source=share&utm_medium=member_ios&rcm=ACoAAELnuhMBDME4t0WscU8_Qrf6IuV1CR_ugsc",
-          "description": "Post LinkedIn relativo a un corso o contenuto professionale.",
-          "tags": ["varie"],
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
