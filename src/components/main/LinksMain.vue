@@ -163,7 +163,7 @@ export default {
             :key="item.id"
             class="col-12 col-md-6 col-lg-4"
           >
-            <div class="card h-100 shadow-sm">
+            <div class="card card_color h-100 shadow-sm">
               <div class="card-body d-flex flex-column">
                 <small class="">{{ col.name }}</small>
                 <hr />
@@ -185,9 +185,9 @@ export default {
                   v-if="item.url"
                   :href="item.url"
                   target="_blank"
-                  class="btn btn-primary btn-sm mt-auto"
+                  class="btn btn_fr"
                 >
-                  Visit Site
+                  Website
                 </a>
               </div>
             </div>

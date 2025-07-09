@@ -10,43 +10,45 @@
 @use "./app/_itemsHome.scss" as *;
 
 body {
-  background-color: $bg_body;
-  color: $light;
+  background-color: $light2;
+  color: $txtlight;
   font-family: monospace;
   overflow-x: hidden;
   max-width: 100%;
   padding-top: 50px;
 
   .jumbotron {
-    background: $sky_night;
+    background: $sky_day;
     color: $light;
     text-align: center;
     border-radius: 10px;
   }
 
   .card_color {
-    background-color: $card_dark;
-    color: white;
+    background-color: $neutral;
+    color: $txtlight;
+    transition: transform 0.2s ease, background-color 0.3s ease;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   }
 }
 
 body::-webkit-scrollbar {
-  width: 5px;
+  width: 8px;
 }
 
 body::-webkit-scrollbar-thumb {
-  background-color: #1dc0bb;
+  background-color: $notalight;
   height: 123px;
 }
 
 body::-webkit-scrollbar-thumb:hover {
-  background-color: #ffc400;
+  background-color: $notadark;
   border-radius: 20px;
 }
 
-body::-webkit-scrollbar-track {
-  border-left: 1px solid #168e8a;
-}
+/* body::-webkit-scrollbar-track {
+  border-left: 1px solid $notadark;
+} */
 
 .app {
   html,
@@ -110,4 +112,15 @@ body.dark-mode .theme-button {
 .btn_blulight:hover {
   color: $light;
   background-color: $blulight;
+}
+
+.btn_fr {
+  background-color: $notalight;
+  font-weight: bold;
+  color: $txtlight;
+}
+.btn_fr:hover {
+  background-color: $notalight_hover;
+  font-weight: bold;
+  color: $txtlight;
 }

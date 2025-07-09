@@ -41,8 +41,8 @@ export default {
       <li><router-link to="/links">Links</router-link></li>
       <li>
         <!-- ✅ Bottone per cambiare tema -->
-        <button @click="toggleTheme" class="theme-button rounded-5">
-          {{ isDarkMode ? 'Light' : 'Dark' }}
+        <button @click="toggleTheme" class="btn_mood rounded-5">
+          {{ isDarkMode ? 'Dark' : 'Light' }}
         </button>
       </li>
 <!--       <li>

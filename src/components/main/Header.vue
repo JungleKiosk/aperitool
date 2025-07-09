@@ -11,7 +11,7 @@ export default {
       <div class="row justify-content-center align-items-center pt-3">
         <div class="col-4 col-lg-3">
           <div class="title-container">
-            <h1 class="display-1 fw-bold">Aperitools</h1>
+            <h1 class="display-1 fw-bold">Aperitool</h1>
           </div>
         </div>
         <div class="col-1 col-lg-1">

@@ -148,7 +148,7 @@ export default {
             <!-- Download ZIP file -->
             <a
               v-if="tool.filename && tool.filename !== 0"
-              class="btn btn-primary btn-sm mt-auto"
+              class="btn btn_fr btn-sm mt-auto"
               :href="`/aperitool/tools/${tool.filename}`"
               download
             >
