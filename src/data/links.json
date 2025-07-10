@@ -747,6 +747,26 @@
           "download": "",
           "download_mode": "",
           "stato": ["open"]
+        },
+        {
+          "id": 12,
+          "title": "LUCAS 2009 Topsoil Data",
+          "url": "https://esdac.jrc.ec.europa.eu/content/lucas-2009-topsoil-data",
+          "description": "Dataset from the first LUCAS soil sampling in 2009.",
+          "tags": ["LUCAS", "Topsoil", "2009", "Europe"],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": ["open"]
+        },
+        {
+          "id": 13,
+          "title": "LUCAS 2015 Topsoil Data",
+          "url": "https://esdac.jrc.ec.europa.eu/content/lucas2015-topsoil-data",
+          "description": "Data from the 2015 LUCAS soil survey.",
+          "tags": ["LUCAS", "Topsoil", "2015", "EU Soil"],
+          "download": 1,
+          "download_mode": "Request From 📩",
+          "stato": ["open"]
         }
       ]
     },
@@ -2290,8 +2310,8 @@
       ]
     },
     {
-      "name": "NERDY",
-      "collection": "NERDY",
+      "name": "Nerdy",
+      "collection": "Nerdy",
       "data": [
         {
           "id": 1,
@@ -2325,9 +2345,9 @@
         },
         {
           "id": 4,
-          "title": "YouTube Shorts - Fun Content",
+          "title": "YouTube Shorts",
           "url": "https://youtube.com/shorts/YCWredszNd4?si=zI-44wocPCI1aZhU",
-          "description": "Watch this fun YouTube Shorts video.",
+          "description": "flame that lasts over 100 hour",
           "tags": ["YouTube"],
           "download": 0,
           "download_mode": "",
@@ -2385,7 +2405,7 @@
         },
         {
           "id": 10,
-          "title": "Deutsch Audio",
+          "title": "Free Deutsch Audio",
           "url": "https://www.alphabeta.it/de/dialog-deutsch-199.html",
           "description": "",
           "tags": ["varie"],

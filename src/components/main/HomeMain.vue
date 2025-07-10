@@ -29,11 +29,63 @@ export default {
           description: "Advanced QGIS automation with Python.",
         },
       ],
+      myprog: [
+        {
+          id: 0,
+          num_tutorial: "LUCAS 2022",
+          link: "https://junglekiosk.github.io/Eurostat_LUCASproject_2022/",
+        },
+        {
+          id: 1,
+          num_tutorial: "Forest Suitability",
+          link: "https://junglekiosk.github.io/QGIS_forest_suitability/",
+        },
+        {
+          id: 2,
+          num_tutorial: "bioNRG",
+          link: "https://junglekiosk.github.io/dNRG/",
+        },
+        {
+          id: 3,
+          num_tutorial: "Soil Degradation",
+          link: "https://junglekiosk.github.io/QGIS_SoilDegradation/",
+        },
+        {
+          id: 4,
+          num_tutorial: "Chestnut Zoning",
+          link: "https://junglekiosk.github.io/QGIS_zoning/",
+        },
+        {
+          id: 5,
+          num_tutorial: "Soil Texture map",
+          link: "https://junglekiosk.github.io/QGIS_SoilTexture/",
+        },
+        {
+          id: 6,
+          num_tutorial: "Hydro QGIS & GRASS",
+          link: "https://www.youtube.com/playlist?list=PLXUPdtoR2ulhJICR6vWhyu6jiJQ1SsTzR",
+        },
+        {
+          id: 7,
+          num_tutorial: "FREEWAT-Q3",
+          link: "https://junglekiosk.github.io/Freewat_GettingStarted/",
+        },
+        {
+          id: 8,
+          num_tutorial: "NDVI & CIgreen",
+          link: "https://junglekiosk.github.io/QGIS_RS_NDVI_CIgreen/",
+        },
+        {
+          id: 9,
+          num_tutorial: "VueLeaflet",
+          link: "https://junglekiosk.github.io/VueLeaflet/",
+        },
+      ],
       utilities: [
         {
-          title: "QGIS Certification",
-          url: "https://deepnote.com/docs/getting-started",
-          description: "Official QGIS certification resources.",
+          title: "ISO",
+          url: "https://github.com/JungleKiosk/iso/tree/main",
+          description: "Download: ISO Standards for Soil Quality",
         },
         {
           title: "Free Geodata APIs",
@@ -41,11 +93,10 @@ export default {
           description: "Explore APIs for geospatial data.",
         },
         {
-          title: "How to use Google Colab",
-          url: "https://www.geeksforgeeks.org/how-to-use-google-colab/",
-          description:
-            "A comprehensive guide on using Google Colab for data science.",
-        }
+          title: "Hackernoon",
+          url: "https://hackernoon.com/c",
+          description: "A platform for tech stories and tutorials.",
+        },
       ],
       games: [
         {
@@ -124,12 +175,11 @@ export default {
         </p>
         <p>
           Aperitool is a versatile and growing knowledge base for data analysis
-          in agronomy, forestry, and environmental sciences.
+          in agronomy, forestry, and environmental sciences — and beyond.
           <br />
-          It offers Python scripts, QGIS plugins, transcription tools (like
-          Whisper), and other practical utilities to support both fieldwork and
-          data preprocessing tasks — from raw text cleanup to remote sensing and
-          survival strategies.
+          It offers Python scripts, QGIS plugins, Audio Transcription tool and
+          other practical utilities to support both fieldwork and data
+          preprocessing tasks — easing pressure with survival strategies!
         </p>
       </div>
       <div
@@ -149,10 +199,10 @@ export default {
 
     <!-- Featured Links -->
 
-    <div class="row align-items-center mb-5">
-      <!-- CARD CONTAINER -->
+    <div class="row align-items-start mb-5">
+      <!-- Featured Resources -->
       <div class="col-12 col-lg-4">
-        <h2 class="my-4">Featured Resources</h2>
+        <h2 class="mb-4">Featured Resources</h2>
         <div class="row g-3">
           <div
             class="col-12 col-lg-6"
@@ -171,9 +221,10 @@ export default {
           </div>
         </div>
       </div>
-      <!-- IMMAGINE -->
+
+      <!-- Image -->
       <div
-        class="col-12 col-lg-4 text-center d-flex justify-content-center mt-4-sm"
+        class="col-12 col-lg-4 text-center d-flex justify-content-center align-items-start"
       >
         <img
           src="../../assets/img/icons/3_lime_clip.png"
@@ -181,11 +232,21 @@ export default {
           class="img-fluid"
         />
       </div>
-      <!-- CARD CONTAINER -->
-      <div class="col-12 col-lg-4">
-        <div class="row g-3">
-          
-        </div>
+
+      <!-- My Projects -->
+      <div class="col-12 col-lg-3">
+        <h2 class="mb-4">My Projects</h2>
+        <ul class="list-unstyled">
+          <li v-for="item in myprog" :key="item.id">
+            <a
+              :href="item.link"
+              target="_blank"
+              class="btn btn_fr mt-1 w-100 text-start"
+            >
+              {{ item.num_tutorial }}
+            </a>
+          </li>
+        </ul>
       </div>
     </div>
 
@@ -196,7 +257,7 @@ export default {
         <img
           src="../../assets/img/icons/5_lime2.png"
           alt="Aperitools Logo"
-          class=""
+          class="utilities"
         />
       </div>
       <!-- CARD CONTAINER -->
@@ -221,18 +282,13 @@ export default {
     </div>
 
     <h2 class="">Games</h2>
-    <p class="">
-      Explore our collection of featured games designed for learning and
-      engagement.
-    </p>
-
     <div class="row justify-content-center align-items-center gap-2 mb-5">
       <!-- IMMAGINE -->
       <div class="col-12 col-lg-6 text-center">
         <img
-          src="../../assets/img/icons/5_lime2.png"
+          src="../../assets/img/icons/sandwich.png"
           alt="Aperitools Logo"
-          class=""
+          class="sandwich"
         />
       </div>
       <!-- CARD CONTAINER -->
@@ -256,14 +312,7 @@ export default {
       </div>
     </div>
 
-    
-
     <h2 class="">Curiosities</h2>
-    <p class="">
-      Explore our collection of featured games designed for learning and
-      engagement.
-    </p>
-
     <div class="row justify-content-center align-items-center gap-2">
       <!-- IMMAGINE -->
       <div class="col-12 col-lg-6 text-center">
@@ -301,6 +350,14 @@ export default {
 <style scoped>
 img {
   width: 70%;
+}
+
+.utilities {
+  width: 50%;
+}
+
+.sandwich {
+  width: 30%;
 }
 
 .pata {

@@ -67,7 +67,7 @@ export default {
 </script>
 
 <template>
-  <div class="container mt-5">
+  <div class="container my-5">
     <div class="container_filters_tools">
       <div class="col-12 col-lg-6">
         <div class="flex-grow-1 d-flex">
