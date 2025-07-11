@@ -1,5 +1,7 @@
 # 🍹 Aperitool
 
+# https://junglekiosk.github.io/aperitool/
+
 **Aperitool** is a growing and versatile knowledge base designed to support data analysis in **agronomy**, **forestry**, **soil science**, **remote sensing**, and **environmental studies** - and beyond.
 
 It includes:
