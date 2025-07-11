@@ -150,6 +150,15 @@ export default {
     this.extractCollections();
   },
   methods: {
+    trackClick(tutorialName) {
+      if (typeof gtag === "function") {
+        gtag("event", "click_progetto", {
+          event_category: "My Projects",
+          event_label: tutorialName,
+          value: 1,
+        });
+      }
+    },
     extractCollections() {
       if (Array.isArray(linksData.links)) {
         this.collections = linksData.links.map((section) => {
@@ -242,6 +251,7 @@ export default {
               :href="item.link"
               target="_blank"
               class="btn btn_fr mt-1 w-100 text-start"
+              @click="trackClick(item.num_tutorial)"
             >
               {{ item.num_tutorial }}
             </a>
