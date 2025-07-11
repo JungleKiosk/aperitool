@@ -153,7 +153,7 @@ export default {
     trackClick(projectName, projectId) {
       if (typeof gtag === "function") {
         gtag("event", "click_progetto", {
-          event_category: "My Projects",
+          event_category: "MyProjects",
           event_label: `${projectName} (${projectId})`,
           value: 1,
         });
@@ -251,7 +251,7 @@ export default {
               :href="item.link"
               target="_blank"
               class="btn btn_fr mt-1 w-100 text-start"
-              @click="trackClick(item.num_tutorial)"
+              @click="trackClick(item.num_tutorial, item.id)"
             >
               {{ item.num_tutorial }}
             </a>
