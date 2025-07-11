@@ -47,18 +47,19 @@ export default {
         },
         {
           id: 3,
+          num_tutorial: "Soil Texture map",
+          link: "https://junglekiosk.github.io/QGIS_SoilTexture/",
+        },
+        {
+          id: 4,
+
           num_tutorial: "Soil Degradation",
           link: "https://junglekiosk.github.io/QGIS_SoilDegradation/",
         },
         {
-          id: 4,
+          id: 5,
           num_tutorial: "Chestnut Zoning",
           link: "https://junglekiosk.github.io/QGIS_zoning/",
-        },
-        {
-          id: 5,
-          num_tutorial: "Soil Texture map",
-          link: "https://junglekiosk.github.io/QGIS_SoilTexture/",
         },
         {
           id: 6,

@@ -61,7 +61,7 @@ export default {
 
         return matchesText && matchesTag && matchesDownload;
       });
-    },
+    }
   },
 };
 </script>
@@ -78,7 +78,7 @@ export default {
             class="form-control me-2"
             placeholder="Search..."
           />
-          <button class="btn btn-warning mx-2" @click="resetAllFilters">
+          <button class="btn btn_all mx-2" @click="resetAllFilters">
             All
           </button>
         </div>
@@ -102,8 +102,8 @@ export default {
               <button
                 v-for="tag in allTags"
                 :key="tag"
-                class="btn mx-1"
-                :class="selectedTag === tag ? 'btn-primary' : 'btn_blulight'"
+                class="badge rounded-3 border-0 tags_page mx-1"
+                :class="{ active: selectedTag === tag }"
                 @click="filterByTag(tag)"
               >
                 {{ tag }}

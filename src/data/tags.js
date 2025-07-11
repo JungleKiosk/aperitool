@@ -1,13 +1,22 @@
 export const groupedTags = [
   {
-    category: "EU",
+    category: "GIS",
     tags: [
-      { name: "EU" },
-      { name: "LUCAS" },
-      { name: "INSPIRE" },
-      { name: "NUTS" },
-      { name: "Copernicus" },
-      { name: "ESDAC" },
+      { name: "QGIS" },
+      { name: "ArcGIS" },
+      { name: "GISCO" },
+      { name: "Google Maps" },
+    ],
+  },
+  {
+    category: "RS",
+    tags: [
+      { name: "DEM" },
+      { name: "DTM" },
+      { name: "LIDAR" },
+      { name: "LiDAR" },
+      { name: "Remote Sensing" },
+      { name: "Topography" },
     ],
   },
   {
@@ -25,18 +34,7 @@ export const groupedTags = [
     ],
   },
   {
-    category: "Remote Sensing",
-    tags: [
-      { name: "DEM" },
-      { name: "DTM" },
-      { name: "LIDAR" },
-      { name: "LiDAR" },
-      { name: "Remote Sensing" },
-      { name: "Topography" },
-    ],
-  },
-  {
-    category: "Programming and Data Science",
+    category: "Prog",
     tags: [
       { name: "Python" },
       { name: "R" },
@@ -53,26 +51,28 @@ export const groupedTags = [
       { name: "SensorThingsAPI" },
       { name: "OGC" },
       { name: "UML" },
-      { name: "CodeList" }
+      { name: "CodeList" },
     ],
   },
   {
-    category: "GIS",
-    tags: [
-      { name: "QGIS" },
-      { name: "ArcGIS" },
-      { name: "GISCO" },
-      { name: "Google Maps" },
-    ],
-  },
-  {
-    category: "Open Data",
+    category: "OpenData",
     tags: [
       { name: "Open Data" },
       { name: "Portal" },
       { name: "GitHub" },
       { name: "Open Source" },
       { name: "Environmental Data" },
+    ],
+  },
+  {
+    category: "EU",
+    tags: [
+      { name: "EU" },
+      { name: "LUCAS" },
+      { name: "INSPIRE" },
+      { name: "NUTS" },
+      { name: "Copernicus" },
+      { name: "ESDAC" },
     ],
   },
   {
@@ -88,7 +88,6 @@ export const groupedTags = [
       { name: "FAO" },
       { name: "NRCS" },
       { name: "SDM" },
-
     ],
   },
 ];

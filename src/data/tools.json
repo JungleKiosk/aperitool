@@ -19,7 +19,7 @@
     "name": "USDA Soil Texture Classifier",
     "description": "Python tool for QGIS that classifies soil samples into USDA texture classes (e.g., Clay, Sandy Loam, Silty Clay Loam) based on sand, silt, and clay percentages.",
     "links": "https://junglekiosk.github.io/QGIS_SoilTexture/",
-    "tags": ["QGIS", "Soil Texture", "USDA"],
+    "tags": ["QGIS"],
     "filename": "soiltext.zip"
   },
   {
@@ -27,7 +27,7 @@
     "name": "SoilGrids Global Soil Data",
     "description": "SoilGrids provides global soil property maps based on machine learning models, offering predictions for sand, silt, clay content, pH, organic carbon, and more at multiple depths.",
     "links": "https://soilgrids.org/",
-    "tags": ["Global Data", "Soil Mapping", "ISRIC"],
+    "tags": ["Soil Mapping"],
     "filename": 0
   },
   {
@@ -35,7 +35,7 @@
     "name": "Transcripter Audio with Whisper 🗣️📝",
     "description": "This project uses OpenAI's Whisper to transcribe audio files into text in Google Colab",
     "links": "https://github.com/JungleKiosk/whisper_gcolab_localaudio?tab=readme-ov-file#transcription-project-with-whisper-shipit",
-    "tags": ["Python", "Whisper", "Audio", "Transcription"],
+    "tags": ["Python"],
     "filename": 0
   },
   {
@@ -43,7 +43,7 @@
     "name": "Down For Everyone Or Just Me?",
     "links": "https://downforeveryoneorjustme.com/",
     "description": "Check if a website is down for everyone or just you.",
-    "tags": ["Website Status"],
+    "tags": ["Dev"],
     "filename": 0
   },
   {
@@ -51,7 +51,7 @@
     "name": "Chat2Geo",
     "links": "https://chat2geo.georetina.ai/",
     "description": "A tool for converting chat messages into geospatial data.",
-    "tags": ["Chat", "Geospatial", "Data"],
+    "tags": ["AI"],
     "filename": 0
   },
   {
@@ -59,7 +59,7 @@
     "name": "LaTeX OCR",
     "links": "https://github.com/lukas-blecher/LaTeX-OCR",
     "description": "A tool for OCR processing of LaTeX documents.",
-    "tags": ["OCR", "LaTeX"],
+    "tags": ["GitHub"],
     "filename": 0
   },
   {
@@ -67,7 +67,7 @@
     "name": "Google Index Checker",
     "links": "https://idx.google.com/",
     "description": "Check if a links is indexed by Google.",
-    "tags": ["SEO", "Google", "Indexing"],
+    "tags": ["Google"],
     "filename": 0
   },
   {
@@ -75,7 +75,7 @@
     "name": "OpenStreetMap Overpass Turbo",
     "links": "https://overpass-turbo.eu/",
     "description": "A web-based tool for querying and visualizing OpenStreetMap data.",
-    "tags": ["OpenStreetMap", "Data Query", "Visualization"],
+    "tags": ["OpenStreetMap"],
     "filename": 0
   },
   {
@@ -83,7 +83,7 @@
     "name": "Numbers and Roads",
     "links": "https://github.com/ondata/archivio_anncsu",
     "description": "Street and Address Book of the National Archives of Civic Numbers and Roads (ANCSU) in Italy.",
-    "tags": ["Archive", "Italian Addresses", "ANCSU"],
+    "tags": ["GitHub"],
     "filename": 0
   },
   {
@@ -91,7 +91,7 @@
     "name": "Web Skills",
     "links": "https://andreasbm.github.io/web-skills/",
     "description": "A visual guide to web development skills and technologies.",
-    "tags": ["Web Development", "Skills", "Guide"],
+    "tags": ["Dev", "GitHub"],
     "filename": 0
   },
   {
@@ -99,7 +99,7 @@
     "name": "Coordinate Polygon",
     "description": "Extract coordinates from polygons in Shapefiles and export them to CSV format",
     "links": "",
-    "tags": ["QGIS", "coordinate", "CSV"],
+    "tags": ["QGIS", "CSV"],
     "filename": "poly_coordinates.zip"
   },
   {
@@ -107,7 +107,7 @@
     "name": "Google Sheets - GIS Database Repository for Disaster Risk",
     "description": "GIS Database Repository for Disaster Risk, Emergency Response, and Resilience Planning",
     "links": "https://docs.google.com/spreadsheets/d/1HIQdo_K5F3eft_6OmWhYpVke8ZB1na5fhwlgHiPJlUo/edit?gid=732745858#gid=732745858",
-    "tags": ["QGIS", "Databas", "xlsx"],
+    "tags": ["QGIS", "Google"],
     "filename": "DisasterRiskDatabase.zip"
   },
   {
@@ -115,7 +115,7 @@
     "name": "Geocoder CartoCiudad",
     "description": "A tool for geocoding addresses in QGIS.",
     "links": "https://mappinggis.com/2025/03/geocoder-cartociudad-herramienta-para-geocodificar-en-qgis/",
-    "tags": ["QGIS", "Geocoding"],
+    "tags": ["QGIS"],
     "filename": 0
   }
   ,
@@ -124,7 +124,7 @@
     "name": "Deepnote",
     "description": "A collaborative data science notebook platform.",
     "links": "https://deepnote.com/",
-    "tags": ["Data Science", "Collaboration", "Notebooks"],
+    "tags": ["Data Science"],
     "filename": 0
   },
   {
@@ -132,7 +132,7 @@
     "name": "Liam's Toolbox",
     "description": "A collection of tools and resources for developers.",
     "links": "https://liambx.com/",
-    "tags": ["Web", "Tools"],
+    "tags": ["Dev"],
     "filename": 0
   },
   {
@@ -140,7 +140,7 @@
     "name": "Vert",
     "description": "The file converter you'll love.",
     "links": "https://vert.sh/",
-    "tags": ["Python", "Virtual Environments"],
+    "tags": ["Python"],
     "filename": 0
   },
   {
@@ -148,7 +148,7 @@
     "name": "Omatsuri",
     "description": "A tool for creating and managing online events.",
     "links": "https://omatsuri.app/",
-    "tags": ["Events", "Management"],
+    "tags": ["Management"],
     "filename": 0
   },
   {
@@ -156,7 +156,7 @@
     "name": "Maps3D",
     "description": "A 3D map editor for creating and visualizing geographic data.",
     "links": "https://maps3d.io/editor",
-    "tags": ["3D Maps", "Geographic Data", "Editor"],
+    "tags": ["3D Maps"],
     "filename": 0
   }
 ]

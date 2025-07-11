@@ -307,8 +307,8 @@
       ]
     },
     {
-      "name": "Remote Sensing",
-      "collection": "Remote Sensing",
+      "name": "RS",
+      "collection": "RS",
       "data": [
         {
           "id": 1,
@@ -1064,6 +1064,142 @@
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
+        },
+        {
+          "id": 4,
+          "title": "gee - AOGCM CMIP6",
+          "url": "https://gee-community-catalog.org/projects/aogcm_cmip6/",
+          "description": "AOGCM CMIP6 data access and processing using Google Earth Engine.",
+          "tags": ["climate", "GEE", "AOGCM", "CMIP6"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 5,
+          "title": "Copernicus Climate Data Store (CDS)",
+          "url": "https://cds.climate.copernicus.eu/",
+          "description": "Access and download climate datasets, including reanalysis, seasonal forecasts, and projections.",
+          "tags": ["climate", "Copernicus", "CDS", "Europe", "dataset"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 6,
+          "title": "IPCC – Intergovernmental Panel on Climate Change",
+          "url": "https://www.ipcc.ch/",
+          "description": "Official reports and scientific assessments on climate change and its impacts.",
+          "tags": ["climate", "IPCC", "reports", "global", "policy"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 7,
+          "title": "NASA Climate Change",
+          "url": "https://climate.nasa.gov/",
+          "description": "NASA portal with data visualizations, trends, and news about Earth's climate.",
+          "tags": ["climate", "NASA", "data", "visualization", "global"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 8,
+          "title": "NOAA Climate.gov",
+          "url": "https://www.climate.gov/",
+          "description": "U.S. government's climate data and educational resources.",
+          "tags": ["climate", "NOAA", "USA", "education", "data"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 9,
+          "title": "Global Carbon Atlas",
+          "url": "https://www.globalcarbonatlas.org/",
+          "description": "Interactive platform for exploring CO₂ emissions and sinks worldwide.",
+          "tags": ["climate", "carbon", "CO2", "atlas", "global"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 10,
+          "title": "Climate Data Gateway (NCAR)",
+          "url": "https://www.earthsystemgrid.org/",
+          "description": "Portal to access large-scale Earth system model datasets.",
+          "tags": ["climate", "NCAR", "models", "data", "EarthSystemGrid"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 11,
+          "title": "Berkeley Earth – Global Temperature Data",
+          "url": "http://berkeleyearth.org/data/",
+          "description": "Historical global temperature datasets developed independently.",
+          "tags": [
+            "climate",
+            "temperature",
+            "Berkeley Earth",
+            "historical",
+            "data"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 12,
+          "title": "Our World in Data – Climate",
+          "url": "https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions",
+          "description": "Open data and visualizations on CO₂ and greenhouse gas emissions.",
+          "tags": ["climate", "CO2", "data", "OurWorldInData", "emissions"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 13,
+          "title": "WorldClim – High Resolution Climate Data",
+          "url": "https://www.worldclim.org/",
+          "description": "Gridded climate data for ecological modeling and GIS applications.",
+          "tags": ["climate", "WorldClim", "GIS", "gridded", "modeling"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 14,
+          "title": "Carbon Brief – Climate Science Explained",
+          "url": "https://www.carbonbrief.org/",
+          "description": "Clear explanations and deep dives into climate science and policy.",
+          "tags": ["climate", "Carbon Brief", "science", "policy", "articles"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 15,
+          "title": "ISPRA – Cambiamenti Climatici",
+          "url": "https://www.isprambiente.gov.it/it/temi/cambiamenti-climatici",
+          "description": "Informazioni, indicatori e rapporti italiani sui cambiamenti climatici.",
+          "tags": ["climate", "ISPRA", "Italia", "indicatori", "ambiente"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 16,
+          "title": "SNPA – Indicatori Clima",
+          "url": "https://www.snpambiente.it/temi/cambiamenti-climatici/",
+          "description": "Sistema nazionale per il monitoraggio degli impatti climatici in Italia.",
+          "tags": ["climate", "SNPA", "Italia", "monitoraggio", "impatti"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
         }
       ]
     },
@@ -1447,8 +1583,8 @@
       ]
     },
     {
-      "name": "DevProg",
-      "collection": "DevProg",
+      "name": "Dev",
+      "collection": "Dev",
       "data": [
         {
           "id": 1,

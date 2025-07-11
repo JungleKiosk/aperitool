@@ -1,26 +1,54 @@
 @use "../partials/variables" as *;
 
 .container_filters_links {
-    padding-top: 3rem;
-    position: sticky;
-    top: 60px;
-    z-index: 999;
-    background-color: $light2;
+  padding-top: 3rem;
+  position: sticky;
+  top: 60px;
+  z-index: 999;
+  background-color: $light2;
+}
+
+.category-slider::-webkit-scrollbar {
+  width: 5px;
+  border-radius: 20px;
+}
+
+.category-slider::-webkit-scrollbar-thumb {
+  background-color: $notalight;
+  height: 123px;
+  border-radius: 20px;
+}
+
+.category-slider::-webkit-scrollbar-thumb:hover {
+  background-color: $notalight;
+  border-radius: 20px;
+}
+
+.btn_all{
+  background-color: $notalight_hover;
+}
+.btn_all:hover {
+  background-color: $notalight_hover_2;
+}
+
+.collections {
+  background-color:  $notalight;
+}
+
+.collections.active {
+  background-color: $notalight_hover;
+  font-weight: bold;
+}
+
+.tags_page{
+   background-color: #b8f60cab;
+   color: $bg_body2;
   }
   
-  
-  .category-slider::-webkit-scrollbar {
-    width: 5px;
-    border-radius: 20px;
-  }
-  
-  .category-slider::-webkit-scrollbar-thumb {
-    background-color: $notalight;
-    height: 123px;
-    border-radius: 20px;
-  }
-  
-  .category-slider::-webkit-scrollbar-thumb:hover {
-    background-color: $notalight;
-    border-radius: 20px;
-  }
+.tags_page:hover{
+  background-color: #b7f60c;
+}
+
+.modal_style{
+  background-color: $light2;
+}

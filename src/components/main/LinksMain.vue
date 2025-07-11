@@ -102,6 +102,15 @@ export default {
       this.$router.replace({ path: "/links" }); // rimuove la query dalla URL
       this.applyFilters();
     },
+    toggleCollectionFilter(collectionName) {
+      if (this.selectedCollection === collectionName) {
+        // Se clicco di nuovo sulla stessa collection, la deseleziono (comportamento "All")
+        this.selectedCollection = "";
+      } else {
+        this.selectedCollection = collectionName;
+      }
+      this.applyFilters();
+    },
   },
 };
 </script>
@@ -119,10 +128,14 @@ export default {
             class="form-control me-2"
             placeholder="Search..."
           />
-          <button class="btn btn-warning mx-2" @click="resetAllFilters">
+          <button
+            class="btn_all rounded-3 border-0 p-2 mx-2"
+            @click="resetAllFilters"
+          >
             All
           </button>
         </div>
+        <!-- Download Filter -->
         <div class="form-check ms-3">
           <input
             type="checkbox"
@@ -135,16 +148,33 @@ export default {
             Show Only Downloadable
           </label>
         </div>
+        <!-- Collection Filter -->
+        <div class="row">
+          <div class="col-12 mx-1">
+            <span>Collections:</span>
+            <span
+              v-for="col in collections"
+              :key="col.name"
+              class="badge text-dark me-1 mb-1 collections"
+              :class="{ active: selectedCollection === col.name }"
+              style="cursor: pointer"
+              @click="() => toggleCollectionFilter(col.name)"
+            >
+              {{ col.name }}
+            </span>
+          </div>
+        </div>
       </div>
 
       <!-- Category Slider -->
       <div class="row">
         <div class="col-12 filter-slider">
           <div class="category-slider d-flex overflow-auto p-2">
+            <span>Tags:</span>
             <button
               v-for="group in groupedTags"
               :key="group.category"
-              class="btn btn_blulight mx-1"
+              class="btn tags_page mx-1"
               @click="openCategoryModal(group.category)"
             >
               {{ group.category }}
@@ -199,7 +229,7 @@ export default {
     <!-- Modal for Tags -->
     <div
       v-if="showCategoryModal"
-      class="modal fade show"
+      class="modal fade show modal_style"
       tabindex="-1"
       style="display: block; background: rgba(0, 0, 0, 0.5); z-index: 1050"
       @click.self="closeCategoryModal"
@@ -223,7 +253,7 @@ export default {
               <div class="row">
                 <div class="col-2">
                   <span
-                    class="badge bg-info text-dark me-1 mb-1"
+                    class="badge tags_page text-dark me-1 mb-1"
                     style="cursor: pointer"
                     @click="filterByTag(tag.name)"
                   >
