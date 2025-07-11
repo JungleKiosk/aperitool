@@ -150,11 +150,11 @@ export default {
     this.extractCollections();
   },
   methods: {
-    trackClick(tutorialName) {
+    trackClick(projectName, projectId) {
       if (typeof gtag === "function") {
         gtag("event", "click_progetto", {
           event_category: "My Projects",
-          event_label: tutorialName,
+          event_label: `${projectName} (${projectId})`,
           value: 1,
         });
       }
