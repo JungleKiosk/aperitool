@@ -119,7 +119,7 @@ export default {
     <!-- Tools Cards -->
     <div class="row g-4 mt-5">
       <div
-        class="col-6 col-md-4 col-lg-3"
+        class="col-12 col-md-4 col-lg-3"
         v-for="tool in filteredTools"
         :key="tool.id"
       >

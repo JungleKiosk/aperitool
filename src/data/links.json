@@ -1579,6 +1579,16 @@
           "download": 1,
           "download_mode": "PDF 📝",
           "stato": ["open"]
+        },
+        {
+          "id": 37,
+          "title": "COSMOS - Community for Soil Monitoring",
+          "url": "https://cosmos.ceh.ac.uk/",
+          "description": "A community platform for soil monitoring, providing access to soil data and resources.",
+          "tags": ["Soil Monitoring", "COSMOS", "Community"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
         }
       ]
     },
