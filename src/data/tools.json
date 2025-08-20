@@ -75,7 +75,7 @@
     "name": "OpenStreetMap Overpass Turbo",
     "links": "https://overpass-turbo.eu/",
     "description": "A web-based tool for querying and visualizing OpenStreetMap data.",
-    "tags": ["OpenStreetMap"],
+    "tags": ["GIS"],
     "filename": 0
   },
   {
@@ -117,8 +117,7 @@
     "links": "https://mappinggis.com/2025/03/geocoder-cartociudad-herramienta-para-geocodificar-en-qgis/",
     "tags": ["QGIS"],
     "filename": 0
-  }
-  ,
+  },
   {
     "id": "16",
     "name": "Deepnote",
@@ -157,6 +156,14 @@
     "description": "A 3D map editor for creating and visualizing geographic data.",
     "links": "https://maps3d.io/editor",
     "tags": ["3D Maps"],
+    "filename": 0
+  },
+  {
+    "id": "21",
+    "name": "PyDSSTools",
+    "description": "A Python package for working with Digital Soil Mapping and related tasks.",
+    "links": "https://pypi.org/project/pydsstools/",
+    "tags": ["Python"],
     "filename": 0
   }
 ]

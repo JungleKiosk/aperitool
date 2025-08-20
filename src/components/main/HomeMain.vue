@@ -8,16 +8,6 @@ export default {
       collections: [],
       featuredLinks: [
         {
-          title: "QGIS Certification",
-          url: "https://certification.qgis.org/en/",
-          description: "Official QGIS certification resources.",
-        },
-        {
-          title: "Deepnote",
-          url: "https://deepnote.com/docs/getting-started",
-          description: "Collaborative data science notebooks.",
-        },
-        {
           title: "How to use Google Colab",
           url: "https://www.geeksforgeeks.org/how-to-use-google-colab/",
           description:
@@ -27,6 +17,17 @@ export default {
           title: "PyQGIS Masterclass",
           url: "https://courses.spatialthoughts.com/pyqgis-masterclass.html#introduction",
           description: "Advanced QGIS automation with Python.",
+        },
+        {
+          title: "Free Certifications",
+          url: "https://github.com/cloudcommunity/Free-Certifications",
+          description:
+            "A collection of free certifications for various topics.",
+        },
+        {
+          title: "Deepnote",
+          url: "https://deepnote.com/docs/getting-started",
+          description: "Collaborative data science notebooks.",
         },
       ],
       myprog: [
@@ -98,6 +99,11 @@ export default {
           url: "https://hackernoon.com/c",
           description: "A platform for tech stories and tutorials.",
         },
+        {
+          title: "QGIS Certification",
+          url: "https://certification.qgis.org/en/",
+          description: "Official QGIS certification resources.",
+        }
       ],
       games: [
         {
@@ -144,6 +150,17 @@ export default {
           url: "https://go-cart.io/",
           description: "A fun and interactive online go-kart racing game.",
         },
+        {
+          title: "Dijkstra's Shortest Path Algorithm",
+          url: "https://www.geeksforgeeks.org/dsa/dijkstras-shortest-path-algorithm-greedy-algo-7/",
+          description:
+            "Learn about Dijkstra's algorithm for finding the shortest paths between nodes in a graph.",
+        },
+        {
+          title: "Spatial Analysis Periodic Table",
+          url: "https://gisgeography.com/spatial-analysis-periodic-table/",
+          description: "A periodic table of spatial analysis techniques.",
+        }
       ],
     };
   },

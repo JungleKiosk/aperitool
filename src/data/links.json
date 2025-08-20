@@ -303,6 +303,16 @@
           "download": 0,
           "download_mode": "",
           "stato": ["open"]
+        },
+        {
+          "id": 31,
+          "title": "QGIS Drone Flight Planner",
+          "url": "https://plugins.qgis.org/plugins/qgis_drone_flight_planner/",
+          "description": "A QGIS plugin for planning drone flights.",
+          "tags": ["QGIS", "Drone", "Flight Planning"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
         }
       ]
     },
@@ -428,6 +438,36 @@
           "tags": ["GitHub", "Earth Observations", "GEE", "AI"],
           "download": 0,
           "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 22,
+          "title": "MDPI - Remote Sensing",
+          "url": "https://www.mdpi.com/2072-4292/16/12/2080",
+          "description": "Land Cover Classification",
+          "tags": ["MDPI", "Remote Sensing"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        },
+        {
+          "id": 23,
+          "title": "MDPI - Remote Sensing",
+          "url": "https://www.mdpi.com/2072-4292/16/12/2059",
+          "description": "Cooling Potential of Urban Tree Species",
+          "tags": ["MDPI", "Remote Sensing"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        },
+        {
+          "id": 24,
+          "title": "MDPI - Remote Sensing",
+          "url": "https://www.mdpi.com/2072-4292/16/10/1800",
+          "description": "Modeling and Locating the Wind Erosion",
+          "tags": ["MDPI", "Remote Sensing"],
+          "download": 1,
+          "download_mode": "Istant 📥",
           "stato": ["open"]
         }
       ]
@@ -1589,6 +1629,16 @@
           "download": 0,
           "download_mode": "",
           "stato": ["open"]
+        },
+        {
+          "id": 38,
+          "title": "UK Soil Observatory",
+          "url": "https://www.ukso.org/",
+          "description": "A platform providing access to soil data and information for the UK.",
+          "tags": ["Soil Data", "UK", "Observatory"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
         }
       ]
     },
@@ -1983,6 +2033,26 @@
           "url": "https://www.freecodecamp.org/news/beginners-guide-to-penetration-testing-cybersecurity/",
           "description": "A comprehensive guide for beginners on penetration testing in cybersecurity.",
           "tags": ["Cybersecurity", "Penetration Testing", "Guide"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 40,
+          "title": "FossFLOW",
+          "url": "https://github.com/stan-smith/FossFLOW",
+          "description": "A framework for building and deploying geospatial applications.",
+          "tags": ["Framework"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 41,
+          "title": "Vector Tiles (MVT) with pg_tileserv, PostGIS, Leaflet and Python Flask",
+          "url": "https://gisschools.com/course_details.php?title=Vector+Tiles+%28MVT%29+with+pg_tileserv%2C+PostGIS%2C+Leaflet+and+Python+Flask",
+          "description": "A course on using vector tiles with various technologies.",
+          "tags": ["GIS", "PostGIS", "Leaflet", "Python"],
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
@@ -2449,6 +2519,16 @@
           "url": "https://www.freecodecamp.org/news/free-genai-65-hour-bootcamp/",
           "description": "A comprehensive bootcamp on Generative AI.",
           "tags": ["AI", "Bootcamp", "Free"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 47,
+          "title": "Gemini CLI",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "A command-line interface for interacting with the Gemini API.",
+          "tags": ["Gemini"],
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
