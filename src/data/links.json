@@ -313,6 +313,146 @@
           "download": 0,
           "download_mode": "",
           "stato": ["open"]
+        },
+        {
+          "id": 32,
+          "title": "Human Settlement Layer",
+          "url": "https://human-settlement.emergency.copernicus.eu/",
+          "description": "A dataset providing information on human settlements.",
+          "tags": ["Population", "Human Settlements", "Copernicus"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 33,
+          "title": "Global Human Settlement Layer",
+          "url": "https://www.earthdata.nasa.gov/data/projects/gpw",
+          "description": "A dataset providing information on global human settlements.",
+          "tags": ["Population", "Human Settlements", "Earth Data"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 34,
+          "title": "WorldPop",
+          "url": "https://www.worldpop.org/",
+          "description": "A platform providing high-resolution population maps.",
+          "tags": ["Population", "Mapping"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 35,
+          "title": "Mobility Database",
+          "url": "https://mobilitydatabase.org/",
+          "description": "A platform providing access to mobility-related data.",
+          "tags": ["Mobility", "Data"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 36,
+          "title": "Transit Land",
+          "url": "https://www.transit.land/",
+          "description": "A platform providing access to transit data.",
+          "tags": ["Transit", "Data"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 37,
+          "title": "SpatialHub",
+          "url": "https://spatialhub.online/",
+          "description": "A platform for sharing and discovering geospatial data.",
+          "tags": ["Geospatial", "Data"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 38,
+          "title": "Geo-AID",
+          "url": "https://geo.aiddata.org/#!/",
+          "description": "A platform for accessing and sharing geospatial data.",
+          "tags": ["Geospatial", "Data"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 39,
+          "title": "Geoportal",
+          "url": "https://www.geoportal.org/?f:dataSource=dab",
+          "description": "A platform for accessing and sharing geospatial data.",
+          "tags": ["Geospatial", "Data"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 40,
+          "title": "Free GIS Data",
+          "url": "https://freegisdata.rtwilson.com/",
+          "description": "A collection of free GIS data sources.",
+          "tags": ["GIS", "Data"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 41,
+          "title": "GeoData Gouv",
+          "url": "https://geodata.gouv.tg/",
+          "description": "A platform for accessing and sharing geospatial data in Togo.",
+          "tags": ["Geospatial", "Data", "Tile"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 42,
+          "title": "Equal Earth",
+          "url": "https://equal-earth.com/",
+          "description": "A platform for accessing and sharing geospatial data.",
+          "tags": ["Geospatial", "Data", "Tile"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 43,
+          "title": "MapTiler",
+          "url": "https://www.maptiler.com/maps/#style=streets-v2&lang=auto&mode=2d&position=4.4/42.09/12.57",
+          "description": "A platform for creating and sharing custom maps.",
+          "tags": ["Mapping", "Geospatial", "Tile"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 44,
+          "title": "OpenMapTiles",
+          "url": "https://openmaptiles.org/",
+          "description": "A platform for creating and sharing vector tiles from OpenStreetMap data.",
+          "tags": ["OpenStreetMap", "Mapping", "Data"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 45,
+          "title": "Stamen Maps",
+          "url": "https://maps.stamen.com/#terrain/12/37.7706/-122.3782",
+          "description": "A platform for creating and sharing custom maps.",
+          "tags": ["Mapping", "Geospatial", "Tile"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
         }
       ]
     },
@@ -469,6 +609,26 @@
           "download": 1,
           "download_mode": "Istant 📥",
           "stato": ["open"]
+        },
+        {
+          "id": 25,
+          "title": "MDPI - Remote Sensing",
+          "url": "https://www.mdpi.com/2072-4292/16/9/1618",
+          "description": "Landfill Landslide Probability Using SAR",
+          "tags": ["MDPI", "Remote Sensing"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        },
+        {
+          "id": 26,
+          "title": "MDPI - Remote Sensing",
+          "url": "https://www.mdpi.com/2072-4292/16/9/1611",
+          "description": "Time-Series InSAR for Land Subsidence",
+          "tags": ["MDPI", "Remote Sensing"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
         }
       ]
     },
@@ -514,6 +674,46 @@
           "tags": ["YouTube", "WFS Catasto"],
           "download": 0,
           "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 5,
+          "title": "GADM - Global Administrative Areas",
+          "url": "https://gadm.org/",
+          "description": "Database of Global Administrative Areas.",
+          "tags": ["GADM", "Administrative", "Geospatial"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 6,
+          "title": "GeoBoundaries",
+          "url": "https://www.geoboundaries.org/",
+          "description": "Global database of political and administrative boundaries.",
+          "tags": ["GeoBoundaries", "Administrative", "Geospatial"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 7,
+          "title": "Country Boundaries - Shiny App",
+          "url": "https://ualo4y-muhammad-raza.shinyapps.io/country_boundaries/",
+          "description": "Interactive app for exploring country boundaries.",
+          "tags": ["Country Boundaries", "Shiny App"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 8,
+          "title": "World Administrative Boundaries - OpenDataSoft",
+          "url": "https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/export/",
+          "description": "Download global administrative boundaries data.",
+          "tags": ["Administrative Boundaries", "Open Data"],
+          "download": 0,
+          "download_mode": "",
           "stato": ["open"]
         }
       ]
@@ -630,6 +830,76 @@
           "tags": ["Youtube", "GeoTiff"],
           "download": 0,
           "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 12,
+          "title": "AW3D30 - Global 30m Digital Elevation Model",
+          "url": "https://www.eorc.jaxa.jp/ALOS/en/dataset/aw3d30/aw3d30_e.htm",
+          "description": "AW3D30 is a global 30m digital elevation model generated from ALOS PRISM data.",
+          "tags": ["DEM", "Global", "ALOS"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        },
+        {
+          "id": 13,
+          "title": "ArcticDEM",
+          "url": "https://www.pgc.umn.edu/data/arcticdem/",
+          "description": "High-resolution digital elevation models for the Arctic region.",
+          "tags": ["DEM", "Arctic"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        },
+        {
+          "id": 14,
+          "title": "ETOPO Global Relief Model",
+          "url": "https://www.ncei.noaa.gov/products/etopo-global-relief-model",
+          "description": "Global relief model at 1 arc-minute resolution.",
+          "tags": ["DEM", "Global"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        },
+        {
+          "id": 15,
+          "title": "Bristol Data",
+          "url": "https://data.bris.ac.uk/data/dataset/25wfy0f9ukoge2gs7a5mqpq2j7",
+          "description": "Bristol's open data portal.",
+          "tags": ["Bristol", "Open Data"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        },
+        {
+          "id": 16,
+          "title": "GEBCO - General Bathymetric Chart of the Oceans",
+          "url": "https://www.gebco.net/",
+          "description": "GEBCO provides the most authoritative, publicly available bathymetric data.",
+          "tags": ["Bathymetry", "Ocean"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        },
+        {
+          "id": 17,
+          "title": "MERIT DEM",
+          "url": "https://hydro.iis.u-tokyo.ac.jp/~yamadai/MERIT_DEM/",
+          "description": "MERIT Digital Elevation Model (DEM) is a global 30m resolution DEM.",
+          "tags": ["DEM", "Global"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        },
+        {
+          "id": 18,
+          "title": "SRTM Data",
+          "url": "https://srtm.csi.cgiar.org/srtmdata/",
+          "description": "Shuttle Radar Topography Mission (SRTM) data.",
+          "tags": ["DEM", "Global"],
+          "download": 1,
+          "download_mode": "Istant 📥",
           "stato": ["open"]
         }
       ]
@@ -1240,6 +1510,72 @@
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
+        },
+        {
+          "id": 17,
+          "title": "Berkeley Earth – Global Temperature Data",
+          "url": "https://berkeleyearth.org/data/",
+          "description": "Historical global temperature datasets developed independently.",
+          "tags": [
+            "climate",
+            "temperature",
+            "Berkeley Earth",
+            "historical",
+            "data"
+          ],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 18,
+          "title": "FIRMS - Fire Information for Resource Management System",
+          "url": "https://firms.modaps.eosdis.nasa.gov/",
+          "description": "Provides near real-time active fire data.",
+          "tags": ["fire", "NASA", "MODIS"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 19,
+          "title": "HydroSHEDS - Hydrobasins",
+          "url": "https://www.hydrosheds.org/products/hydrobasins#downloads",
+          "description": "Global hydrobasins dataset for hydrological modeling.",
+          "tags": ["hydrology", "basins", "GIS"],
+          "download": 1,
+          "download_mode": "Istant 📥",
+          "stato": ["open"]
+        },
+        {
+          "id": 20,
+          "title": "Protected Planet - World Database on Protected Areas",
+          "url": "https://www.protectedplanet.net/en/thematic-areas/wdpa?tab=WDPA",
+          "description": "Global database of protected areas, including national parks and nature reserves.",
+          "tags": ["protected areas", "biodiversity", "conservation"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 21,
+          "title": "Air Quality Map",
+          "url": "https://aqicn.org/here/",
+          "description": "Galliera Veneta Air Pollution: Real-time Air Quality Index (AQI)",
+          "tags": ["Air Quality", "Mapping"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 22,
+          "title": "WorldClim - Global Climate Data",
+          "url": "https://www.worldclim.org/",
+          "description": "High-resolution global climate data for ecological modeling and GIS.",
+          "tags": ["climate", "GIS", "WorldClim"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
         }
       ]
     },
@@ -1636,6 +1972,16 @@
           "url": "https://www.ukso.org/",
           "description": "A platform providing access to soil data and information for the UK.",
           "tags": ["Soil Data", "UK", "Observatory"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 39,
+          "title": "Soil Texture - GitHub Repository",
+          "url": "https://github.com/gmassei/SoilTexture?tab=readme-ov-file",
+          "description": "A GitHub repository containing resources and information about soil texture.",
+          "tags": ["Soil Texture", "GitHub"],
           "download": 0,
           "download_mode": "",
           "stato": ["open"]

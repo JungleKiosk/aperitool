@@ -95,6 +95,11 @@ export default {
           description: "Explore APIs for geospatial data.",
         },
         {
+          title: "Google Dataset Search",
+          url: "https://datasetsearch.research.google.com/",
+          description: "A tool for discovering datasets across the web.",
+        },
+        {
           title: "Hackernoon",
           url: "https://hackernoon.com/c",
           description: "A platform for tech stories and tutorials.",
@@ -103,7 +108,7 @@ export default {
           title: "QGIS Certification",
           url: "https://certification.qgis.org/en/",
           description: "Official QGIS certification resources.",
-        }
+        },
       ],
       games: [
         {
@@ -160,6 +165,21 @@ export default {
           title: "Spatial Analysis Periodic Table",
           url: "https://gisgeography.com/spatial-analysis-periodic-table/",
           description: "A periodic table of spatial analysis techniques.",
+        },
+        {
+          title: "Arcanum Maps",
+          url: "https://maps.arcanum.com/en/",
+          description: "A platform for creating and sharing custom maps.",
+        },
+        {
+          title: "David Rumsey Map Collection",
+          url: "https://www.davidrumsey.com/",
+          description: "A collection of historical maps from around the world.",
+        },
+        {
+          title: "Library of Congress Maps",
+          url: "https://www.loc.gov/maps/",
+          description: "A collection of maps from the Library of Congress.",
         }
       ],
     };
@@ -208,6 +228,32 @@ export default {
           other practical utilities to support both fieldwork and data
           preprocessing tasks — easing pressure with survival strategies!
         </p>
+<!--         <div class="d-flex align-content-around">
+          <a target="_blank" href="https://github.com/JungleKiosk">
+            <img
+              class="icon_social"
+              src="../../assets/img/logo/github_footer.svg"
+              alt="GitHub"
+            />
+          </a>
+          <a
+            target="_blank"
+            href="https://www.linkedin.com/in/francescominutella/"
+          >
+            <img
+              class="icon_social"
+              src="../../assets/img/logo/linkedin_footer.svg"
+              alt="LinkedIn"
+            />
+          </a>
+          <a target="_blank" href="https://www.youtube.com/@JungleKiosk">
+            <img
+              class="icon_social"
+              src="../../assets/img/logo/youtube_footer.svg"
+              alt="YouTube"
+            />
+          </a>
+        </div> -->
       </div>
       <div
         class="col-12 col-lg-6 d-flex flex-wrap justify-content-center gap-3"
@@ -391,4 +437,16 @@ img {
 .pata {
   width: 40%;
 }
+
+img.icon_social {
+  width: 50%;
+  margin-bottom: 2rem;
+}
+
+@media (max-width: 786px) {
+  img.icon_social {
+    width: 50%;
+  }
+}
+
 </style>

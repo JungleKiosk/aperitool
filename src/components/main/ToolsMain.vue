@@ -96,9 +96,9 @@ export default {
         </div>
       </div>
       <div class="row">
-        <div class="category_slider_tools">
+        <div class="category_slider">
           <div class="col-12">
-            <div class="d-flex overflow-auto mb-2 p-2">
+            <div class="d-flex overflow-auto mb-2 p-2 category-slider">
               <button
                 v-for="tag in allTags"
                 :key="tag"

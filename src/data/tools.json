@@ -165,5 +165,125 @@
     "links": "https://pypi.org/project/pydsstools/",
     "tags": ["Python"],
     "filename": 0
+  },
+  {
+    "id": "22",
+    "name": "GeoAI",
+    "description": "A framework for building AI applications with geospatial data.",
+    "links": "https://github.com/opengeos/geoai",
+    "tags": ["AI", "Geospatial"],
+    "filename": 0
+  },
+  {
+    "id": "23",
+    "name": "OpenGeoAI",
+    "description": "A platform for geospatial AI applications.",
+    "links": "https://opengeoai.org/examples/instance_segmentation/",
+    "tags": ["AI", "Geospatial"],
+    "filename": 0
+  },
+  {
+    "id": "24",
+    "name": "Light Pollution Map",
+    "description": "A tool for visualizing light pollution data.",
+    "links": "https://www.lightpollutionmap.info/",
+    "tags": ["Light Pollution", "Mapping"],
+    "filename": 0
+  },
+  {
+    "id": "25",
+    "name": "Air Quality Map",
+    "description": "A tool for visualizing air quality data.",
+    "links": "https://www.iqair.com/air-quality-map",
+    "tags": ["Air Quality", "Mapping"],
+    "filename": 0
+  },
+  {
+    "id": "26",
+    "name": "OpenLandMap",
+    "description": "A tool for visualizing land cover data.",
+    "links": "https://openlandmap.org/?center=25,39&zoom=4&opacity=72&base=OpenStreetMap&layer=lc_glc.fcs30d&time=2022",
+    "tags": ["Land Cover", "Mapping"],
+    "filename": 0
+  },
+  {
+    "id": "27",
+    "name": "Geocode by Awesome Table",
+    "description": "A tool for geocoding addresses in Google Sheets.",
+    "links": "https://workspace.google.com/marketplace/app/geocode_by_awesome_table/904124517349",
+    "tags": ["Google", "Geocoding", "API"],
+    "filename": 0
+  },
+  {
+    "id": "28",
+    "name": "Google Maps Geocoding API",
+    "description": "A tool for geocoding addresses using the Google Maps API.",
+    "links": "https://developers.google.com/maps/documentation/geocoding?hl=it",
+    "tags": ["Google", "Geocoding", "API"],
+    "filename": 0
+  },
+  {
+    "id": "29",
+    "name": "Nominatim",
+    "description": "A tool for geocoding addresses using OpenStreetMap data.",
+    "links": "https://nominatim.openstreetmap.org/ui/search.html",
+    "tags": ["OpenStreetMap", "Geocoding", "API"],
+    "filename": 0
+  },
+  {
+    "id": "30",
+    "name": "OpenCage Geocoding API",
+    "description": "A tool for geocoding addresses using the OpenCage API.",
+    "links": "https://opencagedata.com/",
+    "tags": ["Geocoding", "API"],
+    "filename": 0
+  },
+  {
+    "id": "31",
+    "name": "Graphhopper",
+    "description": "A tool for routing and navigation using OpenStreetMap data.",
+    "links": "https://www.graphhopper.com/",
+    "tags": ["OpenStreetMap", "Routing", "API"],
+    "filename": 0
+  },
+  {
+    "id": "32",
+    "name": "HERE Geocoding API",
+    "description": "A tool for geocoding addresses using the HERE API.",
+    "links": "https://developer.here.com/login",
+    "tags": ["Geocoding", "API"],
+    "filename": 0
+  },
+  {
+    "id": "33",
+    "name": "OSRM",
+    "description": "A tool for routing and navigation using OpenStreetMap data.",
+    "links": "https://project-osrm.org/",
+    "tags": ["OpenStreetMap", "Routing", "API"],
+    "filename": 0
+  },
+  {
+    "id": "34",
+    "name": "OSRM",
+    "description": "A tool for routing and navigation using OpenStreetMap data.",
+    "links": "https://project-osrm.org/",
+    "tags": ["OpenStreetMap", "Routing", "API"],
+    "filename": 0
+  },
+  {
+    "id": "35",
+    "name": "Mapillary",
+    "description": "A platform for sharing and exploring street-level imagery.",
+    "links": "https://www.mapillary.com/?locale=it_IT",
+    "tags": ["Mapping", "Geospatial", "Tile"],
+    "filename": 0
+  },
+  {
+    "id": "36",
+    "name": "NYPL Digital Collections",
+    "description": "A collection of maps from the New York Public Library.",
+    "links": "https://digitalcollections.nypl.org/search/index?q=Maps",
+    "tags": ["Mapping", "Geospatial", "Tile"],
+    "filename": 0
   }
 ]

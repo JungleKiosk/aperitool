@@ -124,3 +124,14 @@ body.dark-mode .theme-button {
   font-weight: bold;
   color: $txtlight;
 }
+
+.icon_social {
+  width: 10%;
+}
+
+
+@media (max-width: 786px) {
+  .icon_social {
+    width: 20%;
+  }
+}

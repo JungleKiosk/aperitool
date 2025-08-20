@@ -9,19 +9,25 @@
 }
 
 .category-slider::-webkit-scrollbar {
-  width: 5px;
-  border-radius: 20px;
+  height: 6px; /* scroll orizzontale -> usa height */
+}
+
+.category-slider::-webkit-scrollbar-track {
+  background: transparent;
 }
 
 .category-slider::-webkit-scrollbar-thumb {
-  background-color: $notadark;
-  height: 123px;
+  background-color: $notalight_hover;
   border-radius: 20px;
 }
 
 .category-slider::-webkit-scrollbar-thumb:hover {
-  background-color: $notalight;
-  border-radius: 20px;
+  background-color: $notalight_hover_2;
+}
+
+.category-slider {
+  scrollbar-color: $notalight_hover transparent;
+  scrollbar-width: thin;
 }
 
 .tags_page.active {
