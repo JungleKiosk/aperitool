@@ -180,12 +180,20 @@ export default {
           title: "Library of Congress Maps",
           url: "https://www.loc.gov/maps/",
           description: "A collection of maps from the Library of Congress.",
-        }
+        },
       ],
     };
   },
   created() {
     this.extractCollections();
+  },
+  computed: {
+    totalLinks() {
+      return this.collections.reduce(
+        (sum, collection) => sum + collection.count,
+        0
+      );
+    },
   },
   methods: {
     trackClick(projectName, projectId) {
@@ -216,6 +224,7 @@ export default {
     <!-- Header -->
     <div class="row justify-content-center mb-5">
       <div class="col-12 col-lg-6">
+        <p class="text-center tool_count">Total links: {{ totalLinks }}</p>
         <p class="display-1 text-lg-start">Explore tools and resources</p>
         <p class="display-6 text-lg-start">
           Download ZIP with scripts and documentation
@@ -228,32 +237,6 @@ export default {
           other practical utilities to support both fieldwork and data
           preprocessing tasks — easing pressure with survival strategies!
         </p>
-<!--         <div class="d-flex align-content-around">
-          <a target="_blank" href="https://github.com/JungleKiosk">
-            <img
-              class="icon_social"
-              src="../../assets/img/logo/github_footer.svg"
-              alt="GitHub"
-            />
-          </a>
-          <a
-            target="_blank"
-            href="https://www.linkedin.com/in/francescominutella/"
-          >
-            <img
-              class="icon_social"
-              src="../../assets/img/logo/linkedin_footer.svg"
-              alt="LinkedIn"
-            />
-          </a>
-          <a target="_blank" href="https://www.youtube.com/@JungleKiosk">
-            <img
-              class="icon_social"
-              src="../../assets/img/logo/youtube_footer.svg"
-              alt="YouTube"
-            />
-          </a>
-        </div> -->
       </div>
       <div
         class="col-12 col-lg-6 d-flex flex-wrap justify-content-center gap-3"
@@ -265,7 +248,7 @@ export default {
           :to="{ path: '/links', query: { collection: item.name } }"
         >
           <h6 class="fw-bold">{{ item.name }}</h6>
-          <small class="items_links">{{ item.count }} links</small>
+          <small class="items_links">{{ item.count }}/{{ totalLinks }} links</small>
         </router-link>
       </div>
     </div>
@@ -448,5 +431,4 @@ img.icon_social {
     width: 50%;
   }
 }
-
 </style>

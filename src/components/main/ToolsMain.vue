@@ -61,7 +61,7 @@ export default {
 
         return matchesText && matchesTag && matchesDownload;
       });
-    }
+    },
   },
 };
 </script>
@@ -70,6 +70,10 @@ export default {
   <div class="container my-5">
     <div class="container_filters_tools">
       <div class="col-12 col-lg-6">
+        <!-- Conteggio Tools -->
+        <div class="mb-2 text-center tool_count">
+          Total tools: {{ filteredTools.length }} / {{ tools.length }}
+        </div>
         <div class="flex-grow-1 d-flex">
           <input
             v-model="searchQuery"
@@ -78,9 +82,7 @@ export default {
             class="form-control me-2"
             placeholder="Search..."
           />
-          <button class="btn btn_all mx-2" @click="resetAllFilters">
-            All
-          </button>
+          <button class="btn btn_all mx-2" @click="resetAllFilters">All</button>
         </div>
         <div class="form-check ms-3">
           <input
@@ -91,7 +93,7 @@ export default {
             class="form-check-input me-2"
           />
           <label for="download-only" class="form-check-label">
-            Show Only Downloadable
+            Show Only Downloadable 📦
           </label>
         </div>
       </div>

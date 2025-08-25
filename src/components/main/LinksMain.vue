@@ -34,6 +34,23 @@ export default {
       this.applyFilters(); // usa direttamente il filtro già esistente
     }
   },
+  computed: {
+    allTags() {
+      const tags = new Set();
+      this.collections.forEach((col) => {
+        col.data.forEach((item) => {
+          item.tags?.forEach((tag) => tags.add(tag.trim()));
+        });
+      });
+      return Array.from(tags);
+    },
+    totalFilteredLinks() {
+      return this.filteredCollections.reduce(
+        (sum, col) => sum + col.data.length,
+        0
+      );
+    },
+  },
   methods: {
     getTagsForOpenedCategory() {
       const group = this.groupedTags.find(
@@ -120,6 +137,11 @@ export default {
     <!-- Fixed Search and Download Filter -->
     <div class="container_filters_links">
       <div class="col-12 col-lg-6">
+        <!-- Conteggio Links -->
+        <div class="mb-2 text-center tool_count">
+          Total links: {{ totalFilteredLinks }} /
+          {{ collections.reduce((sum, col) => sum + col.data.length, 0) }}
+        </div>
         <div class="flex-grow-1 d-flex">
           <input
             v-model="searchQuery"
