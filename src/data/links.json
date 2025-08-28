@@ -453,6 +453,56 @@
           "download": 0,
           "download_mode": "",
           "stato": ["open"]
+        },
+        {
+          "id": 46,
+          "title": "GeMMA",
+          "url": "https://sinacloud.isprambiente.it/portal/apps/sites/#/miniere",
+          "description": "Georisorse minerarie d'Italia",
+          "tags": ["Geospatial", "Data"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 47,
+          "title": "QGIS Earth Engine Plugin - Downloading Images",
+          "url": "https://gee-community.github.io/qgis-earthengine-plugin/tutorials/downloading_images/",
+          "description": "A tutorial on how to download images using the QGIS Earth Engine Plugin.",
+          "tags": ["QGIS", "Earth Engine", "Tutorial"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 48,
+          "title": "QGIS Earth Engine Plugin - Building a Workflow",
+          "url": "https://gee-community.github.io/qgis-earthengine-plugin/tutorials/building_a_workflow/",
+          "description": "A tutorial on how to build a workflow using the QGIS Earth Engine Plugin.",
+          "tags": ["QGIS", "Earth Engine", "Tutorial"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 49,
+          "title": "QGIS Earth Engine Plugin - Visualizing Data",
+          "url": "https://gee-community.github.io/qgis-earthengine-plugin/tutorials/visualizing_data/",
+          "description": "A tutorial on how to visualize data using the QGIS Earth Engine Plugin.",
+          "tags": ["QGIS", "Earth Engine", "Tutorial"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 50,
+          "title": "QGIS Earth Engine Plugin - Blog",
+          "url": "https://developmentseed.org/blog/2025-08-06-qgis-plugin/",
+          "description": "A blog post about the QGIS Earth Engine Plugin.",
+          "tags": ["QGIS", "Earth Engine", "Blog"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
         }
       ]
     },
@@ -1576,6 +1626,16 @@
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
+        },
+        {
+          "id": 23,
+          "title": "Copernicus Emergency Management Service - Forest Fires",
+          "url": "https://forest-fire.emergency.copernicus.eu/",
+          "description": "Real-time information on forest fires in Europe.",
+          "tags": ["forest fires", "Copernicus"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
         }
       ]
     },
@@ -2402,6 +2462,46 @@
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
+        },
+        {
+          "id": 42,
+          "title": "How to Design Structured Database Systems Using SQL",
+          "url": "https://www.freecodecamp.org/news/how-to-design-structured-database-systems-using-sql-full-book/",
+          "description": "A comprehensive guide on designing structured database systems using SQL.",
+          "tags": ["SQL", "Database Design"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 43,
+          "title": "Leafmap - MapLibre Dashboard",
+          "url": "https://leafmap.org/maplibre/dashboard/",
+          "description": "A dashboard for visualizing geospatial data using MapLibre.",
+          "tags": ["GIS", "MapLibre", "Dashboard"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 44,
+          "title": "YouTube Video - Leafmap",
+          "url": "https://www.youtube.com/watch?v=DEPdsJdTQN8",
+          "description": "A video tutorial on using Leafmap.",
+          "tags": ["YouTube", "Leafmap"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 45,
+          "title": "Hugging Face - Leafmap Voila",
+          "url": "https://huggingface.co/spaces/giswqs/leafmap-voila",
+          "description": "A Hugging Face Space for Leafmap with Voila.",
+          "tags": ["Hugging Face", "Leafmap", "Voila"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
         }
       ]
     },
@@ -3101,6 +3201,16 @@
           "url": "https://www.youtube.com/watch?v=J2bb6wRcQiI",
           "description": "A YouTube video related to the topic.",
           "tags": ["YouTube", " Limitless Ai"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 23,
+          "title": "How Attackers Target Travelers and How to Defend Yourself",
+          "url": "https://www.freecodecamp.org/news/how-attackers-target-travelers-and-how-to-defend-yourself/",
+          "description": "Traveling is one of life’s greatest joys  –  but it also puts a big target on your back for cybercriminals.",
+          "tags": ["Cybersecurity"],
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]

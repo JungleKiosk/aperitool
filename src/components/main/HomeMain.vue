@@ -184,7 +184,7 @@ export default {
         {
           title: "Measuring the Environmental Impact of Delivering AI at Google Scale",
           url: "https://services.google.com/fh/files/misc/measuring_the_environmental_impact_of_delivering_ai_at_google_scale.pdf",
-          description: "A report on the environmental impact of AI at Google.",
+          description: "A report on the environmental impact of AI at Google: Consumption per prompt",
         }
       ],
     };
@@ -235,12 +235,12 @@ export default {
           Download ZIP with scripts and documentation
         </p>
         <p>
-          Aperitool is a versatile and growing knowledge base for data analysis
+          <strong>Aperitool</strong> is a versatile and growing knowledge base for data analysis
           in agronomy, forestry, and environmental sciences — and beyond.
           <br />
           It offers Python scripts, QGIS plugins, Audio Transcription tool and
           other practical utilities to support both fieldwork and data
-          preprocessing tasks — easing pressure with survival strategies!
+          preprocessing tasks — <strong>easing pressure with survival strategies!</strong>
         </p>
       </div>
       <div
