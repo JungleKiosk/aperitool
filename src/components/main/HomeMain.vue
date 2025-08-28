@@ -181,6 +181,11 @@ export default {
           url: "https://www.loc.gov/maps/",
           description: "A collection of maps from the Library of Congress.",
         },
+        {
+          title: "Measuring the Environmental Impact of Delivering AI at Google Scale",
+          url: "https://services.google.com/fh/files/misc/measuring_the_environmental_impact_of_delivering_ai_at_google_scale.pdf",
+          description: "A report on the environmental impact of AI at Google.",
+        }
       ],
     };
   },
@@ -224,7 +229,7 @@ export default {
     <!-- Header -->
     <div class="row justify-content-center mb-5">
       <div class="col-12 col-lg-6">
-        <p class="text-center tool_count">Total links: {{ totalLinks }}</p>
+        <p class="tool_count">Total links: {{ totalLinks }}</p>
         <p class="display-1 text-lg-start">Explore tools and resources</p>
         <p class="display-6 text-lg-start">
           Download ZIP with scripts and documentation

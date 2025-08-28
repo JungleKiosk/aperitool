@@ -4,14 +4,14 @@
     "name": "Cadastral Download Shapefile",
     "description": "Download shapefile from Cadastral Agency of Italy: one-to-one and from CSV",
     "links": "https://github.com/JungleKiosk/download_ple_x_attributo_WFS_AdE",
-    "tags": ["QGIS", "Cadastral", "CSV"],
+    "tags": ["GIS", "Cadastral", "CSV"],
     "filename": "particelleAE.zip"
   },
   {
     "id": "2",
     "name": "Extract Coordinate",
     "description": "Easily extract coordinates from Shapefiles (points, lines, polygons) into CSV format directly in QGIS",
-    "tags": ["QGIS", "CSV"],
+    "tags": ["GIS", "CSV"],
     "filename": "coordinateShape.zip"
   },
   {
@@ -19,7 +19,7 @@
     "name": "USDA Soil Texture Classifier",
     "description": "Python tool for QGIS that classifies soil samples into USDA texture classes (e.g., Clay, Sandy Loam, Silty Clay Loam) based on sand, silt, and clay percentages.",
     "links": "https://junglekiosk.github.io/QGIS_SoilTexture/",
-    "tags": ["QGIS"],
+    "tags": ["GIS"],
     "filename": "soiltext.zip"
   },
   {
@@ -99,7 +99,7 @@
     "name": "Coordinate Polygon",
     "description": "Extract coordinates from polygons in Shapefiles and export them to CSV format",
     "links": "",
-    "tags": ["QGIS", "CSV"],
+    "tags": ["GIS", "CSV"],
     "filename": "poly_coordinates.zip"
   },
   {
@@ -107,7 +107,7 @@
     "name": "Google Sheets - GIS Database Repository for Disaster Risk",
     "description": "GIS Database Repository for Disaster Risk, Emergency Response, and Resilience Planning",
     "links": "https://docs.google.com/spreadsheets/d/1HIQdo_K5F3eft_6OmWhYpVke8ZB1na5fhwlgHiPJlUo/edit?gid=732745858#gid=732745858",
-    "tags": ["QGIS", "Google"],
+    "tags": ["GIS", "Google"],
     "filename": "DisasterRiskDatabase.zip"
   },
   {
@@ -115,7 +115,7 @@
     "name": "Geocoder CartoCiudad",
     "description": "A tool for geocoding addresses in QGIS.",
     "links": "https://mappinggis.com/2025/03/geocoder-cartociudad-herramienta-para-geocodificar-en-qgis/",
-    "tags": ["QGIS"],
+    "tags": ["GIS"],
     "filename": 0
   },
   {
@@ -147,7 +147,7 @@
     "name": "Omatsuri",
     "description": "A tool for creating and managing online events.",
     "links": "https://omatsuri.app/",
-    "tags": ["Management"],
+    "tags": ["Dev"],
     "filename": 0
   },
   {
@@ -155,7 +155,7 @@
     "name": "Maps3D",
     "description": "A 3D map editor for creating and visualizing geographic data.",
     "links": "https://maps3d.io/editor",
-    "tags": ["3D Maps"],
+    "tags": ["GIS", "3D"],
     "filename": 0
   },
   {
@@ -171,7 +171,7 @@
     "name": "GeoAI",
     "description": "A framework for building AI applications with geospatial data.",
     "links": "https://github.com/opengeos/geoai",
-    "tags": ["AI", "Geospatial"],
+    "tags": ["AI", "GIS"],
     "filename": 0
   },
   {
@@ -179,7 +179,7 @@
     "name": "OpenGeoAI",
     "description": "A platform for geospatial AI applications.",
     "links": "https://opengeoai.org/examples/instance_segmentation/",
-    "tags": ["AI", "Geospatial"],
+    "tags": ["AI", "GIS"],
     "filename": 0
   },
   {
@@ -187,7 +187,7 @@
     "name": "Light Pollution Map",
     "description": "A tool for visualizing light pollution data.",
     "links": "https://www.lightpollutionmap.info/",
-    "tags": ["Light Pollution", "Mapping"],
+    "tags": ["DB"],
     "filename": 0
   },
   {
@@ -195,7 +195,7 @@
     "name": "Air Quality Map",
     "description": "A tool for visualizing air quality data.",
     "links": "https://www.iqair.com/air-quality-map",
-    "tags": ["Air Quality", "Mapping"],
+    "tags": ["DB"],
     "filename": 0
   },
   {
@@ -203,7 +203,7 @@
     "name": "OpenLandMap",
     "description": "A tool for visualizing land cover data.",
     "links": "https://openlandmap.org/?center=25,39&zoom=4&opacity=72&base=OpenStreetMap&layer=lc_glc.fcs30d&time=2022",
-    "tags": ["Land Cover", "Mapping"],
+    "tags": ["DB"],
     "filename": 0
   },
   {
@@ -227,7 +227,7 @@
     "name": "Nominatim",
     "description": "A tool for geocoding addresses using OpenStreetMap data.",
     "links": "https://nominatim.openstreetmap.org/ui/search.html",
-    "tags": ["OpenStreetMap", "Geocoding", "API"],
+    "tags": ["Geocoding", "API"],
     "filename": 0
   },
   {
@@ -243,7 +243,7 @@
     "name": "Graphhopper",
     "description": "A tool for routing and navigation using OpenStreetMap data.",
     "links": "https://www.graphhopper.com/",
-    "tags": ["OpenStreetMap", "Routing", "API"],
+    "tags": ["API"],
     "filename": 0
   },
   {
@@ -259,7 +259,7 @@
     "name": "OSRM",
     "description": "A tool for routing and navigation using OpenStreetMap data.",
     "links": "https://project-osrm.org/",
-    "tags": ["OpenStreetMap", "Routing", "API"],
+    "tags": [ "API"],
     "filename": 0
   },
   {
@@ -267,7 +267,7 @@
     "name": "OSRM",
     "description": "A tool for routing and navigation using OpenStreetMap data.",
     "links": "https://project-osrm.org/",
-    "tags": ["OpenStreetMap", "Routing", "API"],
+    "tags": [ "API"],
     "filename": 0
   },
   {
@@ -275,7 +275,7 @@
     "name": "Mapillary",
     "description": "A platform for sharing and exploring street-level imagery.",
     "links": "https://www.mapillary.com/?locale=it_IT",
-    "tags": ["Mapping", "Geospatial", "Tile"],
+    "tags": ["Tile"],
     "filename": 0
   },
   {
@@ -283,7 +283,7 @@
     "name": "NYPL Digital Collections",
     "description": "A collection of maps from the New York Public Library.",
     "links": "https://digitalcollections.nypl.org/search/index?q=Maps",
-    "tags": ["Mapping", "Geospatial", "Tile"],
+    "tags": ["Tile"],
     "filename": 0
   }
 ]
