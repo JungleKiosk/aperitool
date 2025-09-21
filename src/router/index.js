@@ -1,6 +1,7 @@
 import { createRouter, createWebHistory } from "vue-router";
 
 import home from "../views/Home.vue";
+import formulas from "../components/Formulas.vue";
 import tools from "../components/main/ToolsMain.vue";
 import links from "../components/main/LinksMain.vue";
 
@@ -11,6 +12,11 @@ const router = createRouter({
       path: "/",
       name: "home",
       component: home,
+    },
+    {
+      path: "/formulas",
+      name: "formulas",
+      component: formulas,
     },
     {
       path: "/tools",
@@ -24,7 +30,7 @@ const router = createRouter({
     },
   ],
   scrollBehavior(to, from, savedPosition) {
-    return { top: 0, behavior: 'instant' };
+    return { top: 0, behavior: "instant" };
   },
 });
 

@@ -503,6 +503,86 @@
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
+        },
+        {
+          "id": 51,
+          "title": "QGIS Earth Engine Plugin - Building a Workflow",
+          "url": "https://gee-community.github.io/qgis-earthengine-plugin/tutorials/building_a_workflow/",
+          "description": "A tutorial on how to build a workflow using the QGIS Earth Engine Plugin.",
+          "tags": ["QGIS", "Earth Engine", "Tutorial"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 52,
+          "title": "QGIS Earth Engine Plugin - dashboard with Python and Leafmap",
+          "url": "https://youtube.com/watch?v=DEPdsJdTQN8&feature=youtu.be",
+          "description": "Try out the dashboard on Hugging Face: https://lnkd.in/e9WF4q2h Explore the Jupyter Notebook: https://lnkd.in/eufmY5re",
+          "tags": ["QGIS", "Earth Engine", "YouTube"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 53,
+          "title": "Reporters Without Borders",
+          "url": "https://rsf.org/en/index",
+          "description": "Reporters Without Borders (RSF) is an international non-profit organization that defends the freedom to inform and the freedom of the press.",
+          "tags": ["RSF", "Press Freedom"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 54,
+          "title": "Ondata Newsletter",
+          "url": "https://ondata.substack.com/p/associazione-ondata-newsletter-36?triedRedirect=true",
+          "description": "Newsletter Ondata",
+          "tags": ["Ondata", "Newsletter"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 55,
+          "title": "Leafmap - Google Earth",
+          "url": "https://leafmap.org/maplibre/google_earth/",
+          "description": "A tutorial on how to use Leafmap with Google Earth. video: https://www.youtube.com/watch?v=UqY9Ojrgg6s",
+          "tags": ["Leafmap", "Google Earth", "Tutorial"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 56,
+          "title": "Copernicus Connect v0.8",
+          "url": "https://land.copernicus.eu/en/news/copernicus-connect-v0-8-is-officially-live-on-qgis",
+          "description": "Copernicus Connect v0.8 is officially live on QGIS.",
+          "tags": ["Copernicus", "QGIS"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 57,
+          "title": "AutoGIS Documentation",
+          "url": "https://autogis-site.readthedocs.io/en/latest/",
+          "description": "Documentation for the AutoGIS course.",
+          "tags": ["AutoGIS", "Documentation"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 58,
+          "title": "GeoAssist",
+          "url": "https://github.com/PCleverleyGeol/GeoAssist---An-open-source-autonomous-research-agent-for-geoscience-data-and-literature.",
+          "description": "An open-source autonomous research agent for geoscience data and literature.",
+          "tags": ["GeoAssist", "Open Source", "Geoscience"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
         }
       ]
     },
@@ -764,6 +844,16 @@
           "tags": ["Administrative Boundaries", "Open Data"],
           "download": 0,
           "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 9,
+          "title": "Sezioni Urbane - Catasto",
+          "url": "https://zornade.com/blog/sezioni-urbane-catasto-download-gratuito-pulite",
+          "description": "Download gratuito delle sezioni urbane del catasto.",
+          "tags": ["Catasto", "Sezioni Urbane"],
+          "download": 0,
+          "download_mode": "N/A",
           "stato": ["open"]
         }
       ]
@@ -2045,6 +2135,66 @@
           "download": 0,
           "download_mode": "",
           "stato": ["open"]
+        },
+        {
+          "id": 40,
+          "title": "European Soil Regions",
+          "url": "https://data.europa.eu/data/datasets/ae71ffee-1ae9-4624-ae3f-f49513fe9dcb?locale=en",
+          "description": "Access to a wide range of Soil Regions across Europe.",
+          "tags": ["Soil Regions", "Europe"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 41,
+          "title": "ISRIC - World Soil Information",
+          "url": "https://www.isric.org/",
+          "description": "ISRIC - World Soil Information is a global center for soil-related data and information.",
+          "tags": ["Soil Data", "ISRIC"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 42,
+          "title": "SoilGrids - Global Soil Information",
+          "url": "https://ncss-tech.github.io/soilDB/reference/fetchSoilGrids.html",
+          "description": "Get SoilGrids 2.0 Property Estimates for Points or Spatial Extent",
+          "tags": ["Soil Data", "Global"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 43,
+          "title": "SoilGrids - Soil Information",
+          "url": "https://www.isric.org/explore/soilgrids/soilgrids-access",
+          "description": "WebDAV: direct access to SoilGrids maps in VRT format",
+          "tags": ["Soil Data", "Global"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 44,
+          "title": "ISRIC - Soil Data",
+          "url": "https://data.isric.org/geonetwork/srv/ita/catalog.search#/home",
+          "description": "Access to a wide range of Soil Data provided by ISRIC - World Soil Information.",
+          "tags": ["Soil Data", "ISRIC"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
+        },
+        {
+          "id": 45,
+          "title": "What is SoilGrids?",
+          "url": "https://www.isric.org/explore/soilgrids/faq-soilgrids#What_is_SoilGrids",
+          "description": "Learn about SoilGrids and its applications.",
+          "tags": ["Soil Data", "ISRIC"],
+          "download": 0,
+          "download_mode": "",
+          "stato": ["open"]
         }
       ]
     },
@@ -2212,12 +2362,11 @@
           "download_mode": "N/A",
           "stato": ["open"]
         },
-
         {
           "id": 17,
-          "title": "",
+          "title": "Quick Reference",
           "url": "https://quickref.me/",
-          "description": "",
+          "description": "A quick reference guide for web developers.",
           "tags": ["Frontend", "Mentorship"],
           "download": 0,
           "download_mode": "N/A",
@@ -2495,10 +2644,70 @@
         },
         {
           "id": 45,
-          "title": "Hugging Face - Leafmap Voila",
-          "url": "https://huggingface.co/spaces/giswqs/leafmap-voila",
-          "description": "A Hugging Face Space for Leafmap with Voila.",
-          "tags": ["Hugging Face", "Leafmap", "Voila"],
+          "title": "DB build",
+          "url": "https://database.build/",
+          "description": "",
+          "tags": ["DB"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 46,
+          "title": "Roadmap.sh",
+          "url": "https://roadmap.sh/",
+          "description": "A visual guide to help you learn and master web development.",
+          "tags": ["Roadmap", "Web Development"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 47,
+          "title": "Splide.js",
+          "url": "https://splidejs.com/",
+          "description": "A lightweight and flexible slider library.",
+          "tags": ["JavaScript", "Slider"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 48,
+          "title": "Cursor Effects",
+          "url": "https://github.com/tholman/cursor-effects",
+          "description": "A collection of fun and interesting cursor effects.",
+          "tags": ["JavaScript", "Cursor Effects"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 49,
+          "title": "FossFLOW",
+          "url": "https://github.com/stan-smith/FossFLOW",
+          "description": "A framework for building and deploying geospatial applications.",
+          "tags": ["Framework"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 50,
+          "title": "Driver.js",
+          "url": "https://driverjs.com/",
+          "description": "A JavaScript library for creating guided tours.",
+          "tags": ["JavaScript", "Guided Tours"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 51,
+          "title": "AutoKitteh",
+          "url": "https://autokitteh.com/?utm_term=best%20ipaas%20software&utm_campaign=iPaaS_tier1&utm_source=adwords&utm_medium=ppc&hsa_acc=1777010080&hsa_cam=22321745718&hsa_grp=176137600013&hsa_ad=738096578067&hsa_src=g&hsa_tgt=kwd-759359776495&hsa_kw=best%20ipaas%20software&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=22321745718&gbraid=0AAAAA-Zr2hK0T5yWGEv8bCNlRgDf8XYJG&gclid=Cj0KCQjwxL7GBhDXARIsAGOcmIO4bJUfV1M_rZAnVjX_0NHhF5iU6CKxxRPfT5YU-JsRql-Nkc_TR2AaAnfyEALw_wcB",
+          "description": "A platform for iPaaS solutions.",
+          "tags": ["iPaaS", "Integration"],
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
@@ -3211,6 +3420,16 @@
           "url": "https://www.freecodecamp.org/news/how-attackers-target-travelers-and-how-to-defend-yourself/",
           "description": "Traveling is one of life’s greatest joys  –  but it also puts a big target on your back for cybercriminals.",
           "tags": ["Cybersecurity"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 24,
+          "title": "Limitless AI - YouTube",
+          "url": "https://www.youtube.com/watch?v=p8Lyb-oBCDk",
+          "description": "A YouTube video related to the topic.",
+          "tags": ["YouTube", "Limitless AI"],
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]

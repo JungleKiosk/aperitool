@@ -259,7 +259,7 @@
     "name": "OSRM",
     "description": "A tool for routing and navigation using OpenStreetMap data.",
     "links": "https://project-osrm.org/",
-    "tags": [ "API"],
+    "tags": ["API"],
     "filename": 0
   },
   {
@@ -267,7 +267,7 @@
     "name": "OSRM",
     "description": "A tool for routing and navigation using OpenStreetMap data.",
     "links": "https://project-osrm.org/",
-    "tags": [ "API"],
+    "tags": ["API"],
     "filename": 0
   },
   {
@@ -284,6 +284,46 @@
     "description": "A collection of maps from the New York Public Library.",
     "links": "https://digitalcollections.nypl.org/search/index?q=Maps",
     "tags": ["Tile"],
+    "filename": 0
+  },
+  {
+    "id": "37",
+    "name": "Copernicus Connect",
+    "description": "A QGIS plugin for accessing Copernicus data.",
+    "links": "https://plugins.qgis.org/plugins/Copernicus_Connect/#plugin-about",
+    "tags": ["GIS"],
+    "filename": 0
+  },
+  {
+    "id": "38",
+    "name": "Global Soil Map Specifications",
+    "description": "Specifications for the Global Soil Map project.",
+    "links": "https://www.isric.org/sites/default/files/GlobalSoilMap_specifications_december_2015_2.pdf",
+    "tags": ["Soil Mapping"],
+    "filename": 0
+  },
+  {
+    "id": "39",
+    "name": "SoilGrids Legends",
+    "description": "Legends for SoilGrids data layers.",
+    "links": "https://files.isric.org/soilgrids/latest/legends/",
+    "tags": ["Soil Mapping"],
+    "filename": 0
+  },
+  {
+    "id": "40",
+    "name": "Lucidchart",
+    "description": "A web-based diagramming tool.",
+    "links": "https://www.lucidchart.com/pages/landing/mind-map-software?utm_source=google&utm_medium=cpc&utm_campaign=_chart_en_tier1_mixed_pmax_nb_&km_CPC_CampaignId=20952442791&km_CPC_AdGroupID=&km_CPC_Keyword=&km_CPC_MatchType=&km_CPC_ExtensionID=&km_CPC_Network=x&km_CPC_AdPosition=&km_CPC_Creative=&km_CPC_TargetID=&km_CPC_Country=1008463&km_CPC_Device=c&km_CPC_placement=&km_CPC_target=&gad_source=1&gad_campaignid=20958821711&gbraid=0AAAAADLdSjD4DmLPKF8gF4DhvKceKkrgP&gclid=Cj0KCQjwxL7GBhDXARIsAGOcmIPRNRA2O2NLY6aEZuhosX4TkUEe78RD_hDEQCn1NRUeVBcHn9qbLrIaAn85EALw_wcB",
+    "tags": ["Dev"],
+    "filename": 0
+  },
+  {
+    "id": "41",
+    "name": "NotebookLM",
+    "description": "AI tool by Google",
+    "links": "https://notebooklm.google.com/?original_referer=https:%2F%2Fwww.google.com%23&pli=1",
+    "tags": ["AI"],
     "filename": 0
   }
 ]

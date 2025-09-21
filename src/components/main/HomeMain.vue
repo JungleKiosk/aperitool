@@ -185,6 +185,16 @@ export default {
           title: "Measuring the Environmental Impact of Delivering AI at Google Scale",
           url: "https://services.google.com/fh/files/misc/measuring_the_environmental_impact_of_delivering_ai_at_google_scale.pdf",
           description: "A report on the environmental impact of AI at Google: Consumption per prompt",
+        },
+        {
+          title: "Ondata Newsletter",
+          url: "https://ondata.substack.com/p/associazione-ondata-newsletter-36?triedRedirect=true",
+          description: "Newsletter Ondata",
+        },
+        {
+          title: "Calcolo Effetto Smart Working",
+          url: "https://techcompenso.com/calcolo-effetto-smart-working",
+          description: "A tool for calculating the impact of smart working.",
         }
       ],
     };
@@ -242,7 +252,8 @@ export default {
           other practical utilities to support both fieldwork and data
           preprocessing tasks — <strong>easing pressure with survival strategies!</strong>
         </p>
-      </div>
+<!--         <router-link to="/formulas" class="btn btn_fr mt-3">About Aperitools</router-link>
+ -->      </div>
       <div
         class="col-12 col-lg-6 d-flex flex-wrap justify-content-center gap-3"
       >
