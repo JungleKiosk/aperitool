@@ -1,13 +1,13 @@
 <script>
-import lang from "../partials/LangSwitcher.vue"
+import lang from "../partials/LangSwitcher.vue";
 export default {
   name: "Navbar",
   components: {
-    lang
+    lang,
   },
   data() {
     return {
-      isDarkMode: false
+      isDarkMode: false,
     };
   },
   mounted() {
@@ -17,19 +17,28 @@ export default {
   methods: {
     checkTheme() {
       const currentTheme = localStorage.getItem("theme");
+      if (!currentTheme) {
+        currentTheme = "light-mode";
+        localStorage.setItem("theme", currentTheme);
+      }
       this.isDarkMode = currentTheme === "dark-mode";
+      // Applica la classe al body
+      document.body.classList.toggle("dark-mode", this.isDarkMode);
+      document.body.classList.toggle("light-mode", !this.isDarkMode);
     },
     syncTheme() {
       this.checkTheme();
     },
     toggleTheme() {
       this.isDarkMode = !this.isDarkMode;
-      localStorage.setItem("theme", this.isDarkMode ? "dark-mode" : "light-mode");
+      localStorage.setItem(
+        "theme",
+        this.isDarkMode ? "dark-mode" : "light-mode"
+      );
       document.body.classList.toggle("dark-mode", this.isDarkMode);
       document.body.classList.toggle("light-mode", !this.isDarkMode);
-
-    }
-  }
+    },
+  },
 };
 </script>
 
@@ -41,13 +50,12 @@ export default {
       <li><router-link to="/links">Links</router-link></li>
       <li>
         <!-- ✅ Bottone per cambiare tema -->
-        <button @click="toggleTheme" class="btn_mood rounded-5">
-          {{ isDarkMode ? 'Dark' : 'Light' }}
+
+        <button @click="toggleTheme" class="btn btn-sm border-0">
+          <span v-if="isDarkMode"> 🌙</span>
+          <span v-else>☀️</span>
         </button>
       </li>
-<!--       <li>
-        <lang></lang>
-      </li> -->
     </ul>
   </nav>
 </template>
