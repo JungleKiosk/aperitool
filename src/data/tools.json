@@ -25,10 +25,10 @@
   {
     "id": "4",
     "name": "SoilGrids Global Soil Data",
-    "description": "SoilGrids provides global soil property maps based on machine learning models, offering predictions for sand, silt, clay content, pH, organic carbon, and more at multiple depths.",
+    "description": "Download SoilGrids data provides global soil property maps based on machine learning models, offering predictions for sand, silt, clay content, pH, organic carbon, and more at multiple depths.",
     "links": "https://soilgrids.org/",
     "tags": ["Soil Mapping"],
-    "filename": 0
+    "filename": "soilgrid_italy.zip"
   },
   {
     "id": "5",
@@ -325,5 +325,13 @@
     "links": "https://notebooklm.google.com/?original_referer=https:%2F%2Fwww.google.com%23&pli=1",
     "tags": ["AI"],
     "filename": 0
+  },
+    {
+    "id": "42",
+    "name": "from GPKG to CSV",
+    "description": "Convert GPKG files to CSV format",
+    "links": "https://notebooklm.google.com/?original_referer=https:%2F%2Fwww.google.com%23&pli=1",
+    "tags": ["GIS", "CSV"],
+    "filename": "gpkg_to_csv.zip"
   }
 ]

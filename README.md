@@ -6,11 +6,16 @@
 
 It includes:
 
+
+
+
 - 🐍 Python scripts
 - 🗺️ QGIS plugins and processing tools
 - 📦 Downloadable shapefiles and geodata
 - 📄 Document converters and utilities
 - 🧪 Tools for fieldwork, data cleaning, and survival strategies
+
+
 
 
 

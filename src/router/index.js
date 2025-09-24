@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from "vue-router";
 
 import home from "../views/Home.vue";
-import formulas from "../components/Formulas.vue";
+import linkedin_pages from "../components/linkedin_pages.vue";
 import tools from "../components/main/ToolsMain.vue";
 import links from "../components/main/LinksMain.vue";
 
@@ -14,9 +14,9 @@ const router = createRouter({
       component: home,
     },
     {
-      path: "/formulas",
-      name: "formulas",
-      component: formulas,
+      path: "/linkedin_pages",
+      name: "linkedin_pages",
+      component: linkedin_pages,
     },
     {
       path: "/tools",

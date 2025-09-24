@@ -2711,6 +2711,16 @@
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
+        },
+        {
+          "id": 52,
+          "title": "Sal.js",
+          "url": "https://mciastek.github.io/sal/",
+          "description": "A simple library for creating scroll animations.",
+          "tags": ["JavaScript", "Scroll Animations"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
         }
       ]
     },

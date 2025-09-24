@@ -182,9 +182,11 @@ export default {
           description: "A collection of maps from the Library of Congress.",
         },
         {
-          title: "Measuring the Environmental Impact of Delivering AI at Google Scale",
+          title:
+            "Measuring the Environmental Impact of Delivering AI at Google Scale",
           url: "https://services.google.com/fh/files/misc/measuring_the_environmental_impact_of_delivering_ai_at_google_scale.pdf",
-          description: "A report on the environmental impact of AI at Google: Consumption per prompt",
+          description:
+            "A report on the environmental impact of AI at Google: Consumption per prompt",
         },
         {
           title: "Ondata Newsletter",
@@ -195,7 +197,7 @@ export default {
           title: "Calcolo Effetto Smart Working",
           url: "https://techcompenso.com/calcolo-effetto-smart-working",
           description: "A tool for calculating the impact of smart working.",
-        }
+        },
       ],
     };
   },
@@ -245,15 +247,19 @@ export default {
           Download ZIP with scripts and documentation
         </p>
         <p>
-          <strong>Aperitool</strong> is a versatile and growing knowledge base for data analysis
-          in agronomy, forestry, and environmental sciences — and beyond.
+          <strong>Aperitool</strong> is a versatile and growing knowledge base
+          for data analysis in agronomy, forestry, and environmental sciences —
+          and beyond.
           <br />
           It offers Python scripts, QGIS plugins, Audio Transcription tool and
           other practical utilities to support both fieldwork and data
-          preprocessing tasks — <strong>easing pressure with survival strategies!</strong>
+          preprocessing tasks —
+          <strong>easing pressure with survival strategies!</strong>
         </p>
-<!--         <router-link to="/formulas" class="btn btn_fr mt-3">About Aperitools</router-link>
- -->      </div>
+        <router-link to="/linkedin_pages" class="btn btn_fr m-3"
+          >Linkedin pages</router-link
+        >
+      </div>
       <div
         class="col-12 col-lg-6 d-flex flex-wrap justify-content-center gap-3"
       >
@@ -264,7 +270,9 @@ export default {
           :to="{ path: '/links', query: { collection: item.name } }"
         >
           <h6 class="fw-bold">{{ item.name }}</h6>
-          <small class="items_links">{{ item.count }}/{{ totalLinks }} links</small>
+          <small class="items_links"
+            >{{ item.count }}/{{ totalLinks }} links</small
+          >
         </router-link>
       </div>
     </div>
