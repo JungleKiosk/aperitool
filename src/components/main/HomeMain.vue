@@ -256,7 +256,7 @@ export default {
           preprocessing tasks —
           <strong>easing pressure with survival strategies!</strong>
         </p>
-        <router-link to="/linkedin_pages" class="btn btn_fr m-3"
+        <router-link to="/linkedin_pages" class="btn btn_fr y-3"
           >Linkedin pages</router-link
         >
       </div>

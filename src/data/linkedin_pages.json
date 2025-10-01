@@ -31,7 +31,7 @@
   },
   {
     "title": "GeoSmartCampus",
-    "type": "Newsletter",
+    "type": "Company",
     "url": "https://www.linkedin.com/company/geosmartcampus/posts/?feedView=all"
   },
   {
@@ -43,5 +43,35 @@
     "title": "Remote Sensing - MDPI",
     "type": "Group",
     "url": "https://www.linkedin.com/groups/8825413/"
+  },
+  {
+    "title": "GeoRetina",
+    "type": "Company",
+    "url": "https://www.linkedin.com/company/georetina/"
+  },
+  {
+    "title": "GeeksforGeeks",
+    "type": "Company",
+    "url": "https://www.linkedin.com/company/geeksforgeeks/posts/?feedView=all"
+  },
+  {
+    "title": "W3Schools",
+    "type": "Company",
+    "url": "https://www.linkedin.com/company/w3schools.com/posts/?feedView=all"
+  },
+  {
+    "title": "MS Excel and VBA macros",
+    "type": "Group",
+    "url": "https://www.linkedin.com/groups/1871310/?highlightedUpdateUrn=urn%3Ali%3AgroupPost%3A1871310-7376482776696434688&q=highlightedFeedForGroups"
+  },
+  {
+    "title": "GeoPops",
+    "type": "Company",
+    "url": "https://www.linkedin.com/company/geopop/posts/?feedView=all"
+  },
+  {
+    "title": "Griddit",
+    "type": "Company",
+    "url": "https://www.linkedin.com/company/griddit/"
   }
 ]

@@ -333,5 +333,29 @@
     "links": "https://notebooklm.google.com/?original_referer=https:%2F%2Fwww.google.com%23&pli=1",
     "tags": ["GIS", "CSV"],
     "filename": "gpkg_to_csv.zip"
+  },
+  {
+    "id": "43",
+    "name": "GitHub Copilot CLI",
+    "description": "AI-powered code completion for the command line.",
+    "links": "https://github.com/github/copilot-cli",
+    "tags": ["AI", "Dev"],
+    "filename": 0
+  },
+  {
+    "id": "44",
+    "name": "Chat GPS",
+    "description": "Chatbot for GPS and mapping queries.",
+    "links": "https://chromewebstore.google.com/detail/chat-gps-chat-outline-for/apekbedjllgmacohbcckgipfhjddehkf?hl=it",
+    "tags": ["AI"],
+    "filename": 0
+  },
+  {
+    "id": "45",
+    "name": "Anthropic Claude Sonnet 4.5",
+    "description": "AI model by Anthropic.",
+    "links": "https://github.blog/changelog/2025-09-29-anthropic-claude-sonnet-4-5-is-in-public-preview-for-github-copilot/",
+    "tags": ["AI"],
+    "filename": 0
   }
 ]

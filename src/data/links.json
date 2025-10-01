@@ -583,6 +583,56 @@
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
+        },
+        {
+          "id": 59,
+          "title": "GeoAI for Earth Observation",
+          "url": "https://youtu.be/UHjUoQSdUxg?si=OIuDgrAcL7mfoDuj",
+          "description": "Visualizing Mapillary Street-level Images with Leafmap and MapLibre. code: https://leafmap.org/maplibre/mapillary/",
+          "tags": ["GeoAI", "Earth Observation", "YouTube"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 60,
+          "title": "GeoAI for Earth Observation",
+          "url": "https://youtu.be/UHjUoQSdUxg?si=OIuDgrAcL7mfoDuj",
+          "description": "Visualizing Mapillary Street-level Images with Leafmap and MapLibre. code: https://leafmap.org/maplibre/mapillary/",
+          "tags": ["GeoAI", "Earth Observation", "YouTube"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 61,
+          "title": "GeoAI for Earth Observation",
+          "url": "https://www.youtube.com/watch?v=F92_cjf7p_s&feature=youtu.be",
+          "description": "Visualizing Flight Routes with ArcLayer. code: https://leafmap.org/maplibre/arc_layer/",
+          "tags": ["GeoAI", "Earth Observation", "YouTube"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 62,
+          "title": "Arborisk",
+          "url": "https://www.aliasinfo.it/arborisk_home/",
+          "description": "A platform for forest monitoring and management.",
+          "tags": ["Forestry", "Monitoring"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 63,
+          "title": "QGIS - Personalizzare le Basemaps Vector Tile Video",
+          "url": "https://youtu.be/sLboNY-o1o4?si=wNaNupmySGJa8k9K",
+          "description": "A video introduction to customizing vector tile basemaps in QGIS.",
+          "tags": ["QGIS", "Vector Tiles", "YouTube"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
         }
       ]
     },
