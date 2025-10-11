@@ -167,7 +167,7 @@ export default {
             class="form-check-input me-2"
           />
           <label for="download-only" class="form-check-label">
-            Show Only Downloadable
+            Show Only Downloadable 📦
           </label>
         </div>
         <!-- Collection Filter -->

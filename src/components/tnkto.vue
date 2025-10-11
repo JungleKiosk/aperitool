@@ -46,7 +46,7 @@ export default {
 
 <template>
   <div class="container my-5">
-    <h1 class="mb-4">Many Thanks 🍉</h1>
+    <h1 class="mb-4">Many Thanks 💛</h1>
     <p>
       This page is a small tribute to the amazing LinkedIn community for all the
       shared resources. <br>
@@ -85,12 +85,12 @@ export default {
     </div> -->
 
     <!-- Tabella -->
-    <div class="table-responsive">
+    <div class="table-responsive ">
       <table class="table table-striped table-bordered">
         <thead class="table-light">
           <tr>
             <th scope="col">Name</th>
-            <th scope="col">Topic</th>
+            <th scope="col">Collections</th>
           </tr>
         </thead>
         <tbody>

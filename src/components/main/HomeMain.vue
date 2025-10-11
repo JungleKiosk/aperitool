@@ -264,7 +264,7 @@ export default {
         >
       </div>
       <div
-        class="col-12 col-lg-6 d-flex flex-wrap justify-content-center gap-3"
+        class="col-12 col-lg-6 d-flex flex-wrap justify-content-center gap-3 mt-3"
       >
         <router-link
           class="collection-card col-3 text-center text-decoration-none p-2"
