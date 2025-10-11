@@ -46,7 +46,7 @@ export default {
 
 <template>
   <div class="container my-5">
-    <h1 class="mb-4">LinkedIn Groups and Newsletters</h1>
+    <h1 class="mb-4">LinkedIn pages</h1>
 
     <!-- Filtro + Ricerca -->
     <div class="row container_filters_tools">
