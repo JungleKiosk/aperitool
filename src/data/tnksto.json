@@ -1,0 +1,47 @@
+[
+    {
+      "name": "Andrea Borruso",
+      "categories": ["GIS", "Dev", "Cadastral"]
+    },
+    {
+      "name": "Beau Carnes",
+      "categories": ["Dev", "Nerdy"]
+    },
+    {
+      "name": "Bella Mironova",
+      "categories": ["GIS", "Cadastral"]
+    },
+    {
+      "name": "Datapizza",
+      "categories": ["Dev", "AI", "Nerdy"]
+    },
+    {
+      "name": "Girolamo Marsilio",
+      "categories": ["GIS", "Dev", "Nerdy"]
+    },
+    {
+      "name": "Juan Javier Santos Ochoa",
+      "categories": ["GIS", "Dev"]
+    },
+    {
+      "name": "Paolo Brunello",
+      "categories": ["GIS"]
+    },
+    {
+      "name": "Qiusheng Wu",
+      "categories": ["GIS", "Dev"]
+    },
+    {
+      "name": "Ram Maheshwari",
+      "categories": ["Dev", "AI", "Nerdy"]
+    },
+    {
+      "name": "Salavatore Fiandaca",
+      "categories": ["GIS", "Dev", "Cadastral"]
+    },
+    {
+      "name": "Tek Kshetri",
+      "categories": ["GIS", "Dev"]
+    }
+  ]
+  

@@ -2,6 +2,7 @@ import { createRouter, createWebHistory } from "vue-router";
 
 import home from "../views/Home.vue";
 import linkedin_pages from "../components/linkedin_pages.vue";
+import tnkto from "../components/tnkto.vue";
 import tools from "../components/main/ToolsMain.vue";
 import links from "../components/main/LinksMain.vue";
 
@@ -17,6 +18,11 @@ const router = createRouter({
       path: "/linkedin_pages",
       name: "linkedin_pages",
       component: linkedin_pages,
+    },
+    {
+      path: "/tnkto",
+      name: "tnkto",
+      component: tnkto,
     },
     {
       path: "/tools",

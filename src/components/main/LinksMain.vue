@@ -189,7 +189,7 @@ export default {
       </div>
 
       <!-- Category Slider -->
-      <div class="row">
+      <!-- <div class="row">
         <div class="col-12 filter-slider">
           <div class="category-slider d-flex overflow-auto p-2">
             <span>Tags:</span>
@@ -203,7 +203,7 @@ export default {
             </button>
           </div>
         </div>
-      </div>
+      </div> -->
     </div>
     <div class="row mt-5">
       <!-- Collections and Cards -->

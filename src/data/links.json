@@ -905,6 +905,16 @@
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
+        },
+        {
+          "id": 10,
+          "title": "MDPI - Remote Sensing",
+          "url": "https://www.mdpi.com/2072-4292/16/13/2291?utm_medium=social_journ&utm_campaign=remotesensing&utm_source=linkedin",
+          "description": "Predicting Urban Trees’ Functional Trait Responses to Heat Using Reflectance Spectroscopy",
+          "tags": ["Urban"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
         }
       ]
     },
@@ -2771,6 +2781,16 @@
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
+        },
+        {
+          "id": 53,
+          "title": "Data visualisation",
+          "url": "https://data.europa.eu/en/news-events/events/training-data-visualisation-session-1-foundations-effective-data-visualisation",
+          "description": "Training series 'Visualising data with impact': foundations of effective data visualisation",
+          "tags": ["Dev", "Data"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
         }
       ]
     },
@@ -3247,7 +3267,18 @@
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
+        },
+        {
+          "id": 48,
+          "title": "span AI detector",
+          "url": "https://www.span.app/detector",
+          "description": "Detect AI-generated code regardless of its source",
+          "tags": ["AI"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
         }
+        
       ]
     },
     {
@@ -3493,7 +3524,39 @@
           "download": 0,
           "download_mode": "N/A",
           "stato": ["open"]
+        },
+        {
+          "id": 25,
+          "title": "Handy",
+          "url": "https://handy.computer/",
+          "description": "speak into any text field",
+          "tags": ["text"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 26,
+          "title": "SIMPSON API",
+          "url": "https://thesimpsonsapi.com/",
+          "description": "The RESTful API for The Simpsons universe",
+          "tags": ["API"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
+        },
+        {
+          "id": 27,
+          "title": "Awesome GitHub Profile",
+          "url": "https://zzetao.github.io/awesome-github-profile/",
+          "description": "https://github.com/zzetao/awesome-github-profile?tab=readme-ov-file",
+          "tags": ["GitHub"],
+          "download": 0,
+          "download_mode": "N/A",
+          "stato": ["open"]
         }
+
+        
       ]
     }
   ]
